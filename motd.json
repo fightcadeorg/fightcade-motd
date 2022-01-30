@@ -1,0 +1,737 @@
+{
+  "fightcadevids": "Submit your replays for video encoding: https://fightcadevids.com/submit\n",
+  "games": [
+    {
+      "gameid": "ssf2xjr1",
+      "motd": "You can select stage using Coin button over character in Character Select Screen\n\nGoukiPedia: http://www.goukipedia.com\nST Revival: https://www.strevival.com\nSRK Wiki: https://wiki.supercombo.gg/w/Super_Street_Fighter_2_Turbo\nF101: https://fighter101.com/main/super-street-fighter-2-turbo-guide/\nLua Training mode: https://github.com/poliva/ssf2xj/tree/master/lua\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\nFrench Discord: https://discord.gg/YHdDM6z\nSpain Discord: https://discord.gg/dp4RjVk\n"
+    },
+    {
+      "gameid": "ssf2tnl",
+      "motd": "*Super Street Fighter II Turbo - New Legacy*\n\nOfficial Site (English): https://newlegacy.fr\nDiscord: https://discord.gg/g96Bj62\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\n"
+    },
+    {
+      "gameid": "sf",
+      "motd": "Street Fighter Discord Server:https://discord.gg/e7W46dkURp\n"
+    },
+    {
+      "gameid": "sf2mix",
+      "motd": "*Street Fighter II - Mix*\n\nOfficial Site (English): https://sf2mix.github.io\n\n*Please make sure you and your opponent have the same revision!!*\n"
+    },
+    {
+      "gameid": "hsf2",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Hyper_Street_Fighter_2\n"
+    },
+    {
+      "gameid": "sfa",
+      "motd": "Brazilian Discord: https://discord.gg/cV8NW3jnpy\n"
+    },
+    {
+      "gameid": "sfa2u",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Street_Fighter_Alpha_2\nDiscord: https://discord.gg/QFA5gekDJq\nBrazilian Discord: https://discord.gg/vG7sUdJTUW\nFacebook: https://tinyurl.com/ya7spcom\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\nTraining Mode: https://www.mediafire.com/file/ic2p4ok2fm16nu9/fc2_a2_training_fix.zip/file\nTraining Mode Video: https://youtu.be/hGiQzH_CVDg\n"
+    },
+    {
+      "gameid": "sfa3",
+      "motd": "You can select stage using Coin button over character in Character Select Screen\n\nBrazilian Discord: https://discord.gg/vG7sUdJTUW\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\n"
+    },
+    {
+      "gameid": "sfiii3nr1",
+      "motd": "Discord: https://discord.gg/8hWg5GF\nBrazilian Discord: https://discord.io/Instituto-Masters\nTraining Mode: https://github.com/Grouflon/3rd_training_lua\n"
+    },
+    {
+      "gameid": "sfiii4n",
+      "motd": "Discord: https://discord.gg/nrS6UCRx\n"
+    },
+    {
+      "gameid": "jojobanr1",
+      "motd": "Wiki: https://jojoban.fandom.com/wiki/JoJoban\nDiscord: https://discord.gg/EFZyyJm\nLatam Discord: https://discord.gg/m2CPKEr\nRussian Discord: https://discord.gg/NgcgPHm\nIsrael Discord: https://discord.gg/W8NkAF8zRR\nBrazilian Discord: https://discord.gg/R5k3qWt\nHFTF Middle East and North Africa: https://discord.gg/vbTujm33ns\nHFTF Asia: https://discord.gg/5SWas9pwts\nHFTF Oceania: https://au.jojohf.tf\nHFTF Smackdown: https://discord.gg/qK7YKYmBEy\nOne Night Stand (Tournament Community): https://discord.gg/jka932k3cs\n"
+    },
+    {
+      "gameid": "jojon",
+      "motd": "Venture Discord: https://discord.gg/zxWPnyyvEW\n"
+    },
+    {
+      "gameid": "turfmast",
+      "motd": "Discord: https://discord.gg/X4NZPxJ\n"
+    },
+    {
+      "gameid": "trstar",
+      "motd": "Discord: https://discord.gg/5aeYVv52mj\n"
+    },
+    {
+      "gameid": "garou",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Garou:_Mark_of_the_Wolves\nDiscord: https://discord.gg/zcpbgDS\nDiscord Brasileiro: https://discord.io/motwbr\nFrench Discord: https://discord.gg/Pyq7eJA5kw\nInternational Tournaments Discord: https://discord.gg/EjHE5pW\nLatam Discord (Los Very Inbaneables) https://discord.gg/RgZPAmkwc2\nLatam Discord (Los Inbaneables) https://discord.gg/wSbG2Pd8dF\n"
+    },
+    {
+      "gameid": "jchan",
+      "motd": "Discord: https://discord.gg/f5Rkf9qcxC\n"
+    },
+    {
+      "gameid": "jchan2",
+      "motd": "FAQ/Move List: https://gamefaqs.gamespot.com/arcade/228860-jackie-chan-in-fists-of-fire/faqs/75479\nFists of Fire Mizuumi Wiki: https://wiki.gbl.gg/w/Jackie_Chan_in_Fists_of_Fire\nOfficial Discord: https://discord.gg/f5Rkf9qcxC\n"
+    },
+    {
+      "gameid": "survarts",
+      "motd": "Discord: https://discord.gg/KUC5xFdzXQ\n"
+    },
+    {
+      "gameid": "xmcota",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/X-Men:_Children_of_the_Atom\nDiscord: https://discord.gg/e2pQFFj\n"
+    },
+    {
+      "gameid": "matrim",
+      "motd": "Wiki: https://wiki.gbl.gg/w/Matrimelee\nDiscord: https://discord.gg/8KFWwEHcAU\n"
+    },
+    {
+      "gameid": "mk",
+      "motd": "Fightcade Station: https://discord.gg/njYWvFhCwU\nKlassics on Fightcade: https://discord.gg/hdd4MfXAYa\n"
+    },
+    {
+      "gameid": "mk2",
+      "motd": "Fightcade Station: https://discord.gg/njYWvFhCwU\nKlassics on Fightcade: https://discord.gg/hdd4MfXAYa\n"
+    },
+    {
+      "gameid": "umk3",
+      "motd": "Fightcade Station: https://discord.gg/njYWvFhCwU\nKlassics on Fightcade: https://discord.gg/hdd4MfXAYa\n"
+    },
+    {
+      "gameid": "sftm",
+      "motd": "Street Fighter The Movie The Game The Discord: https://discord.io/SFTM\nGeneral notes: https://tinyurl.com/sftm-notes\n"
+    },
+    {
+      "gameid": "vsavj",
+      "motd": "Mizuumi Wiki: https://wiki.gbl.gg/w/Vampire_Savior\nSeesaa Wiki: https://seesaawiki.jp/vswiki\nInternational Discord: https://discord.gg/5fwSewN33p\nFrench Discord: https://discord.gg/N6TGH6p\nJapanese Discord: https://discord.gg/AYxPt9P\nBrazilian Discord: https://discord.gg/YGBrAnbvRw\nLatam Discord: https://discord.gg/Tg9nGyJ3mj\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\n"
+    },
+    {
+      "gameid": "vampjbh",
+      "motd": "Fightcade Romhacks: https://discord.gg/tFA75Cwx5x\n"
+    },
+    {
+      "gameid": "vhuntjr2",
+      "motd": "Brazilian Discord: https://discord.gg/b7Q7kW5z9y\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\n"
+    },
+    {
+      "gameid": "kof97",
+      "motd": "Discord:  discord:https://discord.gg/f2bKbxfP5N\n"
+    },
+    {
+      "gameid": "kof98",
+      "motd": "Discord Brasileiro: https://discord.gg/jsJ4tdB\nDiscord Sehab Lmrok https://discord.gg/Ewdt8Z9CV8\nDiscord KOF98EasyBoys: https://discord.gg/cuK2NU8vBB\n"
+    },
+    {
+      "gameid": "kof99",
+      "motd": "Discord: https://discord.gg/E6njZwVetB\n"
+    },
+    {
+      "gameid": "kof99ae",
+      "motd": "Discord: https://discord.gg/E6njZwVetB\n"
+    },
+    {
+      "gameid": "kof2000",
+      "motd": "Discord: https://discord.gg/SUdsfQ8\n"
+    },
+    {
+      "gameid": "kof2001",
+      "motd": "Discord: https://discord.gg/x2Zx9hxm94\n"
+    },
+    {
+      "gameid": "kof2002",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_2002\n"
+    },
+    {
+      "gameid": "kof2003",
+      "motd": "Discord: https://discord.gg/JGQ6XFGDVZ\n"
+    },
+    {
+      "gameid": "samsh5sp",
+      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_V_Special\nDiscord: https://discord.gg/bBs4TAr\nBrazilian Discord: https://discord.io/specialshodown\nLatam Discord: https://discord.gg/HFmcPxTJNg\n"
+    },
+    {
+      "gameid": "samsho",
+      "motd": "Discord: https://discord.gg/bBs4TAr\n"
+    },
+    {
+      "gameid": "samsho2",
+      "motd": "Discord: https://discord.gg/bBs4TAr\n"
+    },
+    {
+      "gameid": "samsho3",
+      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_3\nDiscord: https://discord.gg/bBs4TAr\n"
+    },
+    {
+      "gameid": "samsho4",
+      "motd": "Discord: https://discord.gg/bBs4TAr\n"
+    },
+    {
+      "gameid": "samsho5",
+      "motd": "Discord: https://discord.gg/bBs4TAr\n"
+    },
+    {
+      "gameid": "rbff1",
+      "motd": "Discord: https://discord.gg/7Qvv7K4\n"
+    },
+    {
+      "gameid": "rbff2h",
+      "motd": "Discord: https://discord.gg/7Qvv7K4\nhttps://dreamcancel.com/wiki/index.php/Real_Bout_Fatal_Fury_2\n"
+    },
+    {
+      "gameid": "rbffspec",
+      "motd": "Discord: https://discord.gg/7Qvv7K4\n"
+    },
+    {
+      "gameid": "fatfury1",
+      "motd": "Discord: https://discord.gg/7Qvv7K4\n"
+    },
+    {
+      "gameid": "fatfury2",
+      "motd": "Discord: https://discord.gg/7Qvv7K4\n"
+    },
+    {
+      "gameid": "fatfury3",
+      "motd": "Discord: https://discord.gg/7Qvv7K4\nDiscord Brasileiro: https://discord.gg/AY5p2EYrMS\n"
+    },
+    {
+      "gameid": "fatfursp",
+      "motd": "Guide: https://drive.google.com/file/d/1H_3aVeT34YUNnj946I6xgtweU1o7czbH/view\nJapanese Wiki: https://seesaawiki.jp/garosp\nDiscord: https://discord.gg/7Qvv7K4\nFrench Discord: https://discord.gg/FawNeefP\n"
+    },
+    {
+      "gameid": "rotd",
+      "motd": "Community Discord: https://discord.gg/zh65xjsJce\nWiki: https://wiki.supercombo.gg/w/Rage_of_The_Dragons\n"
+    },
+    {
+      "gameid": "mslug",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug2",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug3",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug4",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug5",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug6",
+      "motd": ""
+    },
+    {
+      "gameid": "mslugx",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslugdg",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug2dg",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug3g",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug4dg",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug5g",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug2t",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug2ct",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug2fm",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug2r",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug3c",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug3eb",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug4c",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug5c",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug5mg",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug5x",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug4lw",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslugxc2",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslugxeb",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslugxlb",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslugxsrf",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug2ct",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug2fm",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug2r",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug3c",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug3eb",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug4c",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug5c",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug5mg",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslug5x",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslugxc2",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslugxeb",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslugxlb",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslugxsrf",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mslugxsrf",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
+    },
+    {
+      "gameid": "mwarr",
+      "motd": "Discord: https://discord.gg/KBeHaw5dVt\nTraining Mode (Universal): https://github.com/peon2/fbneo-training-mode\n"
+    },
+    {
+      "gameid": "rabbit",
+      "motd": "Discord: https://discord.gg/2dU34T54ST\nDiscord: https://discord.gg/M6M9QYMAcR\n"
+    },
+    {
+      "gameid": "cybots",
+      "motd": "Discord: https://discord.com/invite/yjsBBS9Gns\n"
+    },
+    {
+      "gameid": "landmakr",
+      "motd": "Puzzle Wednesday Discord: https://discord.gg/SPDbUM9jaf"
+    },
+    {
+      "gameid": "miexchng",
+      "motd": "Discord: https://discord.gg/jqAWdaswnm\n"
+    },
+    {
+      "gameid": "galaxyfg",
+      "motd": "Discord: https://discord.gg/r5baDfxC5f\n"
+    },
+    {
+      "gameid": "lastbld2",
+      "motd": "Wiki: https://dreamcancel.com/wiki/index.php/The_Last_Blade_2\nDiscord: https://discord.gg/c2ZTKtTuVE\n"
+    },
+    {
+      "gameid": "wakuwak7",
+      "motd": "Waku Waku 7 SRK Wiki: https://wiki.supercombo.gg/w/Waku_Waku_7\nDiscord: https://discord.gg/ZyF9GFfYBp\n"
+    },
+    {
+      "gameid": "wakuwak7bh",
+      "motd": "Discord: https://discord.gg/SR5FZZU4Tv\n"
+    },
+    {
+      "gameid": "mvsc",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom\nDiscord: https://discord.gg/NFGqcXD\n"
+    },
+    {
+      "gameid": "asurabus",
+      "motd": "SRK Wiki: https://wiki.supercombo.gg/w/Asura_Buster:_Eternal_Warriors\nDiscord: https://discord.gg/uqvRzaEqg7\n"
+    },
+    {
+      "gameid": "redearth",
+      "motd": "Wiki: https://wiki.gbl.gg/w/Red_Earth/War-Zard\nDiscord: https://discord.gg/7eNk7pm\nUniversal (Training Mode): https://github.com/peon2/fbneo-training-mode\nMax LVL Tessa: 46321 23544\nMax LVL Leo: 41344 34153\nMax LVL Mai-Ling: 13126 44354\nMax LVL Kenji: 63141 24524\n"
+    },
+    {
+      "gameid": "svg",
+      "motd": "Beginner's Guide Video: https://youtu.be/8CBt4qNQ5uE\nDiscord: https://discord.gg/Puaat9F9hz\n"
+    },
+    {
+      "gameid": "svc",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\n"
+    },
+    {
+      "gameid": "svcsplus",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\n"
+    },
+    {
+      "gameid": "magdrop2",
+      "motd": "French/English Discord: https://discord.com/invite/SxgCFn6\nLatam Discord: https://discord.gg/BhU4njT\n"
+    },
+    {
+      "gameid": "magdrop3",
+      "motd": "French/English Discord: https://discord.com/invite/SxgCFn6\nLatam Discord: https://discord.gg/BhU4njT\n"
+    },
+    {
+      "gameid": "sf2ce",
+      "motd": "Discord Peru:  https://discord.gg/ShGmjmfhAh"
+    },
+    {
+      "gameid": "sf2hf",
+      "motd": "Discord: https://discord.gg/Zq7aS6mDUe\n"
+    },
+    {
+      "gameid": "ringdest",
+      "motd": "Wiki: https://wiki.gbl.gg/w/Ring_of_Destruction:_Slam_Masters_II\nDiscord: https://discord.gg/8YJ8ztg\n"
+    },
+    {
+      "gameid": "kizuna",
+      "motd": "Discord: https://discord.gg/NxPXbDR\nWiki: https://wiki.gbl.gg/w/Kizuna_Encounter\n"
+    },
+    {
+      "gameid": "aof",
+      "motd": "Art of Fighting Series Discord: https://discord.gg/wgkg4Yq\nTraining Mode: https://github.com/peon2/fbneo-training-mode\n"
+    },
+    {
+      "gameid": "aof2",
+      "motd": "Art of Fighting Series Discord: https://discord.gg/wgkg4Yq\nTraining Mode: https://github.com/peon2/fbneo-training-mode\n"
+    },
+    {
+      "gameid": "aof3",
+      "motd": "Wiki: https://wiki.gbl.gg/w/Art_of_Fighting_3\nArt of Fighting Series Discord: https://discord.gg/wgkg4Yq\nBeginner's Guide Video: https://youtu.be/LE9z9owlbf8\nAdvanced Mechanics Guide Video: https://youtu.be/2-6NY1lneFU\nTraining Mode: https://github.com/peon2/fbneo-training-mode\n"
+    },
+    {
+      "gameid": "twinspri",
+      "motd": "Discord: https://discord.gg/dTNfRxa\nVersus guide on how to play: https://gamefaqs.gamespot.com/neo/565709-twinkle-star-sprites/faqs/56584\nPattern overview: https://youtube.com/playlist?list=PL8sVQl20XthGpAa8XLqzSj1rbVG55jmQ_\nPattern explanation: https://youtu.be/kfzepPv59O8\n"
+    },
+    {
+      "gameid": "martmast",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Martial_Masters\nDiscord: https://discord.gg/aFJkDw4\n"
+    },
+    {
+      "gameid": "marmatcp",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Martial_Masters\nDiscord: https://discord.gg/aFJkDw4\n"
+    },
+    {
+      "gameid": "wjammers",
+      "motd": "Discord: https://discord.gg/gcD7G86\nLatam: https://discord.gg/xyqwWXcdUy\n"
+    },
+    {
+      "gameid": "sgemf",
+      "motd": "Discord: https://discord.gg/PAbX53nNfU\nGemini (Training Mode) v1.02: https://tinyurl.com/geminiV102\n"
+    },
+    {
+      "gameid": "esckidsj",
+      "motd": "Discord: https://discord.gg/xRftjZG\n"
+    },
+    {
+      "gameid": "dankuga",
+      "motd": "Wiki: https://wiki.gbl.gg/w/Dan-Ku-Ga\nDiscord: https://discord.gg/gnPkzQr\n"
+    },
+    {
+      "gameid": "breakrev",
+      "motd": "Discord: https://discord.gg/u5e6cuF\n"
+    },
+    {
+      "gameid": "brkrevext",
+      "motd": "Discord: https://discord.gg/u5e6cuF\n"
+    },
+    {
+      "gameid": "karnovr",
+      "motd": "Discord: https://discord.gg/CWPf7SX\n"
+    },
+    {
+      "gameid": "avengrgs",
+      "motd": "Discord: https://discord.gg/X7sxAYCdhq\n"
+    },
+    {
+      "gameid": "xmvsf",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/X-Men_vs_Street_Fighter\nMoves: https://strategywiki.org/wiki/X-Men_vs._Street_Fighter/Moves\nDiscord: https://discord.gg/hGJk6bvG8t\n"
+    },
+    {
+      "gameid": "ninjamas",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Ninja_Masters\nWorld Heroes + ADK Games Discord: https://discord.gg/QeEC68jRme\n"
+    },
+    {
+      "gameid": "wh1",
+      "motd": "World Heroes + ADK Games Discord: https://discord.gg/QeEC68jRme\n"
+    },
+    {
+      "gameid": "wh2",
+      "motd": "World Heroes + ADK Games Discord: https://discord.gg/QeEC68jRme\n"
+    },
+    {
+      "gameid": "wh2j",
+      "motd": "World Heroes + ADK Games Discord: https://discord.gg/QeEC68jRme\n"
+    },
+    {
+      "gameid": "whp",
+      "motd": "World Heroes + ADK Games Discord: https://discord.gg/QeEC68jRme\n"
+    },
+    {
+      "gameid": "aodk",
+      "motd": "World Heroes + ADK Games Discord: https://discord.gg/QeEC68jRme\n"
+    },
+    {
+      "gameid": "kabukikl",
+      "motd": "Discord: https://discord.gg/qNJKnuGvjM\n"
+    },
+    {
+      "gameid": "doubledr",
+      "motd": "Discord: https://discord.gg/9kDHQewKab\n"
+    },
+    {
+      "gameid": "savagere",
+      "motd": "King Lion Palace - Kizuna Encounter (and Savage Reign) Discord Channel: https://discord.gg/NxPXbDR\n"
+    },
+    {
+      "gameid": "msh",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_Super_Heroes\nDiscord: https://discord.gg/VTjmYcu7B7\n"
+    },
+    {
+      "gameid": "mshvsf",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_Super_Heroes_vs_Street_Fighter\nMoves: https://strategywiki.org/wiki/Marvel_Super_Heroes_vs._Street_Fighter/Moves\nDiscord: https://discord.gg/VVAYAAaqxj\n"
+    },
+    {
+      "gameid": "gundamex",
+      "motd": "Discord: https://discord.gg/TaFYrDcCZk\n"
+    },
+    {
+      "gameid": "tgm2p",
+      "motd": "*Tetris The Absolute Grand Master PLUS 2 (TAP) official Discord:* https://discord.gg/z3YnUTN\n*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\nStrategy Guide: https://tetris.wiki/TGM_Versus_Mode_Guide\n"
+    },
+    {
+      "gameid": "finalttr",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "neotet",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "gg_stetris",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "snes_stetris2a",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "snes_stetris2g",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "sms_fatetris",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "snes_stetris3",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "tetrisse",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "md_tetris",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "tetris",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "nes_tetris",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "tetrbx",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "snes_tetrisdru",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "nes_tetris2",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "snes_tetris2ua",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "nes_tetri2bom",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "snes_tetrisbt",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "snes_tetrisfl",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "tetrisp2",
+      "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "nes_joymechfight",
+      "motd": "Discord: https://discord.gg/ewjeffJ\n"
+    },
+    {
+      "gameid": "snes_gndmwend",
+      "motd": "Wiki: https://newchallenger.net/w/index.php?title=Gundam_Wing:_Endless_Duel\nDiscord: https://discord.gg/gvaMAq9\n"
+    },
+    {
+      "gameid": "snes_tmnttfce",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Teenage_Mutant_Ninja_Turtles_Tournament_Fighters\nDiscord: https://discord.io/SNESFGC\n"
+    },
+    {
+      "gameid": "snes_sailorsf",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Sailor_Moon_Fighter_S\nDiscord: http://moonlightfight.com\n"
+    },
+    {
+      "gameid": "snes_sailorsj",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Sailor_Moon_Fighter_S\nDiscord: http://moonlightfight.com\n"
+    },
+    {
+      "gameid": "snes_sailorsbze",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Sailor_Moon_S\nDiscord: http://moonlightfight.com\n"
+    },
+    {
+      "gameid": "snes_mmprfeu",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Mighty_Morphin_Power_Rangers:_The_Fighting_Edition\nDiscord: https://discord.io/SNESFGC\n"
+    },
+    {
+      "gameid": "snes_ranmahb2",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Ranma_1/2:_Chougi_Ranbu_Hen\nDiscord: https://discord.io/SNESFGC\n"
+    },
+    {
+      "gameid": "snes_weaponldu",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Weaponlord\nDiscord: https://discord.io/SNESFGC\n"
+    },
+    {
+      "gameid": "snes_clayfgte",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=ClayFighter_Tournament_Edition\nDiscord: https://discord.io/SNESFGC\n"
+    },
+    {
+      "gameid": "snes_clayfgt2u",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=ClayFighter_2:_Judgement_Clay\nDiscord: https://discord.io/SNESFGC\n"
+    },
+    {
+      "gameid": "snes_godzilla",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Godzilla_Kaijuu_Daikessen\nDiscord: https://discord.io/SNESFGC\n"
+    },
+    {
+      "gameid": "snes_svgeo",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Super_Variable_Geo\nDiscord: https://discord.io/SNESFGC\n"
+    },
+    {
+      "gameid": "snes_dbzhypdj",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Dragonball_Z_Hyper_Dimension\nDiscord: https://discord.io/SNESFGC\n"
+    },
+    {
+      "gameid": "snes_powermov",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Power_Moves\nDiscord: https://discord.io/SNESFGC\n"
+    },
+    {
+      "gameid": "snes_fghthist",
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Fighter%27s_History:_Mizoguchi_Kiki_Ippatsu\nDiscord: https://discord.io/SNESFGC\n"
+    },
+    {
+      "gameid": "md_yuyumt",
+      "motd": "Discord: https://discord.gg/8fnXmx52za\nTreasure Fighters Wiki: treasure.newchallenger.net\nThere is now an English Translation channel available under yuyumte!\n"
+    },
+    {
+      "gameid": "md_yuyusf",
+      "motd": "Discord: https://discord.gg/8fnXmx52za\nTreasure Fighters Wiki: treasure.newchallenger.net\nThere is now an English Translation channel available under yuyumte!\n"
+    },
+    {
+      "gameid": "md_yuyumte",
+      "motd": "Discord: https://discord.gg/8fnXmx52za\nTreasure Fighters Wiki: treasure.newchallenger.net"
+    },
+    {
+      "gameid": "flycast_pjustic",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Project_Justice\nDiscord: https://discord.gg/PPq7WRe\n"
+    },
+    {
+      "gameid": "flycast_doa2m",
+      "motd": "Wiki: https://www.freestepdodge.com/wiki/dead-or-alive-2\nDiscord: https://discord.gg/JvNgawv\n"
+    },
+    {
+      "gameid": "flycast_vtennis2",
+      "motd": "Discord Latam: https://discord.gg/UAThjumakb\n"
+    },
+    {
+      "gameid": "flycast_dc_plasmasword",
+      "motd": "Discord: https://discord.gg/KQZwCSJECS\n"
+    },
+    {
+      "gameid": "flycast_senkosp",
+      "motd": "Discord: https://discord.gg/N7VjZ8E\n"
+    },
+    {
+      "gameid": "flycast_dc_pf2012",
+      "motd": "Discord (日本語 and Worldwide!): https://discord.gg/gqCXEU69kx\n"
+    }
+  ]
+}
