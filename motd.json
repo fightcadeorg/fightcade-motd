@@ -23,7 +23,7 @@
     },
     {
       "gameid": "sfa",
-      "motd": "Brazilian Discord: https://discord.gg/cV8NW3jnpy\n"
+      "motd": "Brazilian Discord: https://discord.gg/cV8NW3jnpy\nTo pick a Secret Character Go to player-side random box and enter start. For player 2 assume left is right.\nAKUMA/GOUKI: Down, Down, Down, Left, Left, Left then press LP+HP or LK+HK\nVEGA/M.BISON: Down, Down, Left, Left, Down, Left then press LP+HP or LK+HK\nDAN: enter LP, LK, MK, HK, HP, MP or enter HP, HK, MK, LK, LP, MP\n"
     },
     {
       "gameid": "sfa2u",
@@ -32,6 +32,10 @@
     {
       "gameid": "sfa3",
       "motd": "You can select stage using Coin button over character in Character Select Screen\n\nBrazilian Discord: https://discord.gg/vG7sUdJTUW\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\n"
+    },
+    {
+      "gameid": "sfiii2",
+      "motd": "Discord: https://discord.gg/jK8XAAmPjn\n"
     },
     {
       "gameid": "sfiii3nr1",
@@ -371,7 +375,7 @@
     },
     {
       "gameid": "cybots",
-      "motd": "Discord: https://discord.com/invite/yjsBBS9Gns\n"
+      "motd": "Discord: https://discord.com/invite/yjsBBS9Gns\nSupercombo Wiki: https://wiki.supercombo.gg/w/Cyberbots:_Fullmetal_Madness\nMizuumi Wiki: https://wiki.gbl.gg/w/Cyberbots\n"
     },
     {
       "gameid": "landmakr",
@@ -431,7 +435,7 @@
     },
     {
       "gameid": "sf2ce",
-      "motd": "Discord Peru:  https://discord.gg/ShGmjmfhAh"
+      "motd": "Discord Peru:  https://discord.gg/ShGmjmfhAh\nTraining mode: https://www.youtube.com/watch?v=yRxIDOZjGyU\n"
     },
     {
       "gameid": "sf2hf",
@@ -708,6 +712,10 @@
     {
       "gameid": "md_yuyumte",
       "motd": "Discord: https://discord.gg/8fnXmx52za\nTreasure Fighters Wiki: treasure.newchallenger.net"
+    },
+    {
+      "gameid": "flycast_ausfache",
+      "motd": "Brazilian Discord: https://discord.gg/pr9CkgqkDd\n"
     },
     {
       "gameid": "flycast_pjustic",
