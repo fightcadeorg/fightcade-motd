@@ -742,6 +742,14 @@
       "motd": "Discord (日本語 and Worldwide!): https://discord.gg/gqCXEU69kx\n"
     },
     {
+      "gameid": "flycast_dc_vonot",
+      "motd": "Make sure LEFT THUMBSTICK is set to FULL. Settings > Dojo > GGPO > Left Thumbstick > Full\nDiscord: https://discord.gg/9CnsNHYv"
+    },
+    {
+      "gameid": "flycast_vonot",
+      "motd": "NAOMI version DON'T have online multiplayer\nCurrently ONLY DREAMCAST version allows online multiplayer\nDiscord: https://discord.gg/9CnsNHYv"
+    },
+    {
       "gameid": "nes_yoshiscookie",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n*Community resources:*\nStrategy guide: http://zoomboingding.com/yoshis_cookie/singles_tutorial/\nYoCoBot: https://meatfighter.com/yoshiscookiebot/\n"
     },
