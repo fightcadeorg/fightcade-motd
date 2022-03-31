@@ -378,6 +378,10 @@
       "motd": "Discord: https://discord.com/invite/yjsBBS9Gns\nSupercombo Wiki: https://wiki.supercombo.gg/w/Cyberbots:_Fullmetal_Madness\nMizuumi Wiki: https://wiki.gbl.gg/w/Cyberbots\nTraining Mode Lua: https://cdn.discordapp.com/attachments/185372964181508096/948124178559688724/cybots.lua\n"
     },
     {
+      "gameid": "cybotsam",
+      "motd": "Hack Description: https://pastebin.com/kZnfcPct\nDiscord: https://discord.com/invite/yjsBBS9Gns\nSupercombo Wiki: https://wiki.supercombo.gg/w/Cyberbots:_Fullmetal_Madness\nMizuumi Wiki: https://wiki.gbl.gg/w/Cyberbots\nTraining Mode Lua: https://cdn.discordapp.com/attachments/185372964181508096/948124178559688724/cybots.lua\n"
+    },    
+    {
       "gameid": "landmakr",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
     },
@@ -415,7 +419,7 @@
     },
     {
       "gameid": "svg",
-      "motd": "Beginner's Guide Video: https://youtu.be/8CBt4qNQ5uE\nDiscord: https://discord.gg/Puaat9F9hz\n"
+      "motd": "Beginner's Guide Video: https://youtu.be/8CBt4qNQ5uE\nDiscord: https://discord.gg/Puaat9F9hz\nWiki: https://wiki.gbl.gg/w/Spectral_vs_Generation\n"
     },
     {
       "gameid": "svc",
@@ -463,7 +467,11 @@
     },
     {
       "gameid": "twinspri",
-      "motd": "Discord: https://discord.gg/dTNfRxa\nVersus guide on how to play: https://gamefaqs.gamespot.com/neo/565709-twinkle-star-sprites/faqs/56584\nPattern overview: https://youtube.com/playlist?list=PL8sVQl20XthGpAa8XLqzSj1rbVG55jmQ_\nPattern explanation: https://youtu.be/kfzepPv59O8\n"
+      "motd": "Discord: https://discord.gg/dTNfRxa\n" +
+              "Versus guide on how to play: https://gamefaqs.gamespot.com/neo/565709-twinkle-star-sprites/faqs/56584\n" +
+              "Training Mode + Hitbox Lua: https://docs.google.com/document/d/1k8kBUJfGd1g5rbcCqS_6qCtkzSk2FGAixgWwtmbfAgs/view\n" +
+              "Formation overview: https://youtube.com/playlist?list=PL8sVQl20XthGpAa8XLqzSj1rbVG55jmQ_\n" +
+              "Formation explanation: https://youtu.be/kfzepPv59O8\n"
     },
     {
       "gameid": "martmast",
@@ -741,6 +749,14 @@
       "gameid": "flycast_dc_pf2012",
       "motd": "Discord (日本語 and Worldwide!): https://discord.gg/gqCXEU69kx\n"
     },
+    {
+      "gameid": "flycast_dc_vonot",
+      "motd": "Discord: https://discord.gg/akrgGx9\nMake sure LEFT THUMBSTICK is set to FULL. Settings > Dojo > GGPO > Left Thumbstick > Full\n"
+    },
+    {
+      "gameid": "flycast_vonot",
+      "motd": "Discord: https://discord.gg/akrgGx9\nNAOMI version DON'T have online multiplayer\nCurrently ONLY DREAMCAST version allows online multiplayer\n"
+    },    
     {
       "gameid": "nes_yoshiscookie",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n*Community resources:*\nStrategy guide: http://zoomboingding.com/yoshis_cookie/singles_tutorial/\nYoCoBot: https://meatfighter.com/yoshiscookiebot/\n"
