@@ -467,11 +467,7 @@
     },
     {
       "gameid": "twinspri",
-      "motd": "Discord: https://discord.gg/dTNfRxa\n" +
-              "Versus guide on how to play: https://gamefaqs.gamespot.com/neo/565709-twinkle-star-sprites/faqs/56584\n" +
-              "Training Mode + Hitbox Lua: https://docs.google.com/document/d/1k8kBUJfGd1g5rbcCqS_6qCtkzSk2FGAixgWwtmbfAgs/view\n" +
-              "Formation overview: https://youtube.com/playlist?list=PL8sVQl20XthGpAa8XLqzSj1rbVG55jmQ_\n" +
-              "Formation explanation: https://youtu.be/kfzepPv59O8\n"
+      "motd": "Discord: https://discord.gg/dTNfRxa\nVersus guide on how to play: https://gamefaqs.gamespot.com/neo/565709-twinkle-star-sprites/faqs/56584\nTraining Mode + Hitbox Lua: https://docs.google.com/document/d/1k8kBUJfGd1g5rbcCqS_6qCtkzSk2FGAixgWwtmbfAgs/view\nFormation overview: https://youtube.com/playlist?list=PL8sVQl20XthGpAa8XLqzSj1rbVG55jmQ_\nFormation explanation: https://youtu.be/kfzepPv59O8\n"
     },
     {
       "gameid": "martmast",
@@ -756,7 +752,7 @@
     {
       "gameid": "flycast_vonot",
       "motd": "Discord: https://discord.gg/akrgGx9\nNAOMI version DON'T have online multiplayer\nCurrently ONLY DREAMCAST version allows online multiplayer\n"
-    },    
+    },
     {
       "gameid": "nes_yoshiscookie",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n*Community resources:*\nStrategy guide: http://zoomboingding.com/yoshis_cookie/singles_tutorial/\nYoCoBot: https://meatfighter.com/yoshiscookiebot/\n"
