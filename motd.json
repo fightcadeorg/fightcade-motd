@@ -884,6 +884,10 @@
     {
       "gameid": "flycast_toyfight",
       "motd": "Discord: https://discord.gg/stdfgxzXHx\nWiki: https://wiki.gbl.gg/w/Toy_Fighter\n\nSavestate Update: Problems and haven't played in a while? Delete your old savestate and rejoin\n"
+    },
+    {
+      "gameid": "flycast_pstone",
+      "motd": "Discord: https://discord.gg/nVzXg76\n\n\nSavestate Update: Problems and haven't played in a while? Select \"Test Game\" -> \"Delete Savestate\" then rejoin. The newest savestate will automatically download.\n"
     }
   ]
 }
