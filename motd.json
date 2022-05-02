@@ -737,10 +737,10 @@
       "gameid": "flycast_vtennis2",
       "motd": "Discord Latam: https://discord.gg/UAThjumakb\n"
     },
-	{
+    {
       "gameid": "flycast_cvs2",
       "motd": "Wiki (being updated!): https://wiki.supercombo.gg/w/Capcom_vs_SNK_2\nCvS2 Bible (Scans): http://tinyurl.com/CvS2Bible\nCvS2 GameFAQs: https://gamefaqs.gamespot.com/arcade/562704-capcom-vs-snk-2/faqs\nCvS2 Community Discord: http://tinyurl.com/CvS2Discord\nTrue Love Makin Academy (Latin America): https://discord.gg/VqMhyUhKjm\nFull setup guide, download help, and training mode info is available here: https://wiki.supercombo.gg/w/Capcom_vs_SNK_2/Emulation_and_Netplay\nHitbox Images (c/o RagingStormX): https://drive.google.com/drive/folders/1h9xdMlUGkNlZsErASrsRZzvmd9tnKEF6\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the emu.cfg file in your Fightcade\\emulator\\flycast folder and try again.\n"
-	},
+    },
     {
       "gameid": "flycast_dc_plasmasword",
       "motd": "Discord: https://discord.gg/KQZwCSJECS\n"
@@ -896,6 +896,10 @@
     {
       "gameid": "flycast_pstone",
       "motd": "Discord: https://discord.gg/nVzXg76\n\n\nSavestate Update: Problems and haven't played in a while? Select \"Test Game\" -> \"Delete Savestate\" then rejoin. The newest savestate will automatically download.\n"
+    },
+    {
+      "gameid": "daraku",
+      "motd": "Discord: https://discord.gg/3pAcAvRFTa\n"
     }
   ]
 }
