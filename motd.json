@@ -3,7 +3,7 @@
   "games": [
     {
       "gameid": "ssf2xjr1",
-      "motd": "You can select stage using Coin button over character in Character Select Screen\n\nGoukiPedia: http://www.goukipedia.com\nST Revival: https://www.strevival.com\nSRK Wiki: https://wiki.supercombo.gg/w/Super_Street_Fighter_2_Turbo\nF101: https://fighter101.com/main/super-street-fighter-2-turbo-guide/\nLua Training mode: https://github.com/poliva/ssf2xj/tree/master/lua\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\nFrench Discord: https://discord.gg/YHdDM6z\nSpain Discord: https://discord.gg/dp4RjVk\nJapanese Discord: https://discord.gg/pFafAyVamA\nMexico Discord: https://discord.gg/td9Qt8dNCS\n"
+      "motd": "You can select stage using Coin button over character in Character Select Screen\n\nGoukiPedia: http://www.goukipedia.com\nST Revival: https://www.strevival.com\nSRK Wiki: https://wiki.supercombo.gg/w/Super_Street_Fighter_2_Turbo\nF101: https://fighter101.com/main/super-street-fighter-2-turbo-guide\nLua Training mode: https://github.com/poliva/ssf2xj/tree/master/lua\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\nFrench Discord: https://discord.gg/YHdDM6z\nSpain Discord: https://discord.gg/dp4RjVk\nJapanese Discord: https://discord.gg/pFafAyVamA\nMexico Discord: https://discord.gg/td9Qt8dNCS\nHispano Discord: https://discord.gg/W42TGz7CDd\nArgentine Community: https://www.facebook.com/groups/196732984444362\n"
     },
     {
       "gameid": "ssf2tnl",
@@ -115,7 +115,7 @@
     },
     {
       "gameid": "vhuntjr2",
-      "motd": "Brazilian Discord: https://discord.gg/b7Q7kW5z9y\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\n"
+      "motd": "Brazilian Discord: https://discord.gg/b7Q7kW5z9y\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\nEnglish Discord: https://discord.gg/5fwSewN33p\nWiki: https://wiki.supercombo.gg/w/Night_Warriors:_Darkstalkers%27_Revenge\nJP Wiki: https://yppts.adam.ne.jp/hunter\n"
     },
     {
       "gameid": "kof97",
@@ -737,10 +737,10 @@
       "gameid": "flycast_vtennis2",
       "motd": "Discord Latam: https://discord.gg/UAThjumakb\n"
     },
-	{
+    {
       "gameid": "flycast_cvs2",
       "motd": "Wiki (being updated!): https://wiki.supercombo.gg/w/Capcom_vs_SNK_2\nCvS2 Bible (Scans): http://tinyurl.com/CvS2Bible\nCvS2 GameFAQs: https://gamefaqs.gamespot.com/arcade/562704-capcom-vs-snk-2/faqs\nCvS2 Community Discord: http://tinyurl.com/CvS2Discord\nTrue Love Makin Academy (Latin America): https://discord.gg/VqMhyUhKjm\nFull setup guide, download help, and training mode info is available here: https://wiki.supercombo.gg/w/Capcom_vs_SNK_2/Emulation_and_Netplay\nHitbox Images (c/o RagingStormX): https://drive.google.com/drive/folders/1h9xdMlUGkNlZsErASrsRZzvmd9tnKEF6\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the emu.cfg file in your Fightcade\\emulator\\flycast folder and try again.\n"
-	},
+    },
     {
       "gameid": "flycast_dc_plasmasword",
       "motd": "Discord: https://discord.gg/KQZwCSJECS\n"
@@ -896,6 +896,34 @@
     {
       "gameid": "flycast_pstone",
       "motd": "Discord: https://discord.gg/nVzXg76\n\n\nSavestate Update: Problems and haven't played in a while? Select \"Test Game\" -> \"Delete Savestate\" then rejoin. The newest savestate will automatically download.\n"
+    },
+    {
+      "gameid": "daraku",
+      "motd": "Discord: https://discord.gg/3pAcAvRFTa\n"
+    },
+    {
+      "gameid": "mslug3rb",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity"
+    },
+    {
+      "gameid": "mslug3lw",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity"
+    },
+    {
+      "gameid": "mslug4a",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity"
+    },
+    {
+      "gameid": "mslug4ar",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity"
+    },
+    {
+      "gameid": "mslug5sgf",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity"
+    },
+    {
+      "gameid": "mslug5wd",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity"
     }
   ]
 }
