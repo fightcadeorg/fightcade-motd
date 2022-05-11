@@ -3,7 +3,7 @@
   "games": [
     {
       "gameid": "ssf2xjr1",
-      "motd": "You can select stage using Coin button over character in Character Select Screen\n\nGoukiPedia: http://www.goukipedia.com\nST Revival: https://www.strevival.com\nSRK Wiki: https://wiki.supercombo.gg/w/Super_Street_Fighter_2_Turbo\nF101: https://fighter101.com/main/super-street-fighter-2-turbo-guide/\nLua Training mode: https://github.com/poliva/ssf2xj/tree/master/lua\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\nFrench Discord: https://discord.gg/YHdDM6z\nSpain Discord: https://discord.gg/dp4RjVk\nJapanese Discord: https://discord.gg/pFafAyVamA\nMexico Discord: https://discord.gg/td9Qt8dNCS\n"
+      "motd": "You can select stage using Coin button over character in Character Select Screen\n\nGoukiPedia: http://www.goukipedia.com\nST Revival: https://www.strevival.com\nSRK Wiki: https://wiki.supercombo.gg/w/Super_Street_Fighter_2_Turbo\nF101: https://fighter101.com/main/super-street-fighter-2-turbo-guide\nLua Training mode: https://github.com/poliva/ssf2xj/tree/master/lua\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\nFrench Discord: https://discord.gg/YHdDM6z\nSpain Discord: https://discord.gg/dp4RjVk\nJapanese Discord: https://discord.gg/pFafAyVamA\nMexico Discord: https://discord.gg/td9Qt8dNCS\nHispano Discord: https://discord.gg/W42TGz7CDd\nArgentine Community: https://www.facebook.com/groups/196732984444362\n"
     },
     {
       "gameid": "ssf2tnl",
@@ -115,7 +115,7 @@
     },
     {
       "gameid": "vhuntjr2",
-      "motd": "Brazilian Discord: https://discord.gg/b7Q7kW5z9y\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\n"
+      "motd": "Brazilian Discord: https://discord.gg/b7Q7kW5z9y\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\nEnglish Discord: https://discord.gg/5fwSewN33p\nWiki: https://wiki.supercombo.gg/w/Night_Warriors:_Darkstalkers%27_Revenge\nJP Wiki: https://yppts.adam.ne.jp/hunter\n"
     },
     {
       "gameid": "kof97",
@@ -900,6 +900,30 @@
     {
       "gameid": "daraku",
       "motd": "Discord: https://discord.gg/3pAcAvRFTa\n"
+    },
+    {
+      "gameid": "mslug3rb",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity"
+    },
+    {
+      "gameid": "mslug3lw",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity"
+    },
+    {
+      "gameid": "mslug4a",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity"
+    },
+    {
+      "gameid": "mslug4ar",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity"
+    },
+    {
+      "gameid": "mslug5sgf",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity"
+    },
+    {
+      "gameid": "mslug5wd",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity"
     }
   ]
 }
