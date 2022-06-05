@@ -34,12 +34,28 @@
       "motd": "You can select stage using Coin button over character in Character Select Screen\n\nBrazilian Discord: https://discord.gg/vG7sUdJTUW\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\n"
     },
     {
+      "gameid": "sfiii",
+      "motd": "Discord: https://discord.gg/AXkCFrduJ8\n"
+    },
+    {
       "gameid": "sfiii2",
       "motd": "Discord: https://discord.gg/jK8XAAmPjn\n"
     },
     {
       "gameid": "sfiii3nr1",
       "motd": "Discord: https://discord.gg/8hWg5GF\nBrazilian Discord: https://discord.io/Instituto-Masters\nTraining Mode: https://github.com/Grouflon/3rd_training_lua\nGame Resources: https://wiki.supercombo.gg/w/Street_Fighter_3:_3rd_Strike\n"
+    },
+    {
+      "gameid": "sfiiibh",
+      "motd": "Discord: https://discord.gg/AXkCFrduJ8\nHold Start Button to Select Gill\n"
+    },
+    {
+      "gameid": "sfiii2bh",
+      "motd": "Discord: https://discord.gg/jK8XAAmPjn\nPut cursor on Akuma and Press Left to select Gill\nPut cursor on Akuma and Press Right to select Shin Akuma\n"
+    },
+    {
+      "gameid": "sfiii3bh",
+      "motd": "Discord: https://discord.gg/8hWg5GF\nGill is below Alex\nShin Akuma is above Ryu\n"
     },
     {
       "gameid": "sfiii4n",
