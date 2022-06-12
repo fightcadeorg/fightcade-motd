@@ -956,6 +956,14 @@
     {
       "gameid": "md_smsbrawl",
       "motd": "Official site: https://bonaf.itch.io/master-system-brawl\nHow to play on fc2 (pt-br / en): https://pastebin.com/3vM9nS0e\n"
+    },
+    {
+      "gameid": "snes_ultraclayfgt",
+      "motd": "Game Information: http://newchallenger.net/w/index.php/Ultra_ClayFighter_Tournament_Edition\nDiscord: https://discord.io/SNESFGC\nRomHacking.net Page: https://www.romhacking.net/hacks/6807\n"
+    },
+    {
+      "gameid": "vampjr1",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Darkstalkers:_The_Night_Warriors\nJapanese Frame Data: http://darkstalkers.web.fc2.com/vampire/vampire.html\nDiscord: https://discord.gg/5fwSewN33p\n"
     }
   ]
 }
