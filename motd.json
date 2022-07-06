@@ -968,6 +968,10 @@
         {
       "gameid": "flycast_dc_sf2049",
       "motd": "Team Rush Discord: https://discord.gg/teamrush\n"
+    },
+    {
+      "gameid": "flycast_dc_techromancer",
+      "motd": "Tech Romancer / 超鋼戦紀キカイオー Discord Server (日本語, 한국어 and Worldwide!): https://discord.gg/pbDErKYxs9\n\nDefault Controller layout (For Arcade Stick Users)\nA: Jump (J)\nB: Attack (B)\nX: Guard (G)\nY: Attack (A)\nL: Change Items (Arcade Start)\nR: Counterstrike (B+G)\n\nDefault Arcade Layout\n(A) (B) (J)\n(G) (x) (x)    (Arcade Start)\n"
     }
   ]
 }
