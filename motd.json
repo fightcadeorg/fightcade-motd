@@ -971,7 +971,7 @@
     },
     {
       "gameid": "flycast_dc_techromancer",
-      "motd": "Tech Romancer / 超鋼戦紀キカイオー Discord Server (日本語, 한국어 and Worldwide!): https://discord.gg/pbDErKYxs9\n\nDefault Controller layout (For Arcade Stick Users)\nA: Jump (J)\nB: Attack (B)\nX: Guard (G)\nY: Attack (A)\nL: Change Items (Arcade Start)\nR: Counterstrike (B+G)\n\nDefault Arcade Layout\n(A) (B) (J)\n(G) (x) (x)    (Arcade Start)\n"
+      "motd": "Tech Romancer / 超鋼戦紀キカイオー Discord Server (日本語, 한국어 and Worldwide!): https://discord.gg/pbDErKYxs9\n\nDefault Controller layout (For Arcade Stick Users)\nA: Jump (J)\nB: Attack (B)\nX: Guard (G)\nY: Attack (A)\nL: Change Items (Arcade Start)\nR: Counterstrike (B+G)\n\nDefault Arcade Layout\n(A) (B) (J)\n(G) (x) (x)    (Arcade Start)\n\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
     },
     {
       "gameid": "kof94",
@@ -984,6 +984,10 @@
     {
       "gameid": "kof95sp",
       "motd": "Discord: https://discord.gg/B3SGR8RMfx\n"
+    },
+    {
+      "gameid": "teot",
+      "motd": "Official site: https://ozzyouzo.itch.io/teot\n\n*Please make sure you and your opponent have the same revision!!*\n"
     }
   ]
 }
