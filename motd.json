@@ -7,7 +7,7 @@
     },
     {
       "gameid": "ssf2tnl",
-      "motd": "*Super Street Fighter II Turbo - New Legacy*\n\nOfficial Site (English): https://newlegacy.fr\nDiscord: https://discord.gg/g96Bj62\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\n"
+      "motd": "*Super Street Fighter II Turbo - New Legacy - Latest version: v0.7 (15/july/2022)*\nA rebalance of Super Turbo that also has many quality of life changes!\n\nYou can select stage using the START button over character in Character Select Screen (*NOT* the Coin button).\nTo pick the OLD version of a character, first pick the character with any P/K button, and confirm the character color with START.\nIf you're getting *DESYNCS* while playing online, please make sure that you and your opponent are both using the latest rom version.\n\nOfficial Site (English): https://newlegacy.fr\nDiscord: https://discord.gg/g96Bj62\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\n"
     },
     {
       "gameid": "sf",
@@ -163,7 +163,7 @@
     },
     {
       "gameid": "kof2003",
-      "motd": "Discord: https://discord.gg/JGQ6XFGDVZ\n"
+      "motd": "Discord: https://discord.gg/JGQ6XFGDVZ\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_2003\n"
     },
     {
       "gameid": "samsh5sp",
@@ -968,6 +968,26 @@
         {
       "gameid": "flycast_dc_sf2049",
       "motd": "Team Rush Discord: https://discord.gg/teamrush\n"
+    },
+    {
+      "gameid": "flycast_dc_techromancer",
+      "motd": "Tech Romancer / 超鋼戦紀キカイオー Discord Server (日本語, 한국어 and Worldwide!): https://discord.gg/pbDErKYxs9\n\nDefault Controller layout (For Arcade Stick Users)\nA: Jump (J)\nB: Attack (B)\nX: Guard (G)\nY: Attack (A)\nL: Change Items (Arcade Start)\nR: Counterstrike (B+G)\n\nDefault Arcade Layout\n(A) (B) (J)\n(G) (x) (x)    (Arcade Start)\n\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
+    },
+    {
+      "gameid": "kof94",
+      "motd": "Discord: https://discord.gg/B3SGR8RMfx\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_%2794\n"
+    },
+    {
+      "gameid": "kof95",
+      "motd": "Discord: https://discord.gg/B3SGR8RMfx\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_%2795\n"
+    },
+    {
+      "gameid": "kof95sp",
+      "motd": "Discord: https://discord.gg/B3SGR8RMfx\n"
+    },
+    {
+      "gameid": "teot",
+      "motd": "Official site: https://ozzyouzo.itch.io/teot\n\n*Please make sure you and your opponent have the same revision!!*\n"
     }
   ]
 }
