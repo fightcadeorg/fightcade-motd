@@ -400,7 +400,11 @@
     {
       "gameid": "cybotsam",
       "motd": "Hack Description: https://pastebin.com/kZnfcPct\nDiscord: https://discord.gg/4tgXDBYbuN\nSupercombo Wiki: https://wiki.supercombo.gg/w/Cyberbots:_Fullmetal_Madness\nMizuumi Wiki: https://wiki.gbl.gg/w/Cyberbots\nTraining Mode Lua: https://cdn.discordapp.com/attachments/185372964181508096/948124178559688724/cybots.lua\n"
-    },    
+    },
+    {
+      "gameid": "nes_hackmatch",
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\n*Support indie developers! Game ROM available for purchase:* https://zachtronics.itch.io/hackmatch-for-the-nes\n"
+    },
     {
       "gameid": "landmakr",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
@@ -662,6 +666,10 @@
       "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
     },
     {
+      "gameid": "flycast_sgtetris",
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\n*Note: Having trouble connecting? Try whitelisting flycast in your firewall:* http://flycast.dojo.ooo/faq.html#stuck-start-networking\n"
+    },
+    {
       "gameid": "nes_joymechfight",
       "motd": "Discord: https://discord.gg/ewjeffJ\n"
     },
@@ -835,7 +843,7 @@
     },
     {
       "gameid": "md_columns3",
-      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\n*NOTE: In ranked matches, you must select \"BEST OF 3\" in-game.*\n"
     },
     {
       "gameid": "spf2t",
@@ -903,7 +911,7 @@
     },
     {
       "gameid": "naname",
-      "motd": "Warning: Win counter works only when *3-rounds* is set!\nMake sure you and your opponent have configured DIPswitches before starting a match.\n"
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\nWarning: Win counter works only when *3-rounds* is set!\nMake sure you and your opponent have configured DIPswitches before starting a match.\n"
     },
     {
       "gameid": "flycast_toyfight",
