@@ -111,7 +111,7 @@
     },
     {
       "gameid": "mk2",
-      "motd": "Klassics on Fightcade: https://discord.gg/hdd4MfXAYa\nComunidad Retromancos: https://www.facebook.com/retromancos\nGame Resources: https://wiki.supercombo.gg/w/Mortal_Kombat_II\n"
+      "motd": "Comunidad Retromancos: https://www.facebook.com/retromancos\nGame Resources: https://wiki.supercombo.gg/w/Mortal_Kombat_II\n"
     },
     {
       "gameid": "umk3",
@@ -1000,6 +1000,18 @@
     {
       "gameid": "teot",
       "motd": "Official site: https://ozzyouzo.itch.io/teot\n\n*Please make sure you and your opponent have the same revision!!*\n"
+    },
+    {
+      "gameid": "kf2k3upl",
+      "motd": "Discord: https://discord.gg/JGQ6XFGDVZ\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_2003\n"
+    },
+    {
+      "gameid": "kf2k3ps2",
+      "motd": "Discord: https://discord.gg/JGQ6XFGDVZ\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_2003\n"
+    },
+    {
+      "gameid": "kf2k3ps2sp",
+      "motd": "Discord: https://discord.gg/JGQ6XFGDVZ\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_2003\n"
     }
   ]
 }
