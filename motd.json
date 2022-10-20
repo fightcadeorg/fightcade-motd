@@ -747,7 +747,7 @@
     },
     {
       "gameid": "flycast_ausfache",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Akatsuki_Blitzkampf\nGlobal Discord: https://discord.gg/HH2K73K99s\nBrazilian Discord: https://discord.gg/pr9CkgqkDd\nLatam Discord: https://discord.gg/WUUTB6TWGV\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Akatsuki_Blitzkampf\nGlobal Discord: https://discord.gg/HH2K73K99s\nBrazilian Discord: https://discord.gg/pr9CkgqkDd\nArgentinian Discord: https://discord.gg/WUUTB6TWGV\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the emu.cfg file in your Fightcade\\emulator\\flycast folder and try again.\n"
     },
     {
       "gameid": "flycast_pjustic",
