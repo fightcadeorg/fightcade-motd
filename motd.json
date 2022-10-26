@@ -571,7 +571,7 @@
     },
     {
       "gameid": "doubledr",
-      "motd": "Discord: https://discord.gg/9kDHQewKab\n"
+      "motd": "Discord: https://discord.gg/uyAmdaTS3D\n"
     },
     {
       "gameid": "savagere",
@@ -1020,6 +1020,18 @@
     {
       "gameid": "kf2k3ps2sp",
       "motd": "Hold start above Iori to select Adelheid, and above Kyo to select Mukai.\n\n\nDiscord: https://discord.gg/JGQ6XFGDVZ\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_2003\n"
+    },
+    {
+      "gameid": "flycast_ngbc",
+      "motd": "For Neo Geo Battle Coliseum, be sure to set the Transparent Sorting in your Video options to Per Pixel. You will need to switch your Graphics API to Vulkan, OpenGL, or DirectX 11.\n"
+    },
+    {
+      "gameid": "flycast_jingystm",
+      "motd": "Jingi Storm: The Arcade Discord: https://discord.gg/sNeASH8b\n"
+    },
+    {
+      "gameid": "tkdensho",
+      "motd": "Mizuumi Wiki: https://wiki.gbl.gg/w/Touki_Denshou_Angel_Eyes\n"
     },
     {
       "gameid": "aliencha",
