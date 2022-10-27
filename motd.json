@@ -11,7 +11,7 @@
     },
     {
       "gameid": "sf",
-      "motd": "Street Fighter Discord Server:https://discord.gg/e7W46dkURp\n"
+      "motd": "Street Fighter Discord Server: https://discord.gg/e7W46dkURp\n"
     },
     {
       "gameid": "sf2mix",
@@ -451,11 +451,11 @@
     },
     {
       "gameid": "svc",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\nBeginner's Guide Video: https://youtu.be/QMqwVuWbKRY\n"
     },
     {
       "gameid": "svcsplus",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\nBeginner's Guide Video: https://youtu.be/QMqwVuWbKRY\n"
     },
     {
       "gameid": "magdrop2",
@@ -1036,6 +1036,14 @@
     {
       "gameid": "aliencha",
       "motd": "To play as Claus, highlight Nic-San, then press right 8 times, left 4 times, and down 4 times.\n\n\nWiki: https://wiki.gbl.gg/w/Alien_Challenge/nDiscord: https://discord.gg/fHqAfPfupg"
+    },
+    {
+      "gameid": "avengrgsbh",
+      "motd": "Discord: https://discord.gg/X7sxAYCdhq\nWiki: https://wiki.gbl.gg/w/Avengers_in_Galactic_Storm\n"
+    },
+    {
+      "gameid": "sfpp",
+      "motd": "Street Fighter Discord Server: https://discord.gg/e7W46dkURp\n"
     }
   ]
 }
