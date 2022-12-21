@@ -58,7 +58,7 @@
       "motd": "Discord: https://discord.gg/8hWg5GF\nGill is below Alex\nShin Akuma is above Ryu\n"
     },
     {
-      "gameid": "sfiii4ts",
+      "gameid": "sfiii4fs",
       "motd": "Balance Changes: https://rvnnotd.wixsite.com/streetfighter/changes\nDiscord: https://discord.gg/nrS6UCRx\n"
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "gameid": "fatfursp",
-      "motd": "Guide: https://drive.google.com/file/d/1H_3aVeT34YUNnj946I6xgtweU1o7czbH/view\nJapanese Wiki: https://seesaawiki.jp/garosp\nDiscord: https://discord.gg/7Qvv7K4\nFrench Discord: https://discord.gg/FawNeefP\n"
+      "motd": "Guide: https://drive.google.com/file/d/1H_3aVeT34YUNnj946I6xgtweU1o7czbH/view\nJapanese Wiki: https://seesaawiki.jp/garosp\nDiscord: https://discord.gg/7Qvv7K4\nFrench Discord: https://discord.gg/Pyq7eJA5kw\n"
     },
     {
       "gameid": "rotd",
@@ -1044,6 +1044,10 @@
     {
       "gameid": "sfpp",
       "motd": "Street Fighter Discord Server: https://discord.gg/e7W46dkURp\n"
+    },
+    {
+      "gameid": "md_insanepain",
+      "motd": "Official site: https://blast-process-games.itch.io/insane-pain\n"
     }
   ]
 }
