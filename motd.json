@@ -71,7 +71,7 @@
     },
     {
       "gameid": "jojobanr1",
-      "motd": "Wiki: https://jojoban.fandom.com/wiki/JoJoban\nDiscord: https://discord.gg/EFZyyJm\nLatam Discord: https://discord.gg/m2CPKEr\nRussian Discord: https://discord.gg/NgcgPHm\nIsrael Discord: https://discord.gg/W8NkAF8zRR\nBrazilian Discord: https://discord.gg/R5k3qWt\nHFTF Middle East and North Africa: https://discord.gg/vbTujm33ns\nHFTF Asia: https://discord.gg/5SWas9pwts\nHFTF Oceania: https://discord.gg/5VWc9suW4R\nFrench Discord : https://discord.gg/rXKwpkTkKy\nHFTF Smackdown: https://discord.gg/qK7YKYmBEy\nHFTF Awakened: https://discord.gg/GnDQ9eaGQB\nOne Night Stand (Tournament Community): https://discord.gg/jka932k3cs\n"
+      "motd": "Wiki: https://jojoban.fandom.com/wiki/JoJoban\nDiscord: https://discord.gg/EFZyyJm\nLatam Discord: https://discord.gg/m2CPKEr\nRussian Discord: https://discord.gg/NgcgPHm\nBrazilian Discord: https://discord.gg/R5k3qWt\nHFTF Asia: https://discord.gg/5SWas9pwts\nHFTF Smackdown: https://discord.gg/qK7YKYmBEy\nHFTF Awakened: https://discord.gg/GnDQ9eaGQB\nOne Night Stand (Tournament Community): https://discord.gg/jka932k3cs\n"
     },
     {
       "gameid": "jojo",
@@ -467,7 +467,7 @@
     },
     {
       "gameid": "sf2ce",
-      "motd": "Discord Peru: https://discord.gg/ShGmjmfhAh\nYouTube Retromancos: https://www.youtube.com/channel/UC84wAqkNFKIlQA9UWLq0XOw\nComunidad Retromancos: https://www.facebook.com/retromancos\nTraining mode: https://www.youtube.com/watch?v=yRxIDOZjGyU\nWiki: https://wiki.supercombo.gg/w/Street_Fighter_2:_Champion_Edition\n"
+      "motd": "Discord Peru: https://discord.gg/ShGmjmfhAh\nYouTube Retromancos: https://www.youtube.com/channel/UC84wAqkNFKIlQA9UWLq0XOw\nComunidad Retromancos: https://www.facebook.com/retromancos\nYouTube Fighter Latino: https://youtube.com/@fighterlatinos\nComunidad Fighter Latino sf2: https://www.facebook.com/Errenoob\nTraining mode: https://www.youtube.com/watch?v=yRxIDOZjGyU\nWiki: https://wiki.supercombo.gg/w/Street_Fighter_2:_Champion_Edition\n"
     },
     {
       "gameid": "sf2hf",
@@ -511,7 +511,7 @@
     },
     {
       "gameid": "sgemf",
-      "motd": "Discord: https://discord.gg/PAbX53nNfU\nGemini (Training Mode) v1.04: https://tinyurl.com/geminiV104\n"
+      "motd": "Discord: https://discord.gg/PAbX53nNfU\nGemini (Training Mode) v1.05: https://tinyurl.com/geminiV105\n"
     },
     {
       "gameid": "esckidsj",
@@ -743,7 +743,7 @@
     },
     {
       "gameid": "md_yuyusf",
-      "motd": "Discord: https://discord.gg/8fnXmx52za\nTreasure Fighters Wiki: treasure.newchallenger.net\nThere is now an English Translation channel available under yuyumte!\n"
+      "motd": "Discord: https://discord.gg/8fnXmx52za\nServidor Brasileiro: https://discord.gg/e2qEmxVd\nTreasure Fighters Wiki: treasure.newchallenger.net\n"
     },
     {
       "gameid": "md_yuyumte",
@@ -1048,6 +1048,10 @@
     {
       "gameid": "md_insanepain",
       "motd": "Official site: https://blast-process-games.itch.io/insane-pain\n"
-    }
+    },
+    {
+      "gameid": "snes_yuyufin",
+      "motd": "Servidor Brasileiro: https://discord.gg/e2qEmxVd\n"
+    },
   ]
 }
