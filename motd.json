@@ -171,7 +171,7 @@
     },
     {
       "gameid": "samsh5sp",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_V_Special\nDiscord: https://discord.gg/bBs4TAr\nBrazilian Discord: https://discord.io/specialshodown\nLatam Discord: https://discord.gg/HFmcPxTJNg\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_V_Special\nDiscord: https://discord.gg/bBs4TAr\nBrazilian Discord: https://discord.io/specialshodown\nLatam Discord: https://discord.gg/HFmcPxTJNg\nLiga SamSho 5 Special (Dojo eSports): https://discord.gg/4K6bATSsWP\n"
     },
     {
       "gameid": "samsho",
@@ -1052,6 +1052,14 @@
     {
       "gameid": "snes_yuyufin",
       "motd": "Servidor Brasileiro: https://discord.gg/hqerHt3vCp\n"
+    },
+    {
+      "gameid": "flycast_dc_gram2000",
+      "motd": "Giant Gram 2000 Discord: https://discord.gg/AHtAUZmkZr\n"
+    },
+    {
+      "gameid": "snes_issdxu",
+      "motd": "Copa ISSDeluxe: https://www.facebook.com/groups/392193104231879\nCopa ISSD PRO: https://www.facebook.com/groups/456905675232194\n"
     }
   ]
 }
