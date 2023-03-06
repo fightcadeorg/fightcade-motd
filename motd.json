@@ -479,7 +479,7 @@
     },
     {
       "gameid": "kizuna",
-      "motd": "Discord: https://discord.gg/NxPXbDR\nWiki: https://wiki.gbl.gg/w/Kizuna_Encounter\n"
+      "motd": "Discord: https://discord.gg/NxPXbDR\nSpanish server: https://discord.com/invite/NHShB2X\nWiki: https://wiki.gbl.gg/w/Kizuna_Encounter\n"
     },
     {
       "gameid": "aof",
@@ -679,11 +679,11 @@
     },
     {
       "gameid": "snes_gndmwend",
-      "motd": "Wiki: https://newchallenger.net/w/index.php?title=Gundam_Wing:_Endless_Duel\nDiscord: https://discord.gg/gvaMAq9\n"
+      "motd": "Wiki: https://newchallenger.net/w/index.php?title=Gundam_Wing:_Endless_Duel\nDiscord: https://discord.gg/gvaMAq9\nSpanish server: https://discord.com/invite/NHShB2X\n"
     },
     {
       "gameid": "snes_tmnttfce",
-      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Teenage_Mutant_Ninja_Turtles_Tournament_Fighters\nDiscord: https://discord.io/SNESFGC\n"
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Teenage_Mutant_Ninja_Turtles_Tournament_Fighters\nDiscord: https://discord.io/SNESFGC\nSpanish server: https://discord.com/invite/NHShB2X\n"
     },
     {
       "gameid": "snes_sailorsf",
@@ -751,7 +751,7 @@
     },
     {
       "gameid": "flycast_ausfache",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Akatsuki_Blitzkampf\nGlobal Discord: https://discord.gg/HH2K73K99s\nBrazilian Discord: https://discord.gg/pr9CkgqkDd\nArgentinian Discord: https://discord.gg/WUUTB6TWGV\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the emu.cfg file in your Fightcade\\emulator\\flycast folder and try again.\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Akatsuki_Blitzkampf\nGlobal Discord: https://discord.gg/HH2K73K99s\nBrazilian Discord: https://discord.gg/pr9CkgqkDd\nArgentinian Discord: https://discord.gg/WUUTB6TWGV\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the *emu.cfg* file in your *Fightcade\\emulator\\flycast* folder and try again.\n"
     },
     {
       "gameid": "flycast_pjustic",
@@ -767,7 +767,7 @@
     },
     {
       "gameid": "flycast_cvs2",
-      "motd": "Wiki (being updated!): https://wiki.supercombo.gg/w/Capcom_vs_SNK_2\nCvS2 Bible (Scans): http://tinyurl.com/CvS2Bible\nCvS2 GameFAQs: https://gamefaqs.gamespot.com/arcade/562704-capcom-vs-snk-2/faqs\nCvS2 Community Discord: http://tinyurl.com/CvS2Discord\nTrue Love Makin Academy (Latin America): https://discord.gg/VqMhyUhKjm\nFull setup guide, download help, and training mode info is available here: https://wiki.supercombo.gg/w/Capcom_vs_SNK_2/Emulation_and_Netplay\nHitbox Images (c/o RagingStormX): https://drive.google.com/drive/folders/1h9xdMlUGkNlZsErASrsRZzvmd9tnKEF6\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the emu.cfg file in your Fightcade\\emulator\\flycast folder and try again.\n"
+      "motd": "Wiki (being updated!): https://wiki.supercombo.gg/w/Capcom_vs_SNK_2\nCvS2 Bible (Scans): http://tinyurl.com/CvS2Bible\nCvS2 GameFAQs: https://gamefaqs.gamespot.com/arcade/562704-capcom-vs-snk-2/faqs\nCvS2 Community Discord: http://tinyurl.com/CvS2Discord\nTrue Love Makin Academy (Latin America): https://discord.gg/VqMhyUhKjm\nFull setup guide, download help, and training mode info is available here: https://wiki.supercombo.gg/w/Capcom_vs_SNK_2/Emulation_and_Netplay\nHitbox Images (c/o RagingStormX): https://drive.google.com/drive/folders/1h9xdMlUGkNlZsErASrsRZzvmd9tnKEF6\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the *emu.cfg* file in your *Fightcade\\emulator\\flycast* folder and try again.\n"
     },
     {
       "gameid": "flycast_dc_plasmasword",
@@ -1064,6 +1064,10 @@
     {
       "gameid": "flycast_gram2000",
       "motd": "Giant Gram 2000 Discord: https://discord.gg/AHtAUZmkZr\n"
+    },
+    {
+      "gameid": "flycast_mvsc2",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\n\nFor common questions, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the *emu.cfg* file in your *Fightcade\\emulator\\flycast* folder and try again.\n"
     }
   ]
 }
