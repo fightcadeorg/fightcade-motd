@@ -955,7 +955,7 @@
     },
     {
       "gameid": "dinore",
-      "motd": "Official Site: https://gamehackfan.github.io/dinore\n\nNeeds original game (dino.zip) to obtain romhack.\n"
+      "motd": "*Latest version: 1.3 (2023-03-06)*\n\nOfficial Site: https://gamehackfan.github.io/dinore\nNeeds original game (dino.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
     },
     {
       "gameid": "nes_kartfighter",
@@ -1068,6 +1068,10 @@
     {
       "gameid": "flycast_mvsc2",
       "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\n\nFor common questions, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the *emu.cfg* file in your *Fightcade\\emulator\\flycast* folder and try again.\n"
+    },
+    {
+      "gameid": "captre",
+      "motd": "*Latest version: 1.1 (2023-03-09)*\n\nOfficial Site: https://gamehackfan.github.io/captre\nNeeds original game (captcomm.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
     }
   ]
 }
