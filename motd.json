@@ -43,7 +43,7 @@
     },
     {
       "gameid": "sfiii3nr1",
-      "motd": "Discord: https://discord.gg/8hWg5GF\nBrazilian Discord: https://discord.io/Instituto-Masters\nColombian Discord: https://discord.gg/45bWx5JZHC\nRussian and CIS Community: https://discord.gg/hSrMGTUtUG\nChilean Discord: https://discord.gg/Ak6S3bd\nTelegram: https://sfiii3.t.me/\nTraining Mode: https://github.com/Grouflon/3rd_training_lua\nGame Resources: https://wiki.supercombo.gg/w/Street_Fighter_3:_3rd_Strike\n"
+      "motd": "Discord: https://discord.gg/8hWg5GF\nBrazilian Discord: https://discord.io/Instituto-Masters\nColombian Discord: https://discord.gg/45bWx5JZHC\nRussian and CIS Community: https://discord.gg/hSrMGTUtUG\nChilean Discord: https://discord.gg/Ak6S3bd\nDR Discord: https://discord.gg/8fhbUzTWzG\nTelegram: https://sfiii3.t.me/\nTraining Mode: https://github.com/Grouflon/3rd_training_lua\nGame Resources: https://wiki.supercombo.gg/w/Street_Fighter_3:_3rd_Strike\n"
     },
     {
       "gameid": "sfiiibh",
@@ -71,7 +71,7 @@
     },
     {
       "gameid": "jojobanr1",
-      "motd": "Wiki: https://jojoban.fandom.com/wiki/JoJoban\nDiscord: https://discord.gg/EFZyyJm\nLatam Discord: https://discord.gg/m2CPKEr\nRussian Discord: https://discord.gg/NgcgPHm\nBrazilian Discord: https://discord.gg/R5k3qWt\nHFTF Asia: https://discord.gg/5SWas9pwts\nHFTF Smackdown: https://discord.gg/qK7YKYmBEy\nHFTF Awakened: https://discord.gg/GnDQ9eaGQB\nOne Night Stand (Tournament Community): https://discord.gg/jka932k3cs\n"
+      "motd": "Wiki: https://jojoban.fandom.com/wiki/JoJoban\nDiscord: https://discord.gg/EFZyyJm\nLatam Discord: https://discord.gg/m2CPKEr\nRussian Discord: https://discord.gg/NgcgPHm\nBrazilian Discord: https://discord.gg/R5k3qWt\nHFTF Asia: https://discord.gg/5SWas9pwts\nHFTF Smackdown: https://discord.gg/qK7YKYmBEy\nHFTF Awakened: https://discord.gg/GnDQ9eaGQB\nOne Night Stand (Tournament Community): https://discord.gg/jka932k3cs\nThe Heavenly Society (Tournament Community): https://discord.gg/reAPqgUfNz\n"
     },
     {
       "gameid": "jojo",
@@ -479,7 +479,7 @@
     },
     {
       "gameid": "kizuna",
-      "motd": "Discord: https://discord.gg/NxPXbDR\nWiki: https://wiki.gbl.gg/w/Kizuna_Encounter\n"
+      "motd": "Discord: https://discord.gg/NxPXbDR\nSpanish server: https://discord.com/invite/NHShB2X\nWiki: https://wiki.gbl.gg/w/Kizuna_Encounter\n"
     },
     {
       "gameid": "aof",
@@ -679,11 +679,11 @@
     },
     {
       "gameid": "snes_gndmwend",
-      "motd": "Wiki: https://newchallenger.net/w/index.php?title=Gundam_Wing:_Endless_Duel\nDiscord: https://discord.gg/gvaMAq9\n"
+      "motd": "Wiki: https://newchallenger.net/w/index.php?title=Gundam_Wing:_Endless_Duel\nDiscord: https://discord.gg/gvaMAq9\nSpanish server: https://discord.com/invite/NHShB2X\n"
     },
     {
       "gameid": "snes_tmnttfce",
-      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Teenage_Mutant_Ninja_Turtles_Tournament_Fighters\nDiscord: https://discord.io/SNESFGC\n"
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Teenage_Mutant_Ninja_Turtles_Tournament_Fighters\nDiscord: https://discord.io/SNESFGC\nSpanish server: https://discord.com/invite/NHShB2X\n"
     },
     {
       "gameid": "snes_sailorsf",
@@ -751,7 +751,7 @@
     },
     {
       "gameid": "flycast_ausfache",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Akatsuki_Blitzkampf\nGlobal Discord: https://discord.gg/HH2K73K99s\nBrazilian Discord: https://discord.gg/pr9CkgqkDd\nArgentinian Discord: https://discord.gg/WUUTB6TWGV\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the emu.cfg file in your Fightcade\\emulator\\flycast folder and try again.\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Akatsuki_Blitzkampf\nGlobal Discord: https://discord.gg/HH2K73K99s\nBrazilian Discord: https://discord.gg/pr9CkgqkDd\nArgentinian Discord: https://discord.gg/WUUTB6TWGV\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the *emu.cfg* file in your *Fightcade\\emulator\\flycast* folder and try again.\n"
     },
     {
       "gameid": "flycast_pjustic",
@@ -767,7 +767,7 @@
     },
     {
       "gameid": "flycast_cvs2",
-      "motd": "Wiki (being updated!): https://wiki.supercombo.gg/w/Capcom_vs_SNK_2\nCvS2 Bible (Scans): http://tinyurl.com/CvS2Bible\nCvS2 GameFAQs: https://gamefaqs.gamespot.com/arcade/562704-capcom-vs-snk-2/faqs\nCvS2 Community Discord: http://tinyurl.com/CvS2Discord\nTrue Love Makin Academy (Latin America): https://discord.gg/VqMhyUhKjm\nFull setup guide, download help, and training mode info is available here: https://wiki.supercombo.gg/w/Capcom_vs_SNK_2/Emulation_and_Netplay\nHitbox Images (c/o RagingStormX): https://drive.google.com/drive/folders/1h9xdMlUGkNlZsErASrsRZzvmd9tnKEF6\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the emu.cfg file in your Fightcade\\emulator\\flycast folder and try again.\n"
+      "motd": "Wiki (being updated!): https://wiki.supercombo.gg/w/Capcom_vs_SNK_2\nCvS2 Bible (Scans): http://tinyurl.com/CvS2Bible\nCvS2 GameFAQs: https://gamefaqs.gamespot.com/arcade/562704-capcom-vs-snk-2/faqs\nCvS2 Community Discord: http://tinyurl.com/CvS2Discord\nTrue Love Makin Academy (Latin America): https://discord.gg/VqMhyUhKjm\nFull setup guide, download help, and training mode info is available here: https://wiki.supercombo.gg/w/Capcom_vs_SNK_2/Emulation_and_Netplay\nHitbox Images (c/o RagingStormX): https://drive.google.com/drive/folders/1h9xdMlUGkNlZsErASrsRZzvmd9tnKEF6\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the *emu.cfg* file in your *Fightcade\\emulator\\flycast* folder and try again.\n"
     },
     {
       "gameid": "flycast_dc_plasmasword",
@@ -955,7 +955,7 @@
     },
     {
       "gameid": "dinore",
-      "motd": "Official Site: https://gamehackfan.github.io/dinore\n\nNeeds original game (dino.zip) to obtain romhack.\n"
+      "motd": "*Latest version: 1.3 (2023-03-06)*\n\nOfficial Site: https://gamehackfan.github.io/dinore\nNeeds original game (dino.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
     },
     {
       "gameid": "nes_kartfighter",
@@ -995,7 +995,7 @@
     },
     {
       "gameid": "kof95",
-      "motd": "Discord: https://discord.gg/B3SGR8RMfx\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_%2795\n"
+      "motd": "Discord: https://discord.gg/B3SGR8RMfx\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_%2795\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNMsZ1qVDHrTMn0DigjD_gR\n"
     },
     {
       "gameid": "kof95sp",
@@ -1064,6 +1064,22 @@
     {
       "gameid": "flycast_gram2000",
       "motd": "Giant Gram 2000 Discord: https://discord.gg/AHtAUZmkZr\n"
+    },
+    {
+      "gameid": "flycast_mvsc2",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\n\nFor common questions, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the *emu.cfg* file in your *Fightcade\\emulator\\flycast* folder and try again.\n"
+    },
+    {
+      "gameid": "captre",
+      "motd": "*Latest version: 1.1 (2023-03-09)*\n\nOfficial Site: https://gamehackfan.github.io/captre\nNeeds original game (captcomm.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
+    },
+    {
+      "gameid": "bestbest",
+      "motd": "Move List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GO9iJQ1UqxAa8kzRdtiCNrt\n"
+    },
+    {
+      "gameid": "fightfeva",
+      "motd": "Move List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GO3n_dbYF4RrglHg5IWLh7J\n"
     }
   ]
 }
