@@ -587,7 +587,7 @@
     },
     {
       "gameid": "gundamex",
-      "motd": "Discord: https://discord.gg/TaFYrDcCZk\n"
+      "motd": "Discord: https://discord.gg/TaFYrDcCZk\nGuide and Move List: https://gamefaqs.gamespot.com/arcade/568294-mobile-suit-gundam-ex-revue/faqs/79989\nWiki: https://wiki.gbl.gg/w/Mobile_Suit_Gundam:_Ex_Revue\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GPwvcbSWnn6PqXY-k420l5Z\n"
     },
     {
       "gameid": "tgm2p",
@@ -1084,6 +1084,14 @@
     {
       "gameid": "xmcotan",
       "motd": "Discord: https://discord.gg/e2pQFFj\n"
+    },
+    {
+      "gameid": "snes_megaman7u",
+      "motd": "Versus Mode Password: 1415 5585 7823 6251 and hold L+R\n"
+    },
+    {
+      "gameid": "snes_rockman7",
+      "motd": "Versus Mode Password: 1415 5585 7823 6251 and hold L+R\n"
     }
   ]
 }
