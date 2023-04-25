@@ -1092,6 +1092,18 @@
     {
       "gameid": "snes_rockman7",
       "motd": "Versus Mode Password: 1415 5585 7823 6251 and hold L+R\n"
+    },
+    {
+      "gameid": "mmaulers",
+      "motd": "Anne Guide/Strats by Ivy-IV: https://www.speedrun.com/monster_maulers/guide/8qnvy\n"
+    },
+    {
+      "gameid": "shocktro",
+      "motd": "Shock Therapy Hints and Tips: http://bbh.marpirc.net/shocktherapy/shock.html\n"
+    },
+    {
+      "gameid": "tengai",
+      "motd": "Sengoku Blade Guide: https://shmups.system11.org/viewtopic.php?f=5&t=40721\n"
     }
   ]
 }
