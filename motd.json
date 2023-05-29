@@ -175,23 +175,23 @@
     },
     {
       "gameid": "samsho",
-      "motd": "Discord: https://discord.gg/bBs4TAr\n"
+      "motd": "Discord: https://discord.gg/bBs4TAr\nJapanese atwiki: https://w.atwiki.jp/samurai1\nJapanese Seesaa Wiki: https://seesaawiki.jp/kakugesouko/d/%bd%e9%a5%b5%a5%e0/%a5%e1%a5%e2\nHitboxes, Frame Data, Japanese Events: http://samurai.mania.cx/ss/index.html\n"
     },
     {
       "gameid": "samsho2",
-      "motd": "Discord: https://discord.gg/bBs4TAr\n"
+      "motd": "Discord: https://discord.gg/bBs4TAr\nJapanese Wiki: http://shinjin.starfree.jp/SinSamurai_Main.htm\n"
     },
     {
       "gameid": "samsho3",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_3\nDiscord: https://discord.gg/bBs4TAr\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_3\nJapanese Wiki: https://w.atwiki.jp/zankuroumusouken/pages/1.html\nDiscord: https://discord.gg/bBs4TAr\nBeginner's Guide Video: https://youtu.be/_huHz02GFLw\n"
     },
     {
       "gameid": "samsho4",
-      "motd": "Discord: https://discord.gg/bBs4TAr\n"
+      "motd": "Discord: https://discord.gg/bBs4TAr\nEnglish Wiki: https://dreamcancel.com/wiki/Samurai_Shodown_IV\nJapanese Wiki: http://www5b.biglobe.ne.jp/~hitokiri/amakusa.htm\n"
     },
     {
       "gameid": "samsho5",
-      "motd": "Discord: https://discord.gg/bBs4TAr\n"
+      "motd": "Discord: https://discord.gg/bBs4TAr\nJapanese Wiki: http://www5b.biglobe.ne.jp/~hitokiri/z_index.htm\n"
     },
     {
       "gameid": "rbff1",
@@ -587,7 +587,7 @@
     },
     {
       "gameid": "gundamex",
-      "motd": "Discord: https://discord.gg/TaFYrDcCZk\n"
+      "motd": "Discord: https://discord.gg/TaFYrDcCZk\nGuide and Move List: https://gamefaqs.gamespot.com/arcade/568294-mobile-suit-gundam-ex-revue/faqs/79989\nWiki: https://wiki.gbl.gg/w/Mobile_Suit_Gundam:_Ex_Revue\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GPwvcbSWnn6PqXY-k420l5Z\n"
     },
     {
       "gameid": "tgm2p",
@@ -955,7 +955,7 @@
     },
     {
       "gameid": "dinore",
-      "motd": "*Latest version: 1.3 (2023-03-06)*\n\nOfficial Site: https://gamehackfan.github.io/dinore\nNeeds original game (dino.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
+      "motd": "*Latest version: 1.3.1 (2023-03-21)*\n\nOfficial Site: https://gamehackfan.github.io/dinore\nNeeds original game (dino.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
     },
     {
       "gameid": "nes_kartfighter",
@@ -1080,6 +1080,30 @@
     {
       "gameid": "fightfeva",
       "motd": "Move List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GO3n_dbYF4RrglHg5IWLh7J\n"
+    },
+    {
+      "gameid": "xmcotan",
+      "motd": "Discord: https://discord.gg/e2pQFFj\n"
+    },
+    {
+      "gameid": "snes_megaman7u",
+      "motd": "Versus Mode Password: 1415 5585 7823 6251 and hold L+R\n"
+    },
+    {
+      "gameid": "snes_rockman7",
+      "motd": "Versus Mode Password: 1415 5585 7823 6251 and hold L+R\n"
+    },
+    {
+      "gameid": "mmaulers",
+      "motd": "Anne Guide/Strats by Ivy-IV: https://www.speedrun.com/monster_maulers/guide/8qnvy\n"
+    },
+    {
+      "gameid": "shocktro",
+      "motd": "Shock Therapy Hints and Tips: http://bbh.marpirc.net/shocktherapy/shock.html\n"
+    },
+    {
+      "gameid": "tengai",
+      "motd": "Sengoku Blade Guide: https://shmups.system11.org/viewtopic.php?f=5&t=40721\n"
     }
   ]
 }
