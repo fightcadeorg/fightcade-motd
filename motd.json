@@ -1027,7 +1027,7 @@
     },
     {
       "gameid": "flycast_jingystm",
-      "motd": "Jingi Storm: The Arcade Discord: https://discord.gg/gWXb9PUpYv\n"
+      "motd": "Jingi Storm: The Arcade Discord: https://discord.gg/gWXb9PUpYv\nWiki: https://wiki.gbl.gg/w/Jingi_Storm:_The_Arcade\n"
     },
     {
       "gameid": "tkdensho",
@@ -1104,6 +1104,10 @@
     {
       "gameid": "tengai",
       "motd": "Sengoku Blade Guide: https://shmups.system11.org/viewtopic.php?f=5&t=40721\n"
+    },
+    {
+      "gameid": "flycast_kofxi",
+      "motd": "Wiki (SRK): https://srk.shib.live/w/The_King_of_Fighters_XI\nWiki (HE): https://wiki.hardedge.org/index.php?title=The_King_of_Fighters_XI\nDiscord: https://discord.gg/RaXgUCrzwN\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
     }
   ]
 }
