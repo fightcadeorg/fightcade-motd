@@ -1108,6 +1108,10 @@
     {
       "gameid": "flycast_kofxi",
       "motd": "Wiki (SRK): https://srk.shib.live/w/The_King_of_Fighters_XI\nWiki (HE): https://wiki.hardedge.org/index.php?title=The_King_of_Fighters_XI\nDiscord: https://discord.gg/RaXgUCrzwN\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
+    },
+    {
+      "gameid": "mtlchamp",
+      "motd": "Discord: https://discord.gg/zZbQYGA7TB\n"
     }
   ]
 }
