@@ -1116,6 +1116,14 @@
     {
       "gameid": "nes_tecmosuperbowl",
       "motd": "Discord: https://discord.gg/hqbpgbVzMz\n"
+    },
+    {
+      "gameid": "snes_stennisu",
+      "motd": "Super Tennis SNES Community: https://www.facebook.com/groups/supertennisonline\n"
+    },
+    {
+      "gameid": "snes_smkartu",
+      "motd": "Super Mario Kart SNES Community: https://www.facebook.com/groups/supermariokartonline\n"
     }
   ]
 }
