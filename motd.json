@@ -7,7 +7,7 @@
     },
     {
       "gameid": "ssf2tnl",
-      "motd": "*Super Street Fighter II Turbo - New Legacy - Latest version: v0.7.1 (06/september/2022)*\nA rebalance of Super Turbo that also has many quality of life changes!\n\nYou can select stage using the START button over character in Character Select Screen (*NOT* the Coin button).\nTo pick the OLD version of a character, first pick the character with any P/K button, and confirm the character color with START.\nIf you're getting *DESYNCS* while playing online, please make sure that you and your opponent are both using the latest rom version.\n\nOfficial Site (English): https://newlegacy.fr\nDiscord: https://discord.gg/f6HYxyKMmR\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\n"
+      "motd": "*Super Street Fighter II Turbo - New Legacy - Latest version: v0.8 (20/july/2023)*\nA rebalance of Super Turbo that also has many quality of life changes!\n\nYou can select stage using the START button over character in Character Select Screen (*NOT* the Coin button).\nTo pick the OLD version of a character, first pick the character with any P/K button, and confirm the character color with START.\nIf you're getting *DESYNCS* while playing online, please make sure that you and your opponent are both using the latest rom version.\n\nOfficial Site (English): https://newlegacy.fr\nDiscord: https://discord.gg/f6HYxyKMmR\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\n"
     },
     {
       "gameid": "sf",
@@ -43,7 +43,7 @@
     },
     {
       "gameid": "sfiii3nr1",
-      "motd": "Discord: https://discord.gg/8hWg5GF\nBrazilian Discord: https://discord.io/Instituto-Masters\nColombian Discord: https://discord.gg/45bWx5JZHC\nRussian and CIS Community: https://discord.gg/hSrMGTUtUG\nChilean Discord: https://discord.gg/Ak6S3bd\nDR Discord: https://discord.gg/8fhbUzTWzG\nTelegram: https://sfiii3.t.me/\nTraining Mode: https://github.com/Grouflon/3rd_training_lua\nGame Resources: https://wiki.supercombo.gg/w/Street_Fighter_3:_3rd_Strike\n"
+      "motd": "Discord: https://discord.gg/8hWg5GF\nBrazilian Discord: https://discord.io/Instituto-Masters\nColombian Discord: https://discord.gg/jvQVeJ5CuX\nRussian and CIS Community: https://discord.gg/hSrMGTUtUG\nChilean Discord: https://discord.gg/Ak6S3bd\nDR Discord: https://discord.gg/8fhbUzTWzG\nTelegram: https://sfiii3.t.me/\nTraining Mode: https://github.com/Grouflon/3rd_training_lua\nGame Resources: https://wiki.supercombo.gg/w/Street_Fighter_3:_3rd_Strike\n"
     },
     {
       "gameid": "sfiiibh",
@@ -71,7 +71,7 @@
     },
     {
       "gameid": "jojobanr1",
-      "motd": "Wiki: https://jojoban.fandom.com/wiki/JoJoban\nDiscord: https://discord.gg/EFZyyJm\nLatam Discord: https://discord.gg/m2CPKEr\nRussian Discord: https://discord.gg/NgcgPHm\nBrazilian Discord: https://discord.gg/R5k3qWt\nHFTF Asia: https://discord.gg/5SWas9pwts\nHFTF Smackdown: https://discord.gg/qK7YKYmBEy\nHFTF Awakened: https://discord.gg/GnDQ9eaGQB\nOne Night Stand (Tournament Community): https://discord.gg/jka932k3cs\nThe Heavenly Society (Tournament Community): https://discord.gg/reAPqgUfNz\n"
+      "motd": "Wiki: https://jojoban.fandom.com/wiki/JoJoban\nDiscord: https://discord.gg/EFZyyJm\nLatam Discord: https://discord.gg/m2CPKEr\nRussian Discord: https://discord.gg/NgcgPHm\nBrazilian Discord: https://discord.gg/R5k3qWt\nHFTF Asia: https://discord.gg/5SWas9pwts\nHFTF Smackdown: https://discord.gg/qK7YKYmBEy\nHFTF Awakened: https://discord.gg/GnDQ9eaGQB\nOne Night Stand (Tournament Community): https://discord.gg/jka932k3cs\nThe Heavenly Society (Tournament Community): https://discord.gg/reAPqgUfNz\nStand Off official: https://discord.gg/5qAvdKEm33\n"
     },
     {
       "gameid": "jojo",
@@ -155,7 +155,7 @@
     },
     {
       "gameid": "kof2000",
-      "motd": "Discord: https://discord.gg/SUdsfQ8\n"
+      "motd": "Discord: https://discord.gg/BQs7VbquaP\n"
     },
     {
       "gameid": "kof2001",
@@ -223,7 +223,7 @@
     },
     {
       "gameid": "rotd",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/Rage_of_The_Dragons\n"
+      "motd": "Discord: https://discord.gg/7rnf6Wvu9Z\nWiki: https://wiki.supercombo.gg/w/Rage_of_The_Dragons\n"
     },
     {
       "gameid": "mslug",
@@ -455,7 +455,7 @@
     },
     {
       "gameid": "svcsplus",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\nBeginner's Guide Video: https://youtu.be/QMqwVuWbKRY\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\nDiscord BR: https://discord.gg/xk62aPfQm6\nBeginner's Guide Video: https://youtu.be/QMqwVuWbKRY\n"
     },
     {
       "gameid": "magdrop2",
@@ -955,7 +955,7 @@
     },
     {
       "gameid": "dinore",
-      "motd": "*Latest version: 1.3.1 (2023-03-21)*\n\nOfficial Site: https://gamehackfan.github.io/dinore\nNeeds original game (dino.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
+      "motd": "*Latest version: 1.4 (2023-06-27)*\n\nOfficial Site: https://gamehackfan.github.io/dinore\nNeeds original game (dino.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
     },
     {
       "gameid": "nes_kartfighter",
@@ -995,7 +995,7 @@
     },
     {
       "gameid": "kof95",
-      "motd": "Discord: https://discord.gg/B3SGR8RMfx\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_%2795\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNMsZ1qVDHrTMn0DigjD_gR\n"
+      "motd": "Discord: https://discord.gg/B3SGR8RMfx\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_%2795\nJapanese Wiki: http://akof95i.web.fc2.com/akof95i_0000_top.html\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNMsZ1qVDHrTMn0DigjD_gR\n"
     },
     {
       "gameid": "kof95sp",
@@ -1027,7 +1027,7 @@
     },
     {
       "gameid": "flycast_jingystm",
-      "motd": "Jingi Storm: The Arcade Discord: https://discord.gg/gWXb9PUpYv\n"
+      "motd": "Jingi Storm: The Arcade Discord: https://discord.gg/gWXb9PUpYv\nWiki: https://wiki.gbl.gg/w/Jingi_Storm:_The_Arcade\n"
     },
     {
       "gameid": "tkdensho",
@@ -1104,6 +1104,26 @@
     {
       "gameid": "tengai",
       "motd": "Sengoku Blade Guide: https://shmups.system11.org/viewtopic.php?f=5&t=40721\n"
+    },
+    {
+      "gameid": "flycast_kofxi",
+      "motd": "Wiki (SRK): https://srk.shib.live/w/The_King_of_Fighters_XI\nWiki (HE): https://wiki.hardedge.org/index.php?title=The_King_of_Fighters_XI\nDiscord: https://discord.gg/RaXgUCrzwN\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
+    },
+    {
+      "gameid": "mtlchamp",
+      "motd": "Discord: https://discord.gg/zZbQYGA7TB\n"
+    },
+    {
+      "gameid": "nes_tecmosuperbowl",
+      "motd": "Discord: https://discord.gg/hqbpgbVzMz\n"
+    },
+    {
+      "gameid": "snes_stennisu",
+      "motd": "Super Tennis SNES Community: https://www.facebook.com/groups/supertennisonline\n"
+    },
+    {
+      "gameid": "snes_smkartu",
+      "motd": "Super Mario Kart SNES Community: https://www.facebook.com/groups/supermariokartonline\n"
     }
   ]
 }
