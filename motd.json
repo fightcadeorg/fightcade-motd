@@ -3,15 +3,15 @@
   "games": [
     {
       "gameid": "ssf2xjr1",
-      "motd": "You can select stage using Coin button over character in Character Select Screen\n\nGoukiPedia: http://www.goukipedia.com\nST Revival: https://www.strevival.com\nSRK Wiki: https://wiki.supercombo.gg/w/Super_Street_Fighter_2_Turbo\nF101: https://fighter101.com/main/super-street-fighter-2-turbo-guide/\nLua Training mode: https://github.com/poliva/ssf2xj/tree/master/lua\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\nFrench Discord: https://discord.gg/YHdDM6z\nSpain Discord: https://discord.gg/dp4RjVk\nJapanese Discord: https://discord.gg/pFafAyVamA\nMexico Discord: https://discord.gg/td9Qt8dNCS\n"
+      "motd": "You can select stage using Coin button over character in Character Select Screen\n\nGoukiPedia: http://www.goukipedia.com\nST Revival: https://www.strevival.com\nSRK Wiki: https://wiki.supercombo.gg/w/Super_Street_Fighter_2_Turbo\nF101: https://fighter101.com/main/super-street-fighter-2-turbo-guide\nHitboxes Tool: https://toufadev.github.io/ssf2st/\nRanked Stats: https://stats.ssf2t.com/\n\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\nFrench Discord: https://discord.gg/YHdDM6z\nSpain Discord: https://discord.gg/dp4RjVk\nJapanese Discord: https://discord.gg/pFafAyVamA\nMexico Discord: https://discord.gg/td9Qt8dNCS\nHispano Discord: https://discord.gg/W42TGz7CDd\nArgentine Community: https://www.facebook.com/groups/196732984444362\nGlobal Discord: https://discord.gg/NTmXb3Fumd\n\n"
     },
     {
       "gameid": "ssf2tnl",
-      "motd": "*Super Street Fighter II Turbo - New Legacy*\n\nOfficial Site (English): https://newlegacy.fr\nDiscord: https://discord.gg/g96Bj62\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\n"
+      "motd": "*Super Street Fighter II Turbo - New Legacy - Latest version: v0.8 (20/july/2023)*\nA rebalance of Super Turbo that also has many quality of life changes!\n\nYou can select stage using the START button over character in Character Select Screen (*NOT* the Coin button).\nTo pick the OLD version of a character, first pick the character with any P/K button, and confirm the character color with START.\nIf you're getting *DESYNCS* while playing online, please make sure that you and your opponent are both using the latest rom version.\n\nOfficial Site (English): https://newlegacy.fr\nDiscord: https://discord.gg/f6HYxyKMmR\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\n"
     },
     {
       "gameid": "sf",
-      "motd": "Street Fighter Discord Server:https://discord.gg/e7W46dkURp\n"
+      "motd": "Street Fighter Discord Server: https://discord.gg/e7W46dkURp\n"
     },
     {
       "gameid": "sf2mix",
@@ -31,7 +31,11 @@
     },
     {
       "gameid": "sfa3",
-      "motd": "You can select stage using Coin button over character in Character Select Screen\n\nBrazilian Discord: https://discord.gg/vG7sUdJTUW\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\n"
+      "motd": "You can select stage using Coin button over character in Character Select Screen\n\n*How to play Dramatic Battle co-op mode*:\n1) Do not use F3 for reset, instead press F2 and then select \"Exit\".\n2) Press and hold the three kicks (KKK) at the title screen, then press start. P1 should pick first.\n\nBrazilian Discord: https://discord.gg/vG7sUdJTUW\nEnglish Discord: http://discord.gg/Ut863vnW47\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\nFrench-Euro Discord: http://discord.gg/T2hYWAd2JK\nWiki/Resources: https://wiki.supercombo.gg/w/Street_Fighter_Alpha_3\n"
+    },
+    {
+      "gameid": "sfiii",
+      "motd": "Discord: https://discord.gg/AXkCFrduJ8\n"
     },
     {
       "gameid": "sfiii2",
@@ -39,18 +43,38 @@
     },
     {
       "gameid": "sfiii3nr1",
-      "motd": "Discord: https://discord.gg/8hWg5GF\nBrazilian Discord: https://discord.io/Instituto-Masters\nTraining Mode: https://github.com/Grouflon/3rd_training_lua\nGame Resources: https://wiki.supercombo.gg/w/Street_Fighter_3:_3rd_Strike\n"
+      "motd": "Discord: https://discord.gg/8hWg5GF\nBrazilian Discord: https://discord.io/Instituto-Masters\nColombian Discord: https://discord.gg/jvQVeJ5CuX\nRussian and CIS Community: https://discord.gg/hSrMGTUtUG\nChilean Discord: https://discord.gg/Ak6S3bd\nDR Discord: https://discord.gg/8fhbUzTWzG\nTelegram: https://sfiii3.t.me/\nTraining Mode: https://github.com/Grouflon/3rd_training_lua\nGame Resources: https://wiki.supercombo.gg/w/Street_Fighter_3:_3rd_Strike\n"
+    },
+    {
+      "gameid": "sfiiibh",
+      "motd": "Discord: https://discord.gg/AXkCFrduJ8\nHold Start Button to Select Gill\n"
+    },
+    {
+      "gameid": "sfiii2bh",
+      "motd": "Discord: https://discord.gg/jK8XAAmPjn\nPut cursor on Akuma and Press Left to select Gill\nPut cursor on Akuma and Press Right to select Shin Akuma\n"
+    },
+    {
+      "gameid": "sfiii3bh",
+      "motd": "Discord: https://discord.gg/8hWg5GF\nGill is below Alex\nShin Akuma is above Ryu\n"
+    },
+    {
+      "gameid": "sfiii4fs",
+      "motd": "Balance Changes: https://rvnnotd.wixsite.com/streetfighter/changes\nDiscord: https://discord.gg/nrS6UCRx\n"
     },
     {
       "gameid": "sfiii4n",
-      "motd": "Discord: https://discord.gg/nrS6UCRx\n"
+      "motd": "Balance Changes: https://docs.google.com/document/u/0/d/1EGXvHFP1UeWxFW348FUQgtrjp-FSBXj_oap_V0BZBvQ/mobilebasic\nDiscord: https://discord.gg/nrS6UCRx\nGrouflon's Training Lua: https://github.com/Grouflon/3rd_training_lua\n"
+    },
+    {
+      "gameid": "sfz3mix",
+      "motd": "Official Site: https://sfz3mix.github.io\nBrazilian Discord: https://discord.gg/vG7sUdJTUW\n"
     },
     {
       "gameid": "jojobanr1",
-      "motd": "Wiki: https://jojoban.fandom.com/wiki/JoJoban\nDiscord: https://discord.gg/EFZyyJm\nLatam Discord: https://discord.gg/m2CPKEr\nRussian Discord: https://discord.gg/NgcgPHm\nIsrael Discord: https://discord.gg/W8NkAF8zRR\nBrazilian Discord: https://discord.gg/R5k3qWt\nHFTF Middle East and North Africa: https://discord.gg/vbTujm33ns\nHFTF Asia: https://discord.gg/5SWas9pwts\nHFTF Oceania: https://au.jojohf.tf\nHFTF Smackdown: https://discord.gg/qK7YKYmBEy\nOne Night Stand (Tournament Community): https://discord.gg/jka932k3cs\n"
+      "motd": "Wiki: https://jojoban.fandom.com/wiki/JoJoban\nDiscord: https://discord.gg/EFZyyJm\nLatam Discord: https://discord.gg/m2CPKEr\nRussian Discord: https://discord.gg/NgcgPHm\nBrazilian Discord: https://discord.gg/R5k3qWt\nHFTF Asia: https://discord.gg/5SWas9pwts\nHFTF Smackdown: https://discord.gg/qK7YKYmBEy\nHFTF Awakened: https://discord.gg/GnDQ9eaGQB\nOne Night Stand (Tournament Community): https://discord.gg/jka932k3cs\nThe Heavenly Society (Tournament Community): https://discord.gg/reAPqgUfNz\nStand Off official: https://discord.gg/5qAvdKEm33\n"
     },
     {
-      "gameid": "jojon",
+      "gameid": "jojo",
       "motd": "Venture Discord: https://discord.gg/zxWPnyyvEW\n"
     },
     {
@@ -63,7 +87,7 @@
     },
     {
       "gameid": "garou",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/Garou:_Mark_of_the_Wolves\nDiscord: https://discord.gg/zcpbgDS\nDiscord Brasileiro: https://discord.io/motwbr\nFrench Discord: https://discord.gg/Pyq7eJA5kw\nInternational Tournaments Discord: https://discord.gg/EjHE5pW\nLatam Discord (Los Very Inbaneables) https://discord.gg/RgZPAmkwc2\nLatam Discord (Los Inbaneables) https://discord.gg/wSbG2Pd8dF\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Garou:_Mark_of_the_Wolves\nDiscord: https://discord.gg/zcpbgDS\nDiscord Brasileiro: https://discord.io/motwbr\nFrench Discord: https://discord.gg/Pyq7eJA5kw\nInternational Tournaments Discord: https://discord.gg/EjHE5pW\nLatam Discord: https://discord.gg/SjjMD2w83t\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GOeVtP0WAc81s2U4ubVJBb_\n"
     },
     {
       "gameid": "jchan",
@@ -87,15 +111,15 @@
     },
     {
       "gameid": "mk",
-      "motd": "Fightcade Station: https://discord.gg/njYWvFhCwU\nKlassics on Fightcade: https://discord.gg/hdd4MfXAYa\n"
+      "motd": "Game Resources: https://wiki.supercombo.gg/w/Mortal_Kombat_(Game)\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GN0xG1c3stpTLOUgQ6zAOAH\n"
     },
     {
       "gameid": "mk2",
-      "motd": "Fightcade Station: https://discord.gg/njYWvFhCwU\nKlassics on Fightcade: https://discord.gg/hdd4MfXAYa\n"
+      "motd": "Comunidad Retromancos: https://www.facebook.com/retromancos\nGame Resources: https://wiki.supercombo.gg/w/Mortal_Kombat_II\n"
     },
     {
       "gameid": "umk3",
-      "motd": "Fightcade Station: https://discord.gg/njYWvFhCwU\nKlassics on Fightcade: https://discord.gg/hdd4MfXAYa\n"
+      "motd": "Game Resources: https://wiki.supercombo.gg/w/Ultimate_Mortal_Kombat_3\n"
     },
     {
       "gameid": "sftm",
@@ -103,7 +127,7 @@
     },
     {
       "gameid": "vsavj",
-      "motd": "Mizuumi Wiki: https://wiki.gbl.gg/w/Vampire_Savior\nSeesaa Wiki: https://seesaawiki.jp/vswiki\nInternational Discord: https://discord.gg/5fwSewN33p\nFrench Discord: https://discord.gg/N6TGH6p\nJapanese Discord: https://discord.gg/AYxPt9P\nBrazilian Discord: https://discord.gg/YGBrAnbvRw\nLatam Discord: https://discord.com/invite/eZ3yZmVNUS\nSpanish server: https://discord.com/invite/NHShB2X\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\nTraining Mode: https://github.com/BornPosthumous/VSAV_Training\n"
+      "motd": "Mizuumi Wiki: https://wiki.gbl.gg/w/Vampire_Savior\nSeesaa Wiki: https://seesaawiki.jp/vswiki\nInternational Discord: https://discord.gg/5fwSewN33p\nFrench Discord: https://discord.gg/N6TGH6p\nJapanese Discord: https://discord.gg/AYxPt9P\nBrazilian Discord: https://discord.gg/YGBrAnbvRw\nLatam Discord: https://discord.com/invite/eZ3yZmVNUS\nSpanish server: https://discord.com/invite/NHShB2X\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNl6kZ2L4IBDpg7hS2UhobC\nTraining Mode: https://github.com/BornPosthumous/VSAV_Training\n"
     },
     {
       "gameid": "vampjbh",
@@ -111,11 +135,11 @@
     },
     {
       "gameid": "vhuntjr2",
-      "motd": "Brazilian Discord: https://discord.gg/b7Q7kW5z9y\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\n"
+      "motd": "Brazilian Discord: https://discord.gg/b7Q7kW5z9y\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\nEnglish Discord: https://discord.gg/5fwSewN33p\nWiki: https://wiki.supercombo.gg/w/Night_Warriors:_Darkstalkers%27_Revenge\nJP Wiki: https://yppts.adam.ne.jp/hunter\n"
     },
     {
       "gameid": "kof97",
-      "motd": "Discord:  discord:https://discord.gg/f2bKbxfP5N\n"
+      "motd": "Discord:  discord:https://discord.gg/f2bKbxfP5N\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNrvl5eaOFhcqxkDS3pdsGA\n"
     },
     {
       "gameid": "kof98",
@@ -131,7 +155,7 @@
     },
     {
       "gameid": "kof2000",
-      "motd": "Discord: https://discord.gg/SUdsfQ8\n"
+      "motd": "Discord: https://discord.gg/BQs7VbquaP\n"
     },
     {
       "gameid": "kof2001",
@@ -143,31 +167,31 @@
     },
     {
       "gameid": "kof2003",
-      "motd": "Discord: https://discord.gg/JGQ6XFGDVZ\n"
+      "motd": "Discord: https://discord.gg/JGQ6XFGDVZ\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_2003\n"
     },
     {
       "gameid": "samsh5sp",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_V_Special\nDiscord: https://discord.gg/bBs4TAr\nBrazilian Discord: https://discord.io/specialshodown\nLatam Discord: https://discord.gg/HFmcPxTJNg\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_V_Special\nDiscord: https://discord.gg/bBs4TAr\nBrazilian Discord: https://discord.io/specialshodown\nLatam Discord: https://discord.gg/HFmcPxTJNg\nLiga SamSho 5 Special (Dojo eSports): https://discord.gg/4K6bATSsWP\n"
     },
     {
       "gameid": "samsho",
-      "motd": "Discord: https://discord.gg/bBs4TAr\n"
+      "motd": "Discord: https://discord.gg/bBs4TAr\nJapanese atwiki: https://w.atwiki.jp/samurai1\nJapanese Seesaa Wiki: https://seesaawiki.jp/kakugesouko/d/%bd%e9%a5%b5%a5%e0/%a5%e1%a5%e2\nHitboxes, Frame Data, Japanese Events: http://samurai.mania.cx/ss/index.html\n"
     },
     {
       "gameid": "samsho2",
-      "motd": "Discord: https://discord.gg/bBs4TAr\n"
+      "motd": "Discord: https://discord.gg/bBs4TAr\nJapanese Wiki: http://shinjin.starfree.jp/SinSamurai_Main.htm\n"
     },
     {
       "gameid": "samsho3",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_3\nDiscord: https://discord.gg/bBs4TAr\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_3\nJapanese Wiki: https://w.atwiki.jp/zankuroumusouken/pages/1.html\nDiscord: https://discord.gg/bBs4TAr\nBeginner's Guide Video: https://youtu.be/_huHz02GFLw\n"
     },
     {
       "gameid": "samsho4",
-      "motd": "Discord: https://discord.gg/bBs4TAr\n"
+      "motd": "Discord: https://discord.gg/bBs4TAr\nEnglish Wiki: https://dreamcancel.com/wiki/Samurai_Shodown_IV\nJapanese Wiki: http://www5b.biglobe.ne.jp/~hitokiri/amakusa.htm\n"
     },
     {
       "gameid": "samsho5",
-      "motd": "Discord: https://discord.gg/bBs4TAr\n"
+      "motd": "Discord: https://discord.gg/bBs4TAr\nJapanese Wiki: http://www5b.biglobe.ne.jp/~hitokiri/z_index.htm\n"
     },
     {
       "gameid": "rbff1",
@@ -195,11 +219,11 @@
     },
     {
       "gameid": "fatfursp",
-      "motd": "Guide: https://drive.google.com/file/d/1H_3aVeT34YUNnj946I6xgtweU1o7czbH/view\nJapanese Wiki: https://seesaawiki.jp/garosp\nDiscord: https://discord.gg/7Qvv7K4\nFrench Discord: https://discord.gg/FawNeefP\n"
+      "motd": "Guide: https://drive.google.com/file/d/1H_3aVeT34YUNnj946I6xgtweU1o7czbH/view\nJapanese Wiki: https://seesaawiki.jp/garosp\nDiscord: https://discord.gg/7Qvv7K4\nFrench Discord: https://discord.gg/Pyq7eJA5kw\n"
     },
     {
       "gameid": "rotd",
-      "motd": "Community Discord: https://discord.gg/zh65xjsJce\nWiki: https://wiki.supercombo.gg/w/Rage_of_The_Dragons\n"
+      "motd": "Discord: https://discord.gg/7rnf6Wvu9Z\nWiki: https://wiki.supercombo.gg/w/Rage_of_The_Dragons\n"
     },
     {
       "gameid": "mslug",
@@ -222,8 +246,8 @@
       "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
     },
     {
-      "gameid": "mslug6",
-      "motd": ""
+      "gameid": "flycast_mslug6",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\nDiscord Brasileiro: https://discord.gg/5DFXXKnNh6\n"
     },
     {
       "gameid": "mslugx",
@@ -367,7 +391,7 @@
     },
     {
       "gameid": "mwarr",
-      "motd": "Discord: https://discord.gg/KBeHaw5dVt\nTraining Mode (Universal): https://github.com/peon2/fbneo-training-mode\n"
+      "motd": "Discord: https://discord.gg/KBeHaw5dVt\n"
     },
     {
       "gameid": "rabbit",
@@ -375,7 +399,15 @@
     },
     {
       "gameid": "cybots",
-      "motd": "Discord: https://discord.com/invite/yjsBBS9Gns\nSupercombo Wiki: https://wiki.supercombo.gg/w/Cyberbots:_Fullmetal_Madness\nMizuumi Wiki: https://wiki.gbl.gg/w/Cyberbots\nTraining Mode Lua: https://cdn.discordapp.com/attachments/185372964181508096/948124178559688724/cybots.lua\n"
+      "motd": "Discord: https://discord.gg/4tgXDBYbuN\nSupercombo Wiki: https://wiki.supercombo.gg/w/Cyberbots:_Fullmetal_Madness\nMizuumi Wiki: https://wiki.gbl.gg/w/Cyberbots\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GN0ZRw-T1CfzIFWu62A2zDm\nTraining Mode Lua: https://cdn.discordapp.com/attachments/185372964181508096/948124178559688724/cybots.lua\n"
+    },
+    {
+      "gameid": "cybotsam",
+      "motd": "Hack Description: https://pastebin.com/kZnfcPct\nDiscord: https://discord.gg/4tgXDBYbuN\nSupercombo Wiki: https://wiki.supercombo.gg/w/Cyberbots:_Fullmetal_Madness\nMizuumi Wiki: https://wiki.gbl.gg/w/Cyberbots\nTraining Mode Lua: https://cdn.discordapp.com/attachments/185372964181508096/948124178559688724/cybots.lua\n"
+    },
+    {
+      "gameid": "nes_hackmatch",
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\n*Support indie developers! Game ROM available for purchase:* https://zachtronics.itch.io/hackmatch-for-the-nes\n"
     },
     {
       "gameid": "landmakr",
@@ -391,7 +423,7 @@
     },
     {
       "gameid": "lastbld2",
-      "motd": "Wiki: https://dreamcancel.com/wiki/index.php/The_Last_Blade_2\nDiscord: https://discord.gg/c2ZTKtTuVE\n"
+      "motd": "Wiki: https://dreamcancel.com/wiki/The_Last_Blade_2\nDiscord: https://discord.gg/c2ZTKtTuVE\n"
     },
     {
       "gameid": "wakuwak7",
@@ -411,19 +443,19 @@
     },
     {
       "gameid": "redearth",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Red_Earth/War-Zard\nDiscord: https://discord.gg/7eNk7pm\nUniversal (Training Mode): https://github.com/peon2/fbneo-training-mode\nMax LVL Tessa: 46321 23544\nMax LVL Leo: 41344 34153\nMax LVL Mai-Ling: 13126 44354\nMax LVL Kenji: 63141 24524\nIf you want to Delete last digit, Press Back\nSundae League: https://docs.google.com/spreadsheets/d/1Pqirj2OcmB2k_ab9h89pUItfOwlETp7WlH1JzEHA5zo/edit?usp=sharing\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Red_Earth/War-Zard\nDiscord: https://discord.gg/7eNk7pm\nPassword Notation:\n1, 2, 3 - LP, MP, HP\n4, 5, 6 - LK, MK, HK\nDelete - Left Button\nMax LVL Tessa & Moveset: 46321 23544 https://youtu.be/tBFjG-WiwrA\nMax LVL Leo & Moveset: 41344 34153 https://youtu.be/JVlu57s04B4\nMax LVL Mai-Ling & Moveset: 13126 44354 https://youtu.be/PisJuB_BBEI\nMax LVL Kenji & Moveset: 63141 24524 https://youtu.be/NgpWM0PnCOM\nIf you load up the game for the first time and you get an error that says NO CD-ROM DRIVE, go to "Input", select "Map game inputs", and change region to 0x53\n"
     },
     {
       "gameid": "svg",
-      "motd": "Beginner's Guide Video: https://youtu.be/8CBt4qNQ5uE\nDiscord: https://discord.gg/Puaat9F9hz\n"
+      "motd": "Beginner's Guide Video: https://youtu.be/8CBt4qNQ5uE\nDiscord: https://discord.gg/Puaat9F9hz\nWiki: https://wiki.gbl.gg/w/Spectral_vs_Generation\n"
     },
     {
       "gameid": "svc",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\nBeginner's Guide Video: https://youtu.be/QMqwVuWbKRY\n"
     },
     {
       "gameid": "svcsplus",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\nDiscord BR: https://discord.gg/xk62aPfQm6\nBeginner's Guide Video: https://youtu.be/QMqwVuWbKRY\n"
     },
     {
       "gameid": "magdrop2",
@@ -435,7 +467,7 @@
     },
     {
       "gameid": "sf2ce",
-      "motd": "Discord Peru:  https://discord.gg/ShGmjmfhAh\nTraining mode: https://www.youtube.com/watch?v=yRxIDOZjGyU\n"
+      "motd": "Discord Peru: https://discord.gg/ShGmjmfhAh\nYouTube Retromancos: https://www.youtube.com/channel/UC84wAqkNFKIlQA9UWLq0XOw\nComunidad Retromancos: https://www.facebook.com/retromancos\nYouTube Fighter Latino: https://youtube.com/@fighterlatinos\nComunidad Fighter Latino sf2: https://www.facebook.com/Errenoob\nTraining mode: https://www.youtube.com/watch?v=yRxIDOZjGyU\nWiki: https://wiki.supercombo.gg/w/Street_Fighter_2:_Champion_Edition\n"
     },
     {
       "gameid": "sf2hf",
@@ -447,23 +479,23 @@
     },
     {
       "gameid": "kizuna",
-      "motd": "Discord: https://discord.gg/NxPXbDR\nWiki: https://wiki.gbl.gg/w/Kizuna_Encounter\n"
+      "motd": "Discord: https://discord.gg/NxPXbDR\nSpanish server: https://discord.com/invite/NHShB2X\nWiki: https://wiki.gbl.gg/w/Kizuna_Encounter\n"
     },
     {
       "gameid": "aof",
-      "motd": "Art of Fighting Series Discord: https://discord.gg/wgkg4Yq\nTraining Mode: https://github.com/peon2/fbneo-training-mode\n"
+      "motd": "Art of Fighting Series Discord: https://discord.gg/wgkg4Yq\n"
     },
     {
       "gameid": "aof2",
-      "motd": "Art of Fighting Series Discord: https://discord.gg/wgkg4Yq\nTraining Mode: https://github.com/peon2/fbneo-training-mode\n"
+      "motd": "Art of Fighting Series Discord: https://discord.gg/wgkg4Yq\n"
     },
     {
       "gameid": "aof3",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Art_of_Fighting_3\nArt of Fighting Series Discord: https://discord.gg/wgkg4Yq\nBeginner's Guide Video: https://youtu.be/LE9z9owlbf8\nAdvanced Mechanics Guide Video: https://youtu.be/2-6NY1lneFU\nTraining Mode: https://github.com/peon2/fbneo-training-mode\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Art_of_Fighting_3\nArt of Fighting Series Discord: https://discord.gg/wgkg4Yq\nBeginner's Guide Video: https://youtu.be/LE9z9owlbf8\nAdvanced Mechanics Guide Video: https://youtu.be/2-6NY1lneFU\n"
     },
     {
       "gameid": "twinspri",
-      "motd": "Discord: https://discord.gg/dTNfRxa\nVersus guide on how to play: https://gamefaqs.gamespot.com/neo/565709-twinkle-star-sprites/faqs/56584\nPattern overview: https://youtube.com/playlist?list=PL8sVQl20XthGpAa8XLqzSj1rbVG55jmQ_\nPattern explanation: https://youtu.be/kfzepPv59O8\n"
+      "motd": "Discord: https://discord.gg/dTNfRxa\nVersus guide on how to play: https://gamefaqs.gamespot.com/neo/565709-twinkle-star-sprites/faqs/56584\nTraining Mode + Hitbox Lua: https://docs.google.com/document/d/1k8kBUJfGd1g5rbcCqS_6qCtkzSk2FGAixgWwtmbfAgs/view\nFormation overview: https://youtube.com/playlist?list=PL8sVQl20XthGpAa8XLqzSj1rbVG55jmQ_\nFormation explanation: https://youtu.be/kfzepPv59O8\n"
     },
     {
       "gameid": "martmast",
@@ -479,7 +511,7 @@
     },
     {
       "gameid": "sgemf",
-      "motd": "Discord: https://discord.gg/PAbX53nNfU\nGemini (Training Mode) v1.02: https://tinyurl.com/geminiV102\n"
+      "motd": "Discord: https://discord.gg/PAbX53nNfU\nGemini (Training Mode) v1.05: https://tinyurl.com/geminiV105\n"
     },
     {
       "gameid": "esckidsj",
@@ -491,11 +523,11 @@
     },
     {
       "gameid": "breakrev",
-      "motd": "Discord: https://discord.gg/u5e6cuF\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Breakers_Revenge\nDiscord: https://discord.gg/u5e6cuF\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GPxm62dwqWT_giZ4AGbRelw\n"
     },
     {
       "gameid": "brkrevext",
-      "motd": "Discord: https://discord.gg/u5e6cuF\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Breakers_Revenge/EXTRA\nDiscord: https://discord.gg/u5e6cuF\n"
     },
     {
       "gameid": "karnovr",
@@ -503,7 +535,7 @@
     },
     {
       "gameid": "avengrgs",
-      "motd": "Discord: https://discord.gg/X7sxAYCdhq\n"
+      "motd": "Discord: https://discord.gg/X7sxAYCdhq\nWiki: https://wiki.gbl.gg/w/Avengers_in_Galactic_Storm\n"
     },
     {
       "gameid": "xmvsf",
@@ -519,7 +551,7 @@
     },
     {
       "gameid": "wh2",
-      "motd": "World Heroes + ADK Games Discord: https://discord.gg/QeEC68jRme\n"
+      "motd": "*Warning: Ranked mode available only to \"Normal game\" mode.*\n\nWorld Heroes + ADK Games Discord: https://discord.gg/QeEC68jRme\n"
     },
     {
       "gameid": "wh2j",
@@ -539,7 +571,7 @@
     },
     {
       "gameid": "doubledr",
-      "motd": "Discord: https://discord.gg/9kDHQewKab\n"
+      "motd": "Discord: https://discord.gg/uyAmdaTS3D\n"
     },
     {
       "gameid": "savagere",
@@ -555,7 +587,7 @@
     },
     {
       "gameid": "gundamex",
-      "motd": "Discord: https://discord.gg/TaFYrDcCZk\n"
+      "motd": "Discord: https://discord.gg/TaFYrDcCZk\nGuide and Move List: https://gamefaqs.gamespot.com/arcade/568294-mobile-suit-gundam-ex-revue/faqs/79989\nWiki: https://wiki.gbl.gg/w/Mobile_Suit_Gundam:_Ex_Revue\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GPwvcbSWnn6PqXY-k420l5Z\n"
     },
     {
       "gameid": "tgm2p",
@@ -638,16 +670,20 @@
       "motd": "*Tetris Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
     },
     {
+      "gameid": "flycast_sgtetris",
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\n*Note: Having trouble connecting? Try whitelisting flycast in your firewall:* http://flycast.dojo.ooo/faq.html#stuck-start-networking\n"
+    },
+    {
       "gameid": "nes_joymechfight",
       "motd": "Discord: https://discord.gg/ewjeffJ\n"
     },
     {
       "gameid": "snes_gndmwend",
-      "motd": "Wiki: https://newchallenger.net/w/index.php?title=Gundam_Wing:_Endless_Duel\nDiscord: https://discord.gg/gvaMAq9\n"
+      "motd": "Wiki: https://newchallenger.net/w/index.php?title=Gundam_Wing:_Endless_Duel\nDiscord: https://discord.gg/gvaMAq9\nSpanish server: https://discord.com/invite/NHShB2X\n"
     },
     {
       "gameid": "snes_tmnttfce",
-      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Teenage_Mutant_Ninja_Turtles_Tournament_Fighters\nDiscord: https://discord.io/SNESFGC\n"
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Teenage_Mutant_Ninja_Turtles_Tournament_Fighters\nDiscord: https://discord.io/SNESFGC\nSpanish server: https://discord.com/invite/NHShB2X\n"
     },
     {
       "gameid": "snes_sailorsf",
@@ -691,7 +727,7 @@
     },
     {
       "gameid": "snes_dbzhypdj",
-      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Dragonball_Z_Hyper_Dimension\nDiscord: https://discord.io/SNESFGC\n"
+      "motd": "Game Info: https://newchallenger.net/w/index.php?title=Dragonball_Z_Hyper_Dimension\nDiscord (SNESFGC): https://discord.io/SNESFGC\nDiscord (DBZHYPD Masters): https://discord.gg/WfVW92p\n"
     },
     {
       "gameid": "snes_powermov",
@@ -707,7 +743,7 @@
     },
     {
       "gameid": "md_yuyusf",
-      "motd": "Discord: https://discord.gg/8fnXmx52za\nTreasure Fighters Wiki: treasure.newchallenger.net\nThere is now an English Translation channel available under yuyumte!\n"
+      "motd": "Discord: https://discord.gg/8fnXmx52za\nServidor Brasileiro: https://discord.gg/hqerHt3vCp\nTreasure Fighters Wiki: treasure.newchallenger.net\n"
     },
     {
       "gameid": "md_yuyumte",
@@ -715,7 +751,7 @@
     },
     {
       "gameid": "flycast_ausfache",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Akatsuki_Blitzkampf\nGlobal Discord: https://discord.gg/HH2K73K99s\nBrazilian Discord: https://discord.gg/pr9CkgqkDd\nLatam Discord: https://discord.gg/WUUTB6TWGV\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Akatsuki_Blitzkampf\nGlobal Discord: https://discord.gg/HH2K73K99s\nBrazilian Discord: https://discord.gg/pr9CkgqkDd\nArgentinian Discord: https://discord.gg/WUUTB6TWGV\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the *emu.cfg* file in your *Fightcade\\emulator\\flycast* folder and try again.\n"
     },
     {
       "gameid": "flycast_pjustic",
@@ -727,7 +763,11 @@
     },
     {
       "gameid": "flycast_vtennis2",
-      "motd": "Discord Latam: https://discord.gg/UAThjumakb\n"
+      "motd": "Discord Latam: https://discord.gg/UAThjumakb\n\n2021-04-25: New Netplay Savestate Uploaded! (Match Count 2: VS & DBL)\nIf peer verification fails, download new savestate: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions#i-keep-getting-a-peer-verification-failed-error.-how-do-i-resolve-this\n"
+    },
+    {
+      "gameid": "flycast_cvs2",
+      "motd": "Wiki (being updated!): https://wiki.supercombo.gg/w/Capcom_vs_SNK_2\nCvS2 Bible (Scans): http://tinyurl.com/CvS2Bible\nCvS2 GameFAQs: https://gamefaqs.gamespot.com/arcade/562704-capcom-vs-snk-2/faqs\nCvS2 Community Discord: http://tinyurl.com/CvS2Discord\nTrue Love Makin Academy (Latin America): https://discord.gg/VqMhyUhKjm\nFull setup guide, download help, and training mode info is available here: https://wiki.supercombo.gg/w/Capcom_vs_SNK_2/Emulation_and_Netplay\nHitbox Images (c/o RagingStormX): https://drive.google.com/drive/folders/1h9xdMlUGkNlZsErASrsRZzvmd9tnKEF6\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the *emu.cfg* file in your *Fightcade\\emulator\\flycast* folder and try again.\n"
     },
     {
       "gameid": "flycast_dc_plasmasword",
@@ -742,11 +782,19 @@
       "motd": "Discord (日本語 and Worldwide!): https://discord.gg/gqCXEU69kx\n"
     },
     {
+      "gameid": "flycast_dc_vonot",
+      "motd": "Discord (Virtual On Community): https://discord.gg/akrgGx9\nDiscord (VO-MCs VO-Dojo): https://discord.gg/6WvTPuHkCR\nMake sure LEFT THUMBSTICK is set to FULL. Settings > Netplay > GGPO > Left Thumbstick > Full\n"
+    },
+    {
+      "gameid": "flycast_vonot",
+      "motd": "Discord: https://discord.gg/akrgGx9\nNAOMI version DON'T have online multiplayer\nCurrently ONLY DREAMCAST version allows online multiplayer\n"
+    },
+    {
       "gameid": "nes_yoshiscookie",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n*Community resources:*\nStrategy guide: http://zoomboingding.com/yoshis_cookie/singles_tutorial/\nYoCoBot: https://meatfighter.com/yoshiscookiebot/\n"
     },
     {
-      "gameid": "snes_yoshiscookie",
+      "gameid": "snes_yoshicoku",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n*Community resources:*\nStrategy guide: http://zoomboingding.com/yoshis_cookie/singles_tutorial/\nYoCoBot: https://github.com/mint-cookie/Yocobot\n"
     },
     {
@@ -782,7 +830,7 @@
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
     },
     {
-      "gameid": "md_puyopyu2a",
+      "gameid": "md_puyopuy2a",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
     },
     {
@@ -799,14 +847,18 @@
     },
     {
       "gameid": "md_columns3",
-      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\n*NOTE: In ranked matches, you must select \"BEST OF 3\" in-game.*\n"
     },
     {
-      "gameid": "spf2_xpri",
-      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n*Project Files/Info:*\nhttps://github.com/KScl/puzzle-fighter-x-prime/\n"
+      "gameid": "spf2t",
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n*Training Mode*: https://github.com/TrashboatDaGoat/PuzzleFighterTraining\n"
     },
     {
-      "gameid": "e_pnyaap",
+      "gameid": "spf2xpri",
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n*Project Files/Info:*\nhttps://github.com/KScl/puzzle-fighter-x-prime/\n*Training Mode*: https://github.com/TrashboatDaGoat/PuzzleFighterTraining\n"
+    },
+    {
+      "gameid": "pnyaa",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
     },
     {
@@ -860,6 +912,218 @@
     {
       "gameid": "hexion",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
+    },
+    {
+      "gameid": "naname",
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\nWarning: Win counter works only when *3-rounds* is set!\nMake sure you and your opponent have configured DIPswitches before starting a match.\n"
+    },
+    {
+      "gameid": "flycast_toyfight",
+      "motd": "Discord: https://discord.gg/stdfgxzXHx\nWiki: https://wiki.gbl.gg/w/Toy_Fighter\n\nSavestate Update: Problems and haven't played in a while? Delete your old savestate and rejoin\n"
+    },
+    {
+      "gameid": "flycast_pstone",
+      "motd": "Discord: https://discord.gg/nVzXg76\n\n\nSavestate Update: Problems and haven't played in a while? Select \"Test Game\" -> \"Delete Savestate\" then rejoin. The newest savestate will automatically download.\n"
+    },
+    {
+      "gameid": "daraku",
+      "motd": "Discord: https://discord.gg/3pAcAvRFTa\n"
+    },
+    {
+      "gameid": "mslug3rb",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity\n"
+    },
+    {
+      "gameid": "mslug3lw",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity\n"
+    },
+    {
+      "gameid": "mslug4a",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity\n"
+    },
+    {
+      "gameid": "mslug4ar",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity\n"
+    },
+    {
+      "gameid": "mslug5sgf",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity\n"
+    },
+    {
+      "gameid": "mslug5wd",
+      "motd": "Discord: https://discord.gg/rxjcur9mTT\nCommunity: https://www.facebook.com/MetalSlugUnity\n"
+    },
+    {
+      "gameid": "dinore",
+      "motd": "*Latest version: 1.4 (2023-06-27)*\n\nOfficial Site: https://gamehackfan.github.io/dinore\nNeeds original game (dino.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
+    },
+    {
+      "gameid": "nes_kartfighter",
+      "motd": "Discord: https://discord.gg/dXkYNjt4cn\n"
+    },
+    {
+      "gameid": "nes_skartfighter",
+      "motd": "Quick Start: https://ibb.co/sHy6jtS\nDiscord: https://discord.gg/dXkYNjt4cn\nMove List Showcase: https://www.youtube.com/watch?v=rDjOOD1F-us\n"
+    },
+    {
+      "gameid": "md_telehugs",
+      "motd": "Official site: https://menosplaystation.itch.io/telethugs-megadrive\nHow to play on fc2 (pt-br / en): https://pastebin.com/0bbBXmsz\n"
+    },
+    {
+      "gameid": "md_smsbrawl",
+      "motd": "Official site: https://bonaf.itch.io/master-system-brawl\nHow to play on fc2 (pt-br / en): https://pastebin.com/3vM9nS0e\n"
+    },
+    {
+      "gameid": "snes_ultraclayfgt",
+      "motd": "Game Information: http://newchallenger.net/w/index.php/Ultra_ClayFighter_Tournament_Edition\nDiscord: https://discord.io/SNESFGC\nRomHacking.net Page: https://www.romhacking.net/hacks/6807\n"
+    },
+    {
+      "gameid": "vampjr1",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Darkstalkers:_The_Night_Warriors\nJapanese Frame Data: http://darkstalkers.web.fc2.com/vampire/vampire.html\nDiscord: https://discord.gg/5fwSewN33p\n"
+    },
+    {
+      "gameid": "flycast_dc_sf2049",
+      "motd": "The version used is (USA) (En,Fr,De,Es,It,Nl)\nThis game does *not* support HLE BIOS, a real one is required.\nPlease set your thumbstick deadzone to Full, in Settings > Netplay > GGPO > Left Thumbstick Simulation > Full\n\n*Team Rush Discord:* https://discord.gg/teamrush\n*Flycast Dojo FAQ:* http://flycast.dojo.ooo/faq.html\n"
+    },
+    {
+      "gameid": "flycast_dc_techromancer",
+      "motd": "Tech Romancer / 超鋼戦紀キカイオー Discord Server (日本語, 한국어 and Worldwide!): https://discord.gg/pbDErKYxs9\n\nDefault Controller layout (For Arcade Stick Users)\nA: Jump (J)\nB: Attack (B)\nX: Guard (G)\nY: Attack (A)\nL: Change Items (Arcade Start)\nR: Counterstrike (B+G)\n\nDefault Arcade Layout\n(A) (B) (J)\n(G) (x) (x)    (Arcade Start)\n\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
+    },
+    {
+      "gameid": "kof94",
+      "motd": "Discord: https://discord.gg/B3SGR8RMfx\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_%2794\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GOJQ3UjsMqrnL9U20mOZ920\n"
+    },
+    {
+      "gameid": "kof95",
+      "motd": "Discord: https://discord.gg/B3SGR8RMfx\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_%2795\nJapanese Wiki: http://akof95i.web.fc2.com/akof95i_0000_top.html\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNMsZ1qVDHrTMn0DigjD_gR\n"
+    },
+    {
+      "gameid": "kof95sp",
+      "motd": "Discord: https://discord.gg/B3SGR8RMfx\n"
+    },
+    {
+      "gameid": "teot",
+      "motd": "Official site: https://ozzyouzo.itch.io/teot\n\n*Please make sure you and your opponent have the same revision!!*\n"
+    },
+    {
+      "gameid": "fatfury3bh",
+      "motd": "Discord: https://discord.gg/7Qvv7K4\nDiscord Brasileiro: https://discord.gg/AY5p2EYrMS\n"
+    },
+    {
+      "gameid": "kf2k3upl",
+      "motd": "Discord: https://discord.gg/JGQ6XFGDVZ\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_2003\n"
+    },
+    {
+      "gameid": "kf2k3ps2",
+      "motd": "Discord: https://discord.gg/JGQ6XFGDVZ\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_2003\n"
+    },
+    {
+      "gameid": "kf2k3ps2sp",
+      "motd": "Hold start above Iori to select Adelheid, and above Kyo to select Mukai.\n\n\nDiscord: https://discord.gg/JGQ6XFGDVZ\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_2003\n"
+    },
+    {
+      "gameid": "flycast_ngbc",
+      "motd": "For Neo Geo Battle Coliseum, be sure to set the Transparent Sorting in your Video options to Per Pixel. You will need to switch your Graphics API to Vulkan, OpenGL, or DirectX 11.\n\nDiscord: https://discord.gg/u3FvwKC\n"
+    },
+    {
+      "gameid": "flycast_jingystm",
+      "motd": "Jingi Storm: The Arcade Discord: https://discord.gg/gWXb9PUpYv\nWiki: https://wiki.gbl.gg/w/Jingi_Storm:_The_Arcade\n"
+    },
+    {
+      "gameid": "tkdensho",
+      "motd": "Mizuumi Wiki: https://wiki.gbl.gg/w/Touki_Denshou_Angel_Eyes\n"
+    },
+    {
+      "gameid": "aliencha",
+      "motd": "To play as Claus, highlight Nic-San, then press right 8 times, left 4 times, and down 4 times.\n\nWiki: https://wiki.gbl.gg/w/Alien_Challenge\nDiscord: https://discord.gg/fHqAfPfupg\n"
+    },
+    {
+      "gameid": "avengrgsbh",
+      "motd": "Discord: https://discord.gg/X7sxAYCdhq\nWiki: https://wiki.gbl.gg/w/Avengers_in_Galactic_Storm\n"
+    },
+    {
+      "gameid": "sfpp",
+      "motd": "Street Fighter Discord Server: https://discord.gg/e7W46dkURp\n"
+    },
+    {
+      "gameid": "md_insanepain",
+      "motd": "Official site: https://blast-process-games.itch.io/insane-pain\n"
+    },
+    {
+      "gameid": "snes_yuyufin",
+      "motd": "Servidor Brasileiro: https://discord.gg/hqerHt3vCp\n"
+    },
+    {
+      "gameid": "flycast_dc_gram2000",
+      "motd": "Giant Gram 2000 Discord: https://discord.gg/AHtAUZmkZr\n"
+    },
+    {
+      "gameid": "snes_issdxu",
+      "motd": "Copa ISSDeluxe: https://www.facebook.com/groups/392193104231879\nCopa ISSD PRO: https://www.facebook.com/groups/456905675232194\n"
+    },
+    {
+      "gameid": "flycast_gram2000",
+      "motd": "Giant Gram 2000 Discord: https://discord.gg/AHtAUZmkZr\n"
+    },
+    {
+      "gameid": "flycast_mvsc2",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\n\nFor common questions, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the *emu.cfg* file in your *Fightcade\\emulator\\flycast* folder and try again.\n"
+    },
+    {
+      "gameid": "captre",
+      "motd": "*Latest version: 1.1 (2023-03-09)*\n\nOfficial Site: https://gamehackfan.github.io/captre\nNeeds original game (captcomm.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
+    },
+    {
+      "gameid": "bestbest",
+      "motd": "Move List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GO9iJQ1UqxAa8kzRdtiCNrt\n"
+    },
+    {
+      "gameid": "fightfeva",
+      "motd": "Move List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GO3n_dbYF4RrglHg5IWLh7J\n"
+    },
+    {
+      "gameid": "xmcotan",
+      "motd": "Discord: https://discord.gg/e2pQFFj\n"
+    },
+    {
+      "gameid": "snes_megaman7u",
+      "motd": "Versus Mode Password: 1415 5585 7823 6251 and hold L+R\n"
+    },
+    {
+      "gameid": "snes_rockman7",
+      "motd": "Versus Mode Password: 1415 5585 7823 6251 and hold L+R\n"
+    },
+    {
+      "gameid": "mmaulers",
+      "motd": "Anne Guide/Strats by Ivy-IV: https://www.speedrun.com/monster_maulers/guide/8qnvy\n"
+    },
+    {
+      "gameid": "shocktro",
+      "motd": "Shock Therapy Hints and Tips: http://bbh.marpirc.net/shocktherapy/shock.html\n"
+    },
+    {
+      "gameid": "tengai",
+      "motd": "Sengoku Blade Guide: https://shmups.system11.org/viewtopic.php?f=5&t=40721\n"
+    },
+    {
+      "gameid": "flycast_kofxi",
+      "motd": "Wiki (SRK): https://srk.shib.live/w/The_King_of_Fighters_XI\nWiki (HE): https://wiki.hardedge.org/index.php?title=The_King_of_Fighters_XI\nDiscord: https://discord.gg/RaXgUCrzwN\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
+    },
+    {
+      "gameid": "mtlchamp",
+      "motd": "Discord: https://discord.gg/zZbQYGA7TB\n"
+    },
+    {
+      "gameid": "nes_tecmosuperbowl",
+      "motd": "Discord: https://discord.gg/hqbpgbVzMz\n"
+    },
+    {
+      "gameid": "snes_stennisu",
+      "motd": "Super Tennis SNES Community: https://www.facebook.com/groups/supertennisonline\n"
+    },
+    {
+      "gameid": "snes_smkartu",
+      "motd": "Super Mario Kart SNES Community: https://www.facebook.com/groups/supermariokartonline\n"
     }
   ]
 }
