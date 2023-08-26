@@ -3,7 +3,7 @@
   "games": [
     {
       "gameid": "ssf2xjr1",
-      "motd": "You can select stage using Coin button over character in Character Select Screen\n\nGoukiPedia: http://www.goukipedia.com\nST Revival: https://www.strevival.com\nSRK Wiki: https://wiki.supercombo.gg/w/Super_Street_Fighter_2_Turbo\nF101: https://fighter101.com/main/super-street-fighter-2-turbo-guide\nHitboxes Tool: https://toufadev.github.io/ssf2st/\nRanked Stats: https://stats.ssf2t.com/\n\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\nFrench Discord: https://discord.gg/YHdDM6z\nSpain Discord: https://discord.gg/dp4RjVk\nJapanese Discord: https://discord.gg/pFafAyVamA\nMexico Discord: https://discord.gg/td9Qt8dNCS\nHispano Discord: https://discord.gg/W42TGz7CDd\nArgentine Community: https://www.facebook.com/groups/196732984444362\n\n"
+      "motd": "You can select stage using Coin button over character in Character Select Screen\n\nGoukiPedia: http://www.goukipedia.com\nST Revival: https://www.strevival.com\nSRK Wiki: https://wiki.supercombo.gg/w/Super_Street_Fighter_2_Turbo\nF101: https://fighter101.com/main/super-street-fighter-2-turbo-guide\nHitboxes Tool: https://toufadev.github.io/ssf2st/\nRanked Stats: https://stats.ssf2t.com/\n\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\nFrench Discord: https://discord.gg/YHdDM6z\nSpain Discord: https://discord.gg/dp4RjVk\nJapanese Discord: https://discord.gg/pFafAyVamA\nMexico Discord: https://discord.gg/td9Qt8dNCS\nHispano Discord: https://discord.gg/W42TGz7CDd\nArgentine Community: https://www.facebook.com/groups/196732984444362\nGlobal Discord: https://discord.gg/NTmXb3Fumd\n\n"
     },
     {
       "gameid": "ssf2tnl",
@@ -981,9 +981,9 @@
       "gameid": "vampjr1",
       "motd": "Wiki: https://wiki.supercombo.gg/w/Darkstalkers:_The_Night_Warriors\nJapanese Frame Data: http://darkstalkers.web.fc2.com/vampire/vampire.html\nDiscord: https://discord.gg/5fwSewN33p\n"
     },
-        {
+    {
       "gameid": "flycast_dc_sf2049",
-      "motd": "Team Rush Discord: https://discord.gg/teamrush\n"
+      "motd": "The version used is (USA) (En,Fr,De,Es,It,Nl)\nThis game does *not* support HLE BIOS, a real one is required.\nPlease set your thumbstick deadzone to Full, in Settings > Netplay > GGPO > Left Thumbstick Simulation > Full\n\n*Team Rush Discord:* https://discord.gg/teamrush\n*Flycast Dojo FAQ:* http://flycast.dojo.ooo/faq.html\n"
     },
     {
       "gameid": "flycast_dc_techromancer",
