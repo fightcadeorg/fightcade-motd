@@ -1124,6 +1124,10 @@
     {
       "gameid": "snes_smkartu",
       "motd": "Super Mario Kart SNES Community: https://www.facebook.com/groups/supermariokartonline\n"
+    },
+    {
+      "gameid": "kof96",
+      "motd": "Movelist Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNiXGy5_Fj1G45YrGP3Vbh4\n"
     }
   ]
 }
