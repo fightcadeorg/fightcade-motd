@@ -446,6 +446,10 @@
       "motd": "Wiki: https://wiki.gbl.gg/w/Red_Earth/War-Zard\nDiscord: https://discord.gg/7eNk7pm\nPassword Notation:\n1, 2, 3 - LP, MP, HP\n4, 5, 6 - LK, MK, HK\nDelete - Left Button\nMax LVL Tessa & Moveset: 46321 23544 https://youtu.be/tBFjG-WiwrA\nMax LVL Leo & Moveset: 41344 34153 https://youtu.be/JVlu57s04B4\nMax LVL Mai-Ling & Moveset: 13126 44354 https://youtu.be/PisJuB_BBEI\nMax LVL Kenji & Moveset: 63141 24524 https://youtu.be/NgpWM0PnCOM\nIf you load up the game for the first time and you get an error that says NO CD-ROM DRIVE, go to \"Input\", select \"Map game inputs\", and change region to 0x53\n"
     },
     {
+      "gameid": "redeartheasypass",
+      "motd": "Wiki: https://wiki.gbl.gg/w/Red_Earth/War-Zard\nDiscord: https://discord.gg/7eNk7pm\nPassword Notation:\n1, 2, 3 - LP, MP, HP\n4, 5, 6 - LK, MK, HK\nDelete - Left Button\nROMHACK CHANGES:\n- All Stages Unlocked (+ 3 Final Stages added to VS Mode)\n- Removed Timer from a Password Input Window\n- Password System was Significantly Simplified:\n- JUST INPUT 11111 11111 FOR MAX LVL\n- For more information, Visit: Archive.org/details/RedearthMaxLVLRomhack\nTessa's Moveset: https://youtu.be/tBFjG-WiwrA\nLeo' Moveset: https://youtu.be/JVlu57s04B4\nMai-Ling's Moveset: https://youtu.be/PisJuB_BBEI\nKenji's Moveset: https://youtu.be/NgpWM0PnCOM\nIf you load up the game for the first time and you get an error that says SET REGION TO 0x53, go to \"Input\", select \"Map game inputs\", and change region to 0x53\n"
+    },
+    {
       "gameid": "svg",
       "motd": "Beginner's Guide Video: https://youtu.be/8CBt4qNQ5uE\nDiscord: https://discord.gg/Puaat9F9hz\nWiki: https://wiki.gbl.gg/w/Spectral_vs_Generation\n"
     },
