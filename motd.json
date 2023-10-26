@@ -1128,6 +1128,10 @@
     {
       "gameid": "kof96",
       "motd": "Wiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_'96\nMovelist Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNiXGy5_Fj1G45YrGP3Vbh4\n"
+    },
+    {
+      "gameid": "md_fightvengt",
+      "motd": "Play as Metalo: Press A+C at the character select screen\n"
     }
   ]
 }
