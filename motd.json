@@ -1132,6 +1132,10 @@
     {
       "gameid": "md_fightvengt",
       "motd": "Play as Metalo: Press A+C at the character select screen\n"
+    },
+    {
+      "gameid": "flycast_ggxxac",
+      "motd": "Discord: https://discord.gg/bNRZPWgU7k\n"
     }
   ]
 }
