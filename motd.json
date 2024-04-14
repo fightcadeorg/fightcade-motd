@@ -671,7 +671,7 @@
     },
     {
       "gameid": "flycast_sgtetris",
-      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\n*Note: Having trouble connecting? Try whitelisting flycast in your firewall:* http://flycast.dojo.ooo/faq.html#stuck-start-networking\n"
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n"
     },
     {
       "gameid": "nes_joymechfight",
@@ -751,7 +751,7 @@
     },
     {
       "gameid": "flycast_ausfache",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Akatsuki_Blitzkampf\nGlobal Discord: https://discord.gg/HH2K73K99s\nBrazilian Discord: https://discord.gg/pr9CkgqkDd\nArgentinian Discord: https://discord.gg/WUUTB6TWGV\n\nFor common issues (stuck on \"STARTING NETWORK\"?) check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the *emu.cfg* file in your *Fightcade\\emulator\\flycast* folder and try again.\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Akatsuki_Blitzkampf\nGlobal Discord: https://discord.gg/HH2K73K99s\nBrazilian Discord: https://discord.gg/pr9CkgqkDd\nArgentinian Discord: https://discord.gg/WUUTB6TWGV\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\n"
     },
     {
       "gameid": "flycast_pjustic",
@@ -763,11 +763,11 @@
     },
     {
       "gameid": "flycast_vtennis2",
-      "motd": "Discord Latam: https://discord.gg/UAThjumakb\n\n2021-04-25: New Netplay Savestate Uploaded! (Match Count 2: VS & DBL)\nIf peer verification fails, download new savestate: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions#i-keep-getting-a-peer-verification-failed-error.-how-do-i-resolve-this\n"
+      "motd": "Discord Latam: https://discord.gg/UAThjumakb\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n"
     },
     {
       "gameid": "flycast_cvs2",
-      "motd": "Wiki (being updated!): https://wiki.supercombo.gg/w/Capcom_vs_SNK_2\nCvS2 Bible (Scans): http://tinyurl.com/CvS2Bible\nCvS2 GameFAQs: https://gamefaqs.gamespot.com/arcade/562704-capcom-vs-snk-2/faqs\nCvS2 Community Discord: http://tinyurl.com/CvS2Discord\nTrue Love Makin Academy (Latin America): https://discord.gg/VqMhyUhKjm\nFull setup guide, download help, and training mode info is available here: https://wiki.supercombo.gg/w/Capcom_vs_SNK_2/Emulation_and_Netplay\nHitbox Images (c/o RagingStormX): https://drive.google.com/drive/folders/1h9xdMlUGkNlZsErASrsRZzvmd9tnKEF6\n\n13-SEP-2023: Updated the netplay savestate in anticipation of score tracking in the next Fightcade update. If the upgrade hasn't happened yet, press **Test Game** -> **Delete Savestate** to delete your previous state. The new savestate should be retrieved before your next online match.\n"
+      "motd": "Wiki (being updated!): https://wiki.supercombo.gg/w/Capcom_vs_SNK_2\nCvS2 Bible (Scans): http://tinyurl.com/CvS2Bible\nCvS2 GameFAQs: https://gamefaqs.gamespot.com/arcade/562704-capcom-vs-snk-2/faqs\nCvS2 Community Discord: http://tinyurl.com/CvS2Discord\nTrue Love Makin Academy (Latin America): https://discord.gg/VqMhyUhKjm\nFull setup guide, download help, and training mode info is available here: https://wiki.supercombo.gg/w/Capcom_vs_SNK_2/Emulation_and_Netplay\nHitbox Images (c/o RagingStormX): https://drive.google.com/drive/folders/1h9xdMlUGkNlZsErASrsRZzvmd9tnKEF6\n\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\n"
     },
     {
       "gameid": "flycast_dc_plasmasword",
@@ -919,11 +919,11 @@
     },
     {
       "gameid": "flycast_toyfight",
-      "motd": "Discord: https://discord.gg/stdfgxzXHx\nWiki: https://wiki.gbl.gg/w/Toy_Fighter\n\nSavestate Update: Problems and haven't played in a while? Delete your old savestate and rejoin\n"
+      "motd": "Discord: https://discord.gg/stdfgxzXHx\nWiki: https://wiki.gbl.gg/w/Toy_Fighter\n\n"
     },
     {
       "gameid": "flycast_pstone",
-      "motd": "Discord: https://discord.gg/nVzXg76\n\n\nSavestate Update: Problems and haven't played in a while? Select \"Test Game\" -> \"Delete Savestate\" then rejoin. The newest savestate will automatically download.\n"
+      "motd": "Discord: https://discord.gg/nVzXg76\n\n"
     },
     {
       "gameid": "daraku",
@@ -987,7 +987,7 @@
     },
     {
       "gameid": "flycast_dc_techromancer",
-      "motd": "Tech Romancer / 超鋼戦紀キカイオー Discord Server (日本語, 한국어 and Worldwide!): https://discord.gg/pbDErKYxs9\n\nDefault Controller layout (For Arcade Stick Users)\nA: Jump (J)\nB: Attack (B)\nX: Guard (G)\nY: Attack (A)\nL: Change Items (Arcade Start)\nR: Counterstrike (B+G)\n\nDefault Arcade Layout\n(A) (B) (J)\n(G) (x) (x)    (Arcade Start)\n\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
+      "motd": "Tech Romancer / 超鋼戦紀キカイオー Discord Server (日本語, 한국어 and Worldwide!): https://discord.gg/pbDErKYxs9\n\nDefault Controller layout (For Arcade Stick Users)\nA: Jump (J)\nB: Attack (B)\nX: Guard (G)\nY: Attack (A)\nL: Change Items (Arcade Start)\nR: Counterstrike (B+G)\n\nDefault Arcade Layout\n(A) (B) (J)\n(G) (x) (x)    (Arcade Start)\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n"
     },
     {
       "gameid": "kof94",
@@ -1067,7 +1067,7 @@
     },
     {
       "gameid": "flycast_mvsc2",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\n\nFor common questions, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\nIf you run into any issues after an update, try deleting the *emu.cfg* file in your *Fightcade\\emulator\\flycast* folder and try again.\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\n\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\n"
     },
     {
       "gameid": "captre",
@@ -1107,7 +1107,7 @@
     },
     {
       "gameid": "flycast_kofxi",
-      "motd": "Wiki (SRK): https://srk.shib.live/w/The_King_of_Fighters_XI\nWiki (HE): https://wiki.hardedge.org/index.php?title=The_King_of_Fighters_XI\nDiscord: https://discord.gg/RaXgUCrzwN\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
+      "motd": "Wiki (SRK): https://srk.shib.live/w/The_King_of_Fighters_XI\nWiki (HE): https://wiki.hardedge.org/index.php?title=The_King_of_Fighters_XI\nDiscord: https://discord.gg/RaXgUCrzwN\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n"
     },
     {
       "gameid": "mtlchamp",
