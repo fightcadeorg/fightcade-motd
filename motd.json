@@ -1155,7 +1155,7 @@
     },
     {
       "gameid": "flycast_dc_vf3tb",
-      "motd": "Mizuumi: https://wiki.gbl.gg/w/Virtua_Fighter_3tb\n"
+      "motd": "Guide: https://virtuafighter.com/vf3/\nDiscord (TheVirtuaFighters): https://discord.gg/JMECKkN\nDiscord (Virtua Revival): https://discord.gg/9UTP98b\nMizuumi: https://wiki.gbl.gg/w/Virtua_Fighter_3tb\n\nIf you are unable to connect to others or accept incoming games, make sure Flycast is allowed to access your network in the Windows Firewall.\n\nFor emulator help, read the pins and ask questions in the #flycast-emulator channel on the Fightcade Discord: https://discord.gg/EyERRSg\n"
     }
   ]
 }
