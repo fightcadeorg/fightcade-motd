@@ -859,7 +859,7 @@
     },
     {
       "gameid": "pnyaa",
-      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n*Attack Calculator:*\nhttps://fairysvoice.net/pnyaa\n"
     },
     {
       "gameid": "chainrec",
@@ -916,6 +916,10 @@
     {
       "gameid": "naname",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\nWarning: Win counter works only when *3-rounds* is set!\nMake sure you and your opponent have configured DIPswitches before starting a match.\n"
+    },
+    {
+      "gameid": "toryumon",
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
     },
     {
       "gameid": "flycast_toyfight",
