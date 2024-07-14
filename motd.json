@@ -962,6 +962,10 @@
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
     },
     {
+      "gameid": "pbobblen",
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
+    },
+    {
       "gameid": "pbobble3",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
     },
@@ -1266,6 +1270,10 @@
       "motd": "Discord: https://discord.gg/hqbpgbVzMz\n"
     },
     {
+      "gameid": "nes_tsbtapmeter",
+      "motd": "Discord: https://discord.gg/hqbpgbVzMz\n"
+    },
+    {
       "gameid": "snes_stennisu",
       "motd": "Super Tennis SNES Community: https://www.facebook.com/groups/supertennisonline\n"
     },
@@ -1280,6 +1288,10 @@
     {
       "gameid": "md_fightvengt",
       "motd": "Play as Metalo: Press A+C at the character select screen\n"
+    },
+    {
+      "gameid": "md_umk3osc",
+      "motd": "Current version on FC2: 29a (2024-03-02)\n\nOfficial Site: https://vk.com/umk3_sega\n"
     },
     {
       "gameid": "flycast_ggxxac",
@@ -1300,6 +1312,14 @@
     {
       "gameid": "flycast_dc_vf3tb",
       "motd": "Guide: https://virtuafighter.com/vf3/\nDiscord (TheVirtuaFighters): https://discord.gg/JMECKkN\nDiscord (Virtua Revival): https://discord.gg/9UTP98b\nMizuumi: https://wiki.gbl.gg/w/Virtua_Fighter_3tb\n\nIf you are unable to connect to others or accept incoming games, make sure Flycast is allowed to access your network in the Windows Firewall.\n\nFor emulator help, read the pins and ask questions in the #flycast-emulator channel on the Fightcade Discord: https://discord.gg/EyERRSg\n"
+    },
+    {
+      "gameid": "flycast_dc_doa2_le",
+      "motd": "Dead or Alive 2 Discord: https://discord.gg/CzczfGrtTk\nFree Step Dodge Discord: https://discord.gg/JvNgawv\nWiki: https://www.freestepdodge.com/wiki/dead-or-alive-2/\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
+    },
+    {
+      "gameid": "flycast_dc_soulclbr",
+      "motd": "Discord: https://discord.gg/srg7T7QH9n\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
     },
     {
       "gameid": "nes_pentablocat",
