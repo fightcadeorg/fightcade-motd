@@ -7,7 +7,7 @@
     },
     {
       "gameid": "ssf2tnl",
-      "motd": "*Super Street Fighter II Turbo - New Legacy - Latest version: v0.9 (04/april/2024)*\nA rebalance of Super Turbo that also has many quality of life changes!\n\nYou can select stage using the START button over character in Character Select Screen (*NOT* the Coin button).\nTo pick the OLD version of a character, first pick the character with any P/K button, and confirm the character color with START.\nFC2 is not updated yet (it still expects the v0.7.1 rom), but you can still play the latest version here, just make sure you're using the correct ROM and then press OK on the \"CRC error\" pop-up window that appears while launching the game. It's also recommended to disable the CRC checking altogether, you can do that on [Misc > Options > Hide ROM Warnings] on the emulator window. That also has the benefit of fixing the DESYNCS while spectating.\nIf you're getting *DESYNCS* while playing online, please make sure that you and your opponent are both using the latest rom version.\n\nOfficial Site (English): https://newlegacy.fr/ \nDiscord: https://discord.gg/f6HYxyKMmR \nBrazilian Discord: https://discord.gg/UMXzgXd6AM/\n"
+      "motd": "*Super Street Fighter II Turbo - New Legacy - Latest version: v0.9 (04/april/2024)*\nA rebalance of Super Turbo that also has many quality of life changes!\n\nYou can select stage using the START button over character in Character Select Screen (*NOT* the Coin button).\nTo pick the OLD version of a character, first pick the character with any P/K button, and confirm the character color with START.\nIf you're getting *DESYNCS* while playing online, please make sure that you and your opponent are both using the latest rom version.\n\nOfficial Site (English): https://newlegacy.fr/ \nDiscord: https://discord.gg/f6HYxyKMmR \nBrazilian Discord: https://discord.gg/UMXzgXd6AM/\n"
     },
     {
       "gameid": "sf",
@@ -67,6 +67,10 @@
     },
     {
       "gameid": "sfz3mix",
+      "motd": "Official Site: https://sfz3mix.github.io\nBrazilian Discord: https://discord.gg/vG7sUdJTUW\n"
+    },
+    {
+      "gameid": "sfz3mix13",
       "motd": "Official Site: https://sfz3mix.github.io\nBrazilian Discord: https://discord.gg/vG7sUdJTUW\n"
     },
     {
@@ -390,6 +394,126 @@
       "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
     },
     {
+      "gameid": "mslugdqy",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslugdyf1",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslugfc1",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslugfc2",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug2p",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug3cq",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug3cqi",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug3gw",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug3se",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug3sd",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug3zh",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug4lwq",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug4q",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug4ammor",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug5boss",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug5esr",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug5dbj",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug5ext",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug5es",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug5f",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug5cq",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug5sg",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug5zh",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslug5ct",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslugx2reb",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslugx2r",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslugxc1",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslugxdg",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslugxsc",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
+      "gameid": "mslugxcqi",
+      "motd": "Community: https://www.facebook.com/MetalSlugUnity\nDiscord: https://discord.gg/rxjcur9mTT\n"
+    },
+    {
       "gameid": "mwarr",
       "motd": "Discord: https://discord.gg/KBeHaw5dVt\n"
     },
@@ -538,11 +662,23 @@
       "motd": "Discord: https://discord.gg/CWPf7SX\n"
     },
     {
+      "gameid": "karnovre",
+      "motd": "*Latest version: 0.2 (2024-07-06)*\n\nOfficial Site: https://gamehackfan.github.io/karnovre\nNeeds original game (karnovr.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n\nDiscord: https://discord.gg/CWPf7SX\n"
+    },
+    {
       "gameid": "avengrgs",
       "motd": "Discord: https://discord.gg/X7sxAYCdhq\nWiki: https://wiki.gbl.gg/w/Avengers_in_Galactic_Storm\n"
     },
     {
       "gameid": "xmvsf",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/X-Men_vs_Street_Fighter\nMoves: https://strategywiki.org/wiki/X-Men_vs._Street_Fighter/Moves\nDiscord: https://discord.gg/hGJk6bvG8t\n"
+    },
+    {
+      "gameid": "xmvsfu",
+      "motd": "Wiki: https://wiki.supercombo.gg/w/X-Men_vs_Street_Fighter\nMoves: https://strategywiki.org/wiki/X-Men_vs._Street_Fighter/Moves\nDiscord: https://discord.gg/hGJk6bvG8t\n"
+    },
+    {
+      "gameid": "xmvsfjr3",
       "motd": "Wiki: https://wiki.supercombo.gg/w/X-Men_vs_Street_Fighter\nMoves: https://strategywiki.org/wiki/X-Men_vs._Street_Fighter/Moves\nDiscord: https://discord.gg/hGJk6bvG8t\n"
     },
     {
@@ -826,6 +962,10 @@
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
     },
     {
+      "gameid": "pbobblen",
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
+    },
+    {
       "gameid": "pbobble3",
       "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n"
     },
@@ -1002,6 +1142,10 @@
       "motd": "Discord: https://discord.gg/B3SGR8RMfx\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_%2794\nDream Cancel Wiki: https://dreamcancel.com/wiki/The_King_of_Fighters_'94\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GOJQ3UjsMqrnL9U20mOZ920\n"
     },
     {
+      "gameid": "kof94te",
+      "motd": "Official Site: https://neorh.mattgreer.dev/kof94\nDiscord: https://discord.com/invite/tvm4fpkUNq\n\nNeeds original game (kof94.zip) to obtain romhack.\n"
+    },
+    {
       "gameid": "kof95",
       "motd": "Discord: https://discord.gg/B3SGR8RMfx\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_%2795\nJapanese Wiki: http://akof95i.web.fc2.com/akof95i_0000_top.html\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNMsZ1qVDHrTMn0DigjD_gR\n"
     },
@@ -1119,10 +1263,14 @@
     },
     {
       "gameid": "mtlchamp",
-      "motd": "Discord: https://discord.gg/zZbQYGA7TB\n"
+      "motd": "Discord: https://discord.gg/zZbQYGA7TB\nWiki: https://wiki.gbl.gg/w/Martial_Champion\n"
     },
     {
       "gameid": "nes_tecmosuperbowl",
+      "motd": "Discord: https://discord.gg/hqbpgbVzMz\n"
+    },
+    {
+      "gameid": "nes_tsbtapmeter",
       "motd": "Discord: https://discord.gg/hqbpgbVzMz\n"
     },
     {
@@ -1142,8 +1290,12 @@
       "motd": "Play as Metalo: Press A+C at the character select screen\n"
     },
     {
-      "gameid": "flycast_ggxxac",
-      "motd": "Discord: https://discord.gg/bNRZPWgU7k\n"
+      "gameid": "md_umk3osc",
+      "motd": "Current version on FC2: 29a (2024-03-02)\n\nOfficial Site: https://vk.com/umk3_sega\n"
+    },
+    {
+      "gameid": "md_fatfuryu",
+      "motd": "Move List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNkFr4KGyiwx25ob6u7dC88\n"
     },
     {
       "gameid": "snes_aofu",
@@ -1158,8 +1310,28 @@
       "motd": "Discord: https://discord.gg/Bkv46vBdHB\n"
     },
     {
+      "gameid": "snes_fatfuryu",
+      "motd": "Move List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNkFr4KGyiwx25ob6u7dC88\n"
+    },
+    {
+      "gameid": "flycast_ggxxac",
+      "motd": "Discord: https://discord.gg/bNRZPWgU7k\n"
+    },
+    {
       "gameid": "flycast_dc_vf3tb",
       "motd": "Guide: https://virtuafighter.com/vf3/\nDiscord (TheVirtuaFighters): https://discord.gg/JMECKkN\nDiscord (Virtua Revival): https://discord.gg/9UTP98b\nMizuumi: https://wiki.gbl.gg/w/Virtua_Fighter_3tb\n\nIf you are unable to connect to others or accept incoming games, make sure Flycast is allowed to access your network in the Windows Firewall.\n\nFor emulator help, read the pins and ask questions in the #flycast-emulator channel on the Fightcade Discord: https://discord.gg/EyERRSg\n"
+    },
+    {
+      "gameid": "flycast_dc_doa2_le",
+      "motd": "Dead or Alive 2 Discord: https://discord.gg/CzczfGrtTk\nFree Step Dodge Discord: https://discord.gg/JvNgawv\nWiki: https://www.freestepdodge.com/wiki/dead-or-alive-2/\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
+    },
+    {
+      "gameid": "flycast_dc_soulclbr",
+      "motd": "Discord: https://discord.gg/srg7T7QH9n\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
+    },
+    {
+      "gameid": "nes_pentablocat",
+      "motd": "Official Site: https://vvulpes0.itch.io/pentablocat\n"
     }
   ]
 }
