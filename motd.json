@@ -7,7 +7,7 @@
     },
     {
       "gameid": "ssf2tnl",
-      "motd": "*Super Street Fighter II Turbo - New Legacy - Latest version: v0.9 (04/april/2024)*\nA rebalance of Super Turbo that also has many quality of life changes!\n\nYou can select stage using the START button over character in Character Select Screen (*NOT* the Coin button).\nTo pick the OLD version of a character, first pick the character with any P/K button, and confirm the character color with START.\nIf you're getting *DESYNCS* while playing online, please make sure that you and your opponent are both using the latest rom version.\n\nOfficial Site (English): https://newlegacy.fr/ \nDiscord: https://discord.gg/f6HYxyKMmR \nBrazilian Discord: https://discord.gg/UMXzgXd6AM/\n"
+      "motd": "*Super Street Fighter II Turbo - New Legacy - Latest version: v0.9 (04/april/2024)*\nA rebalance of Super Turbo that also has many quality of life changes!\n\nYou can select stage using the START button over character in Character Select Screen (*NOT* the Coin button).\nTo pick the OLD version of a character, first pick the character with any P/K button, and confirm the character color with START.\nIf you're getting *DESYNCS* while playing online, please make sure that you and your opponent are both using the latest rom version.\n\nOfficial Site (English): https://newlegacy.fr\nDiscord: https://discord.gg/f6HYxyKMmR\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\n"
     },
     {
       "gameid": "sf",
@@ -184,6 +184,10 @@
     {
       "gameid": "samsho2",
       "motd": "Discord: https://discord.gg/bBs4TAr\nJapanese Wiki: http://shinjin.starfree.jp/SinSamurai_Main.htm\n"
+    },
+    {
+      "gameid": "samsho2pe",
+      "motd": "*Latest version: 2.2 (2024-07-12)*\n"
     },
     {
       "gameid": "samsho3",
@@ -663,7 +667,7 @@
     },
     {
       "gameid": "karnovre",
-      "motd": "*Latest version: 0.2 (2024-07-06)*\n\nOfficial Site: https://gamehackfan.github.io/karnovre\nNeeds original game (karnovr.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n\nDiscord: https://discord.gg/CWPf7SX\n"
+      "motd": "*Latest version: 0.2 (2024-07-06)*\n\nOfficial Site: https://gamehackfan.github.io/karnovre\nNeeds original game (karnovr.zip) to obtain romhack.\n*Please make sure you and your opponent have the same revision!!*\n\nDiscord: https://discord.gg/CWPf7SX\n"
     },
     {
       "gameid": "avengrgs",
@@ -1103,7 +1107,7 @@
     },
     {
       "gameid": "dinore",
-      "motd": "*Latest version: 1.4 (2023-06-27)*\n\nOfficial Site: https://gamehackfan.github.io/dinore\nNeeds original game (dino.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
+      "motd": "*Latest version: 1.4 (2023-06-27)*\n\nOfficial Site: https://gamehackfan.github.io/dinore\nNeeds original game (dino.zip) to obtain romhack.\n*Please make sure you and your opponent have the same revision!!*\n"
     },
     {
       "gameid": "nes_kartfighter",
@@ -1219,11 +1223,11 @@
     },
     {
       "gameid": "flycast_mvsc2",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\nEU Discord: https://discord.gg/RZgpCBz3\n\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\nEU Discord: https://discord.gg/pT3JfN2N8e\n\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\n"
     },
     {
       "gameid": "captre",
-      "motd": "*Latest version: 1.2 (2023-11-27)*\n\nOfficial Site: https://gamehackfan.github.io/captre\nNeeds original game (captcomm.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
+      "motd": "*Latest version: 1.2 (2023-11-27)*\n\nOfficial Site: https://gamehackfan.github.io/captre\nNeeds original game (captcomm.zip) to obtain romhack.\n*Please make sure you and your opponent have the same revision!!*\n"
     },
     {
       "gameid": "bestbest",
