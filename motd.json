@@ -34,6 +34,14 @@
       "motd": "You can select stage using Coin button over character in Character Select Screen\n\n*How to play Dramatic Battle co-op mode*:\n1) Do not use F3 for reset, instead press F2 and then select \"Exit\".\n2) Press and hold the three kicks (KKK) at the title screen, then press start. P1 should pick first.\n\nBrazilian Discord: https://discord.gg/vG7sUdJTUW\nEnglish Discord: http://discord.gg/Ut863vnW47\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\nFrench-Euro Discord: http://discord.gg/T2hYWAd2JK\nWiki/Resources: https://wiki.supercombo.gg/w/Street_Fighter_Alpha_3\n"
     },
     {
+      "gameid": "sfa3fp",
+      "motd": "Power bars always at maximum.\n"
+    },
+    {
+      "gameid": "sfz2apl",
+      "motd": "Power bars always at maximum.\n"
+    },
+    {
       "gameid": "sfiii",
       "motd": "Discord: https://discord.gg/AXkCFrduJ8\n"
     },
@@ -172,6 +180,34 @@
     {
       "gameid": "kof2003",
       "motd": "Discord: https://discord.gg/JGQ6XFGDVZ\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_2003\n"
+    },
+    {
+      "gameid": "kof97bng",
+      "motd": "A recolored version of KOF97. Bosses unlocked. Allows you to choose the same character more than once for the team.\nAt the start of the fight, the player in Advanced mode already has 3 Power Bars.\nIn Extra mode you can instantly fill the power bar the first three times you press LP+LK+HP.\n"
+    },
+    {
+      "gameid": "kof97spw",
+      "motd": "A version of KOF97 with another balance. Bosses unlocked. Allows you to choose the same character more than once for the team. The Power bar is infinite.\n"
+    },
+    {
+      "gameid": "kof97ubp",
+      "motd": "A version of KOF97 with another balance. The characters have new moves. Bosses unlocked.\nThe Power bar is infinite. Iori Yagami wears Another Iori's outfit.\n"
+    },
+    {
+      "gameid": "kof97ywb",
+      "motd": "The characters have new moves. Bosses unlocked. Kyo Kusanagi wears his Nests Saga outfit.\n"
+    },
+    {
+      "gameid": "kof98mp",
+      "motd": "Infinite power bar. Just hit or take a hit to fill it in Advanced mode, or press LP+LK+HP to fill it in Extra mode.\nCharacters change color between matches. Hold START in the middle of match to change your character.\n"
+    },
+    {
+      "gameid": "kof99bc",
+      "motd": "Bosses unlocked. Krizalid is below the roulette wheel.\nHighlight Krizalid and hold Start + any attack button to select him without a coat.\n"
+    },
+    {
+      "gameid": "kf2k1pkz",
+      "motd": "Bosses unlocked: Krizalid, Zero and Igniz. Ron and Glugan can be used as Strikers.\n"
     },
     {
       "gameid": "samsh5sp",
@@ -744,6 +780,10 @@
     {
       "gameid": "neotet",
       "motd": "*Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "gowcaiet",
+      "motd": "A balanced version of Gowcaizer. Bosses unlocked, press right or left on the characters at the ends of the screen to find them.\n"
     },
     {
       "gameid": "gg_stetris",
