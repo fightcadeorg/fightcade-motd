@@ -1382,6 +1382,10 @@
       "motd": "Discord: https://discord.gg/srg7T7QH9n\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
     },
     {
+      "gameid": "flycast_fotns",
+      "motd": "Wiki (EN): http://wiki.shoryuken.com/Hokuto_no_Ken\nWiki (DE): https://wiki.hardedge.org/wiki/Hokuto_No_Ken_(Fist_Of_The_North_Star)\nDiscord: https://discord.gg/q3EzrAp\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\n2021-10-14: New free play savestate loaded. If you have an old savestate, delete existing data\\fotns.state.net file to download a new one on match start.\n"
+    },
+    {
       "gameid": "nes_pentablocat",
       "motd": "Official Site: https://vvulpes0.itch.io/pentablocat\n"
     }
