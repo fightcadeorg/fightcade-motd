@@ -7,7 +7,7 @@
     },
     {
       "gameid": "ssf2tnl",
-      "motd": "*Super Street Fighter II Turbo - New Legacy - Latest version: v0.9 (04/april/2024)*\nA rebalance of Super Turbo that also has many quality of life changes!\n\nYou can select stage using the START button over character in Character Select Screen (*NOT* the Coin button).\nTo pick the OLD version of a character, first pick the character with any P/K button, and confirm the character color with START.\nIf you're getting *DESYNCS* while playing online, please make sure that you and your opponent are both using the latest rom version.\n\nOfficial Site (English): https://newlegacy.fr/ \nDiscord: https://discord.gg/f6HYxyKMmR \nBrazilian Discord: https://discord.gg/UMXzgXd6AM/\n"
+      "motd": "*Super Street Fighter II Turbo - New Legacy - Latest version: v0.9 (04/april/2024)*\nA rebalance of Super Turbo that also has many quality of life changes!\n\nYou can select stage using the START button over character in Character Select Screen (*NOT* the Coin button).\nTo pick the OLD version of a character, first pick the character with any P/K button, and confirm the character color with START.\nIf you're getting *DESYNCS* while playing online, please make sure that you and your opponent are both using the latest rom version.\n\nOfficial Site (English): https://newlegacy.fr\nDiscord: https://discord.gg/f6HYxyKMmR\nBrazilian Discord: https://discord.gg/UMXzgXd6AM\n"
     },
     {
       "gameid": "sf",
@@ -23,7 +23,7 @@
     },
     {
       "gameid": "sfa",
-      "motd": "Brazilian Discord: https://discord.gg/cV8NW3jnpy\nEnglish Discord: https://discord.gg/yVxNpKw4T9\nTo pick a Secret Character Go to player-side random box and enter start. For player 2 assume left is right.\nAKUMA/GOUKI: Down, Down, Down, Left, Left, Left then press LP+HP or LK+HK\nVEGA/M.BISON: Down, Down, Left, Left, Down, Left then press LP+HP or LK+HK\nDAN: enter LP, LK, MK, HK, HP, MP or enter HP, HK, MK, LK, LP, MP\n"
+      "motd": "To pick a Secret Character Go to player-side random box and enter start. For player 2 assume left is right.\nAKUMA/GOUKI: Down, Down, Down, Left, Left, Left then press LP+HP or LK+HK\nVEGA/M.BISON: Down, Down, Left, Left, Down, Left then press LP+HP or LK+HK\nDAN: enter LP, LK, MK, HK, HP, MP or enter HP, HK, MK, LK, LP, MP\n\nBrazilian Discord: https://discord.gg/cV8NW3jnpy\nEnglish Discord: https://discord.gg/yVxNpKw4T9\nWiki: https://wiki.supercombo.gg/w/Street_Fighter_Alpha\n"
     },
     {
       "gameid": "sfa2u",
@@ -32,6 +32,14 @@
     {
       "gameid": "sfa3",
       "motd": "You can select stage using Coin button over character in Character Select Screen\n\n*How to play Dramatic Battle co-op mode*:\n1) Do not use F3 for reset, instead press F2 and then select \"Exit\".\n2) Press and hold the three kicks (KKK) at the title screen, then press start. P1 should pick first.\n\nBrazilian Discord: https://discord.gg/vG7sUdJTUW\nEnglish Discord: http://discord.gg/Ut863vnW47\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\nFrench-Euro Discord: http://discord.gg/T2hYWAd2JK\nWiki/Resources: https://wiki.supercombo.gg/w/Street_Fighter_Alpha_3\n"
+    },
+    {
+      "gameid": "sfa3fp",
+      "motd": "Power bars always at maximum.\n"
+    },
+    {
+      "gameid": "sfz2apl",
+      "motd": "Power bars always at maximum.\n"
     },
     {
       "gameid": "sfiii",
@@ -75,7 +83,7 @@
     },
     {
       "gameid": "jojobanr1",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/JoJo's_Bizarre_Adventure:_Heritage_for_the_Future\nDiscord: https://discord.gg/EFZyyJm\nLatam Discord: https://discord.gg/m2CPKEr\nRussian Discord: https://discord.gg/NgcgPHm\nBrazilian Discord: https://discord.gg/R5k3qWt\nHFTF Asia: https://discord.gg/5SWas9pwts\nFrench Discord : https://discord.gg/rXKwpkTkKy\nHFTF Awakened: https://discord.gg/GnDQ9eaGQB\nStand Off official: https://discord.gg/5qAvdKEm33\nTournament of 'Power' Discord: https://discord.gg/vGyArR83GY\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/JoJo's_Bizarre_Adventure:_Heritage_for_the_Future\nDiscord: https://discord.gg/EFZyyJm\nLatam Discord: https://discord.gg/5UGSTUHUCs\nRussian Discord: https://discord.gg/NgcgPHm\nBrazilian Discord: https://discord.gg/R5k3qWt\nHFTF Asia: https://discord.gg/5SWas9pwts\nFrench Discord : https://discord.gg/rXKwpkTkKy\nHFTF Awakened: https://discord.gg/GnDQ9eaGQB\nStand Off official: https://discord.gg/5qAvdKEm33\nTournament of 'Power' Discord: https://discord.gg/vGyArR83GY\n"
     },
     {
       "gameid": "jojo",
@@ -91,7 +99,7 @@
     },
     {
       "gameid": "garou",
-      "motd": "Play as Grant: Highlight Dong Hwan, hold Start and press *Up* *Up* *Down* *Down* *Up* *Down*\nPlay as Kain: Highlight Jae Hoon, hold Start and press *Down* *Down* *Up* *Up* *Down* *Up*\n\nWiki: https://wiki.supercombo.gg/w/Garou:_Mark_of_the_Wolves\nDiscord: https://discord.gg/zcpbgDS\nDiscord Brasileiro: https://discord.gg/uaz85NNH9D\nInternational Discord: https://discord.gg/fBuZz26FGA\nInternational Tournaments Discord: https://discord.gg/EjHE5pW\nLatam Discord: https://discord.gg/SjjMD2w83t\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GOeVtP0WAc81s2U4ubVJBb_\n"
+      "motd": "Play as Grant: Highlight Dong Hwan, hold Start and press \u2191 \u2191 \u2193 \u2193 \u2191 \u2193\nPlay as Kain: Highlight Jae Hoon, hold Start and press \u2193 \u2193 \u2191 \u2191 \u2193 \u2191\n\nWiki: https://wiki.supercombo.gg/w/Garou:_Mark_of_the_Wolves\nDiscord: https://discord.gg/zcpbgDS\nDiscord Brasileiro: https://discord.gg/uaz85NNH9D\nInternational Discord: https://discord.gg/fBuZz26FGA\nInternational Tournaments Discord: https://discord.gg/EjHE5pW\nLatam Discord: https://discord.gg/SjjMD2w83t\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GOeVtP0WAc81s2U4ubVJBb_\n"
     },
     {
       "gameid": "jchan",
@@ -174,6 +182,34 @@
       "motd": "Discord: https://discord.gg/JGQ6XFGDVZ\nWiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_2003\n"
     },
     {
+      "gameid": "kof97bng",
+      "motd": "A recolored version of KOF97. Bosses unlocked. Allows you to choose the same character more than once for the team.\nAt the start of the fight, the player in Advanced mode already has 3 Power Bars.\nIn Extra mode you can instantly fill the power bar the first three times you press LP+LK+HP.\n"
+    },
+    {
+      "gameid": "kof97spw",
+      "motd": "A version of KOF97 with another balance. Bosses unlocked. Allows you to choose the same character more than once for the team. The Power bar is infinite.\n"
+    },
+    {
+      "gameid": "kof97ubp",
+      "motd": "A version of KOF97 with another balance. The characters have new moves. Bosses unlocked.\nThe Power bar is infinite. Iori Yagami wears Another Iori's outfit.\n"
+    },
+    {
+      "gameid": "kof97ywb",
+      "motd": "The characters have new moves. Bosses unlocked. Kyo Kusanagi wears his Nests Saga outfit.\n"
+    },
+    {
+      "gameid": "kof98mp",
+      "motd": "Infinite power bar. Just hit or take a hit to fill it in Advanced mode, or press LP+LK+HP to fill it in Extra mode.\nCharacters change color between matches. Hold START in the middle of match to change your character.\n"
+    },
+    {
+      "gameid": "kof99bc",
+      "motd": "Bosses unlocked. Krizalid is below the roulette wheel.\nHighlight Krizalid and hold Start + any attack button to select him without a coat.\n"
+    },
+    {
+      "gameid": "kf2k1pkz",
+      "motd": "Bosses unlocked: Krizalid, Zero and Igniz. Ron and Glugan can be used as Strikers.\n"
+    },
+    {
       "gameid": "samsh5sp",
       "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_V_Special\nDiscord: https://discord.gg/bBs4TAr\nBrazilian Discord: https://discord.io/specialshodown\nLatam Discord: https://discord.gg/HFmcPxTJNg\nLiga SamSho 5 Special (Dojo eSports): https://discord.gg/4K6bATSsWP\n"
     },
@@ -184,6 +220,10 @@
     {
       "gameid": "samsho2",
       "motd": "Discord: https://discord.gg/bBs4TAr\nJapanese Wiki: http://shinjin.starfree.jp/SinSamurai_Main.htm\n"
+    },
+    {
+      "gameid": "samsho2pe",
+      "motd": "*Latest version: 2.2 (2024-07-12)*\n"
     },
     {
       "gameid": "samsho3",
@@ -663,7 +703,7 @@
     },
     {
       "gameid": "karnovre",
-      "motd": "*Latest version: 0.2 (2024-07-06)*\n\nOfficial Site: https://gamehackfan.github.io/karnovre\nNeeds original game (karnovr.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n\nDiscord: https://discord.gg/CWPf7SX\n"
+      "motd": "*Latest version: 0.2 (2024-07-06)*\n\nOfficial Site: https://gamehackfan.github.io/karnovre\nNeeds original game (karnovr.zip) to obtain romhack.\n*Please make sure you and your opponent have the same revision!!*\n\nDiscord: https://discord.gg/CWPf7SX\n"
     },
     {
       "gameid": "avengrgs",
@@ -740,6 +780,10 @@
     {
       "gameid": "neotet",
       "motd": "*Community Discords:*\nTetris Netplay: https://discord.gg/XW4xEjkCsP\nServidor Latino'Facción Tetris': https://discord.gg/znKjRDWMZu\nHard Drop: https://discord.gg/harddrop\n"
+    },
+    {
+      "gameid": "gowcaiet",
+      "motd": "A balanced version of Gowcaizer. Bosses unlocked, press right or left on the characters at the ends of the screen to find them.\n"
     },
     {
       "gameid": "gg_stetris",
@@ -907,7 +951,7 @@
     },
     {
       "gameid": "flycast_cvs2",
-      "motd": "Wiki (being updated!): https://wiki.supercombo.gg/w/Capcom_vs_SNK_2\nCvS2 Bible (Scans): http://tinyurl.com/CvS2Bible\nCvS2 GameFAQs: https://gamefaqs.gamespot.com/arcade/562704-capcom-vs-snk-2/faqs\nCvS2 Community Discord: http://tinyurl.com/CvS2Discord\nTrue Love Makin Academy (Latin America): https://discord.gg/VqMhyUhKjm\nFull setup guide, download help, and training mode info is available here: https://wiki.supercombo.gg/w/Capcom_vs_SNK_2/Emulation_and_Netplay\nHitbox Images (c/o RagingStormX): https://drive.google.com/drive/folders/1h9xdMlUGkNlZsErASrsRZzvmd9tnKEF6\n\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\n"
+      "motd": "Wiki (being updated!): https://wiki.supercombo.gg/w/Capcom_vs_SNK_2\nCvS2 Bible (Scans): http://tinyurl.com/CvS2Bible\nCvS2 GameFAQs: https://gamefaqs.gamespot.com/arcade/562704-capcom-vs-snk-2/faqs\nCvS2 Community Discord: http://tinyurl.com/CvS2Discord\nTrue Love Makin Academy (Latin America): https://discord.gg/VqMhyUhKjm\nFull setup guide, download help, and training mode info is available here: https://wiki.supercombo.gg/w/Capcom_vs_SNK_2/Emulation_and_Netplay\nHitbox Images (c/o RagingStormX): https://drive.google.com/drive/folders/1h9xdMlUGkNlZsErASrsRZzvmd9tnKEF6\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GOtZlSu5q4SfZavjWuw5eBq\n\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\n"
     },
     {
       "gameid": "flycast_dc_plasmasword",
@@ -1103,7 +1147,7 @@
     },
     {
       "gameid": "dinore",
-      "motd": "*Latest version: 1.4 (2023-06-27)*\n\nOfficial Site: https://gamehackfan.github.io/dinore\nNeeds original game (dino.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
+      "motd": "*Latest version: 1.4 (2023-06-27)*\n\nOfficial Site: https://gamehackfan.github.io/dinore\nNeeds original game (dino.zip) to obtain romhack.\n*Please make sure you and your opponent have the same revision!!*\n"
     },
     {
       "gameid": "nes_kartfighter",
@@ -1219,11 +1263,11 @@
     },
     {
       "gameid": "flycast_mvsc2",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\nEU Discord: https://discord.gg/RZgpCBz3\n\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\nEU Discord: https://discord.gg/pT3JfN2N8e\n\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\n"
     },
     {
       "gameid": "captre",
-      "motd": "*Latest version: 1.2 (2023-11-27)*\n\nOfficial Site: https://gamehackfan.github.io/captre\nNeeds original game (captcomm.zip) to obtain romhack.\n\n*Please make sure you and your opponent have the same revision!!*\n"
+      "motd": "*Latest version: 1.2 (2023-11-27)*\n\nOfficial Site: https://gamehackfan.github.io/captre\nNeeds original game (captcomm.zip) to obtain romhack.\n*Please make sure you and your opponent have the same revision!!*\n"
     },
     {
       "gameid": "bestbest",
@@ -1286,6 +1330,10 @@
       "motd": "Wiki: https://wiki.supercombo.gg/w/The_King_of_Fighters_'96\nMovelist Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNiXGy5_Fj1G45YrGP3Vbh4\n"
     },
     {
+      "gameid": "kof96ae20",
+      "motd": "Move List (PDF): https://drive.google.com/file/d/10P0BUIbL24bpmxGXy3ecCQuJ56x65p_S/view\n"
+    },
+    {
       "gameid": "md_fightvengt",
       "motd": "Play as Metalo: Press A+C at the character select screen\n"
     },
@@ -1307,11 +1355,15 @@
     },
     {
       "gameid": "snes_yuyu2",
-      "motd": "Discord: https://discord.gg/Bkv46vBdHB\n"
+      "motd": "Discord: https://discord.gg/Bkv46vBdHB\nYu Yu Hakusho 2 Mizuumi Wiki: https://wiki.gbl.gg/w/YuYu_Hakusho_2:_Kakutou_no_Shou\n"
     },
     {
       "gameid": "snes_fatfuryu",
       "motd": "Move List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNkFr4KGyiwx25ob6u7dC88\n"
+    },
+    {
+      "gameid": "snes_kinstu1",
+      "motd": "Move List Showcase: https://youtube.com/playlist?list=PLP7HSJVpBH_WYxoqVXWKnrkwaRhPsr4Ph&si=WE8c_BPGoSxaoK1u\n"
     },
     {
       "gameid": "flycast_ggxxac",
@@ -1328,6 +1380,10 @@
     {
       "gameid": "flycast_dc_soulclbr",
       "motd": "Discord: https://discord.gg/srg7T7QH9n\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n"
+    },
+    {
+      "gameid": "flycast_fotns",
+      "motd": "Wiki (EN): http://wiki.shoryuken.com/Hokuto_no_Ken\nWiki (DE): https://wiki.hardedge.org/wiki/Hokuto_No_Ken_(Fist_Of_The_North_Star)\nDiscord: https://discord.gg/q3EzrAp\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\n2021-10-14: New free play savestate loaded. If you have an old savestate, delete existing data\\fotns.state.net file to download a new one on match start.\n"
     },
     {
       "gameid": "nes_pentablocat",
