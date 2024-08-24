@@ -215,7 +215,7 @@
     },
     {
       "gameid": "samsho",
-      "motd": "Discord: https://discord.gg/bBs4TAr\nJapanese atwiki: https://w.atwiki.jp/samurai1\nJapanese Seesaa Wiki: https://seesaawiki.jp/kakugesouko/d/%bd%e9%a5%b5%a5%e0/%a5%e1%a5%e2\nHitboxes, Frame Data, Japanese Events: http://samurai.mania.cx/ss/index.html\n"
+      "motd": "Discord: https://discord.gg/bBs4TAr\nJapanese atwiki: https://w.atwiki.jp/samurai1\nJapanese Seesaa Wiki: https://seesaawiki.jp/kakugesouko/d/%bd%e9%a5%b5%a5%e0/%a5%e1%a5%e2\nSuperCombo Wiki: https://wiki.supercombo.gg/w/Samurai_Shodown\nHitboxes, Frame Data, Japanese Events: http://samurai.mania.cx/ss/index.html\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GPPuXr9jwczk3DT_htkCJVj\n"
     },
     {
       "gameid": "samsho2",
@@ -1308,6 +1308,10 @@
     {
       "gameid": "mtlchamp",
       "motd": "Discord: https://discord.gg/zZbQYGA7TB\nWiki: https://wiki.gbl.gg/w/Martial_Champion\n"
+    },
+    {
+      "gameid": "sdodgeb",
+      "motd": "Discord: https://discord.gg/pGhNeguggu\n"
     },
     {
       "gameid": "nes_tecmosuperbowl",
