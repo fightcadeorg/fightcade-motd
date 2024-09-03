@@ -607,7 +607,7 @@
     },
     {
       "gameid": "redearth",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Red_Earth/War-Zard\nDiscord: https://discord.gg/7eNk7pm\nPassword Notation:\n1, 2, 3 - LP, MP, HP\n4, 5, 6 - LK, MK, HK\nDelete - Left Button\nMax LVL Tessa & Moveset: 46321 23544 https://youtu.be/tBFjG-WiwrA\nMax LVL Leo & Moveset: 41344 34153 https://youtu.be/JVlu57s04B4\nMax LVL Mai-Ling & Moveset: 13126 44354 https://youtu.be/PisJuB_BBEI\nMax LVL Kenji & Moveset: 63141 24524 https://youtu.be/NgpWM0PnCOM\nIf you load up the game for the first time and you get an error that says NO CD-ROM DRIVE, go to \"Input\", select \"Map game inputs\", and change region to 0x53\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Red_Earth/War-Zard\nDiscord: https://discord.gg/7eNk7pm\n\nPassword Notation:\n1, 2, 3 - LP, MP, HP\n4, 5, 6 - LK, MK, HK\nDelete - Left Button\n\nMax LVL Tessa: 46321 23544\nMax LVL Leo: 41545 44142\nMax LVL Mai-Ling: 13126 44354\nMax LVL Kenji: 63141 24524\n\nIf you load up the game for the first time and you get an error that says NO CD-ROM DRIVE, go to \"Input\", select \"Map game inputs\", and change region to 0x53\n"
     },
     {
       "gameid": "redearthep",
@@ -623,7 +623,7 @@
     },
     {
       "gameid": "svcsplus",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\nDiscord BR: https://discord.gg/xk62aPfQm6\nBeginner's Guide Video: https://youtu.be/QMqwVuWbKRY\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/SvC_Chaos:_SNK_Vs_Capcom\nDiscord: https://discord.gg/u3FvwKC\nDiscord BR: https://discord.gg/xk62aPfQm6\nComboRetro SvC Chaos Discord Community: https://discord.gg/mUMGX3XM\nBeginner's Guide Video: https://youtu.be/QMqwVuWbKRY\n"
     },
     {
       "gameid": "magdrop2",
@@ -635,7 +635,7 @@
     },
     {
       "gameid": "sf2ce",
-      "motd": "Discord Peru: https://discord.gg/ShGmjmfhAh\nYouTube Retromancos: https://www.youtube.com/channel/UC84wAqkNFKIlQA9UWLq0XOw\nComunidad Retromancos: https://www.facebook.com/retromancos\nYouTube Fighter Latino: https://youtube.com/@fighterlatinos\nComunidad Fighter Latino sf2: https://www.facebook.com/Errenoob\nTraining mode: https://www.youtube.com/watch?v=yRxIDOZjGyU\nWiki: https://wiki.supercombo.gg/w/Street_Fighter_2:_Champion_Edition\n"
+      "motd": "Discord Peru: https://discord.gg/ShGmjmfhAh\nSF2CE Dojo Discord: https://discord.gg/Fdvnh385GM\nComunidad Fighter Latino sf2: https://www.facebook.com/Errenoob\nComunidad Retromancos: https://www.facebook.com/retromancos\nYouTube Fighter Latino: https://youtube.com/@fighterlatinos\nYouTube Retromancos: https://www.youtube.com/channel/UC84wAqkNFKIlQA9UWLq0XOw\nTraining mode: https://www.youtube.com/watch?v=yRxIDOZjGyU\nWiki: https://wiki.supercombo.gg/w/Street_Fighter_2:_Champion_Edition\n"
     },
     {
       "gameid": "sf2hf",
@@ -1263,7 +1263,7 @@
     },
     {
       "gameid": "flycast_mvsc2",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\nEU Discord: https://discord.gg/pT3JfN2N8e\nLatam Discord: https://discord.com/invite/KVvFh4Ag\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\nEU Discord: https://discord.gg/pT3JfN2N8e\nLatam Discord: https://discord.gg/QUsXdNJzne\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\n"
     },
     {
       "gameid": "captre",
