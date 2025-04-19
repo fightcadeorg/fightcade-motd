@@ -1399,7 +1399,11 @@
     },
     {
       "gameid": "drgnmst",
-      "motd": "Discord: https://discord.gg/p4auZzqkQp"
+      "motd": "Discord: https://discord.gg/p4auZzqkQp\n"
+    },
+    {
+      "gameid": "cairblad",
+      "motd": "Discord: https://discord.gg/adMXdn4YEr\n"
     }
   ]
 }
