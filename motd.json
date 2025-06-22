@@ -211,7 +211,7 @@
     },
     {
       "gameid": "samsh5sp",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_V_Special\nDiscord: https://discord.gg/bBs4TAr\nBrazilian Discord: https://discord.io/specialshodown\nLatam Discord: https://discord.gg/HFmcPxTJNg\nLiga SamSho 5 Special (Dojo eSports): https://discord.gg/4K6bATSsWP\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_V_Special\nDiscord: https://discord.gg/bBs4TAr\nBrazilian Discord: https://discord.io/specialshodown\nLatam Discord: https://discord.gg/HFmcPxTJNg\nLiga SamSho 5 Special (Dojo eSports): https://discord.gg/4K6bATSsWP\nDance of the Toad King - Discord Community & Events: https://discord.gg/RYatfAXHxy\n"
     },
     {
       "gameid": "samsho",
@@ -263,7 +263,7 @@
     },
     {
       "gameid": "fatfursp",
-      "motd": "Guide: https://drive.google.com/file/d/1H_3aVeT34YUNnj946I6xgtweU1o7czbH/view\nJapanese Wiki: https://seesaawiki.jp/garosp\nDiscord: https://discord.gg/7Qvv7K4\nFrench Discord: https://discord.gg/Pyq7eJA5kw\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GO5TX8EU9_YGnPHacyiDQXc\n"
+      "motd": "Guide: https://drive.google.com/file/d/1H_3aVeT34YUNnj946I6xgtweU1o7czbH/view\nWiki: https://wiki.supercombo.gg/w/Fatal_Fury_Special\nJapanese Wiki: https://seesaawiki.jp/garosp\nDiscord: https://discord.gg/7Qvv7K4\nFrench Discord: https://discord.gg/Pyq7eJA5kw\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GO5TX8EU9_YGnPHacyiDQXc\n"
     },
     {
       "gameid": "rotd",
@@ -691,7 +691,7 @@
     },
     {
       "gameid": "breakrev",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/Breakers_Revenge\nDiscord: https://discord.gg/u5e6cuF\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GPxm62dwqWT_giZ4AGbRelw\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Breakers_Revenge\nDiscord: https://discord.gg/u5e6cuF\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GPxm62dwqWT_giZ4AGbRelw\nGame Basics: https://breakerswiki.github.io\n"
     },
     {
       "gameid": "brkrevext",
@@ -1263,7 +1263,7 @@
     },
     {
       "gameid": "flycast_mvsc2",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\nEU Discord: https://discord.gg/pT3JfN2N8e\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/Marvel_vs_Capcom_2\nDiscord: https://discord.com/invite/78xYqBDYWG\nSpanish server: https://discord.com/invite/NHShB2X\nEU Discord: https://discord.gg/pT3JfN2N8e\n\n\nFor common issues, check out the Flycast Dojo FAQ: https://dojo-project.gitbook.io/flycast-dojo/overview/frequently-asked-questions\n\nExperiencing dropped inputs? Fix it with this: https://www.youtube.com/watch?v=MnAlYVtbYBA\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNiVzYhGbgDFyzDcfHhbzge\n"
     },
     {
       "gameid": "captre",
@@ -1404,6 +1404,10 @@
     {
       "gameid": "cairblad",
       "motd": "Discord: https://discord.gg/adMXdn4YEr\n"
+    },
+    {
+      "gameid": "tattass",
+      "motd": "Wiki: https://wiki.gbl.gg/w/Tattoo_Assassins\n"
     }
   ]
 }
