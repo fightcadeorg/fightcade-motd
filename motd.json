@@ -131,7 +131,7 @@
     },
     {
       "gameid": "umk3",
-      "motd": "Game Resources: https://wiki.supercombo.gg/w/Ultimate_Mortal_Kombat_3\nStrategy Guides (Spanish): https://mortalkombatlatino.wordpress.com/\n"
+      "motd": "Game Resources: https://wiki.supercombo.gg/w/Ultimate_Mortal_Kombat_3\nStrategy Guides (Spanish): https://mortalkombatlatino.wordpress.com/\nGu\u00edas De Estrategias: https://www.youtube.com/marianogonzalez89\n"
     },
     {
       "gameid": "sftm",
@@ -223,7 +223,7 @@
     },
     {
       "gameid": "samsho2pe",
-      "motd": "*Latest version: 2.3 (2024-09-07)*\n"
+      "motd": "*Latest version: 2.4 (2025-01-27)*\n"
     },
     {
       "gameid": "samsho3",
@@ -1408,6 +1408,11 @@
     {
       "gameid": "tattass",
       "motd": "Wiki: https://wiki.gbl.gg/w/Tattoo_Assassins\n"
+    },
+
+    {
+      "gameid": "flycast_dc_mkg",
+      "motd": "MK4/Gold Gameplay Guide: https://youtu.be/NyxL3MMAI74\n"
     }
   ]
 }
