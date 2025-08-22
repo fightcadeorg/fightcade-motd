@@ -51,7 +51,7 @@
     },
     {
       "gameid": "sfiii3nr1",
-      "motd": "Discord: https://discord.gg/8hWg5GF\nBrazilian Discord: https://discord.io/Instituto-Masters\nColombian Discord: https://discord.gg/RhpzGyMzsJ\nRussian and CIS Community: https://discord.gg/hSrMGTUtUG\nChilean Discord: https://discord.gg/KKCNGhFdsw\nOceanic Discord: https://discord.gg/kgbwZxhNy8\nDR Discord: https://discord.gg/8fhbUzTWzG\nTelegram: https://sfiii3.t.me/\nTraining Mode: https://github.com/Grouflon/3rd_training_lua\nGame Resources: https://wiki.supercombo.gg/w/Street_Fighter_3:_3rd_Strike\n"
+      "motd": "Discord: https://discord.gg/8hWg5GF\nBrazilian Community: https://linktr.ee/bluewolves3rd\nColombian Discord: https://discord.gg/RhpzGyMzsJ\nRussian and CIS Community: https://discord.gg/hSrMGTUtUG\nChilean Discord: https://discord.gg/KKCNGhFdsw\nOceanic Discord: https://discord.gg/kgbwZxhNy8\nDR Discord: https://discord.gg/8fhbUzTWzG\nTelegram: https://sfiii3.t.me/\nTraining Mode: https://github.com/Grouflon/3rd_training_lua\nGame Resources: https://wiki.supercombo.gg/w/Street_Fighter_3:_3rd_Strike\n"
     },
     {
       "gameid": "sfiiibh",
@@ -1412,6 +1412,10 @@
     {
       "gameid": "flycast_dc_mkg",
       "motd": "MK4/Gold Gameplay Guide: https://youtu.be/NyxL3MMAI74\n"
+    },
+    {
+      "gameid": "flycast_vtennis",
+      "motd": "New Discord: https://discord.gg/ypwNFfjM7A\n"
     }
   ]
 }
