@@ -51,7 +51,7 @@
     },
     {
       "gameid": "sfiii3nr1",
-      "motd": "Discord: https://discord.gg/8hWg5GF\nBrazilian Community: https://linktr.ee/bluewolves3rd\nColombian Discord: https://discord.gg/RhpzGyMzsJ\nRussian and CIS Community: https://discord.gg/hSrMGTUtUG\nChilean Discord: https://discord.gg/KKCNGhFdsw\nOceanic Discord: https://discord.gg/kgbwZxhNy8\nDominican Discord: https://discord.gg/5zDy854DVT\nFilipino Discord: https://discord.gg/Ru6gpKSDBf\nMexican Discord: https://discord.gg/VZyENrNJBV\nARG + Latam Discord: https://discord.gg/g99AXkfgTp\nTelegram: https://sfiii3.t.me/\nTraining Mode: https://github.com/Grouflon/3rd_training_lua\nGame Resources: https://wiki.supercombo.gg/w/Street_Fighter_3:_3rd_Strike\n"
+      "motd": "Discord: https://discord.gg/8hWg5GF\nBrazilian Community: https://linktr.ee/bluewolves3rd\nColombian Discord: https://discord.gg/RhpzGyMzsJ\nRussian and CIS Community: https://discord.gg/hSrMGTUtUG\nChilean Discord: https://discord.gg/KKCNGhFdsw\nOceanic Discord: https://discord.gg/kgbwZxhNy8\nDominican Discord: https://discord.gg/5zDy854DVT\nFilipino Discord: https://discord.gg/Ru6gpKSDBf\nMexican Discord: https://discord.gg/VZyENrNJBV\nARG + Latam Discord: https://discord.gg/g99AXkfgTp\n[PPG]Comunidad Argentina: https://discord.gg/TXP2bJGR2u\nTelegram: https://sfiii3.t.me/\nTraining Mode: https://github.com/Grouflon/3rd_training_lua\nGame Resources: https://wiki.supercombo.gg/w/Street_Fighter_3:_3rd_Strike\n"
     },
     {
       "gameid": "sfiiibh",
@@ -635,7 +635,7 @@
     },
     {
       "gameid": "sf2ce",
-      "motd": "Discord Peru: https://discord.gg/ShGmjmfhAh\nSF2CE Dojo Discord: https://discord.gg/Fdvnh385GM\nComunidad Fighter Latino sf2: https://www.facebook.com/Errenoob\nComunidad Retromancos: https://www.facebook.com/retromancos\nARG + Latam Discord: https://discord.gg/g99AXkfgTp\nYouTube Fighter Latino: https://youtube.com/@fighterlatinos\nYouTube Retromancos: https://www.youtube.com/channel/UC84wAqkNFKIlQA9UWLq0XOw\nTraining mode: https://www.youtube.com/watch?v=yRxIDOZjGyU\nWiki: https://wiki.supercombo.gg/w/Street_Fighter_2:_Champion_Edition\n"
+      "motd": "Discord Peru: https://discord.gg/ShGmjmfhAh\nSF2CE Dojo Discord: https://discord.gg/Fdvnh385GM\nComunidad Fighter Latino sf2: https://www.facebook.com/Errenoob\nComunidad Retromancos: https://www.facebook.com/retromancos\nARG + Latam Discord: https://discord.gg/g99AXkfgTp\nYouTube Fighter Latino: https://youtube.com/@fighterlatinos\nYouTube Retromancos: https://www.youtube.com/channel/UC84wAqkNFKIlQA9UWLq0XOw\nTraining mode: https://www.youtube.com/watch?v=yRxIDOZjGyU\nMove List Showcase: https://www.youtube.com/watch?v=E897sTESGn8\nWiki: https://wiki.supercombo.gg/w/Street_Fighter_2:_Champion_Edition\n"
     },
     {
       "gameid": "sf2hf",
@@ -1444,6 +1444,10 @@
     {
       "gameid": "sf2",
       "motd": "Move List Showcase: https://www.youtube.com/watch?v=lqsf_6SOYwU\n"
+    },
+    {
+      "gameid": "md_jleague",
+      "motd": "Move List Showcase: https://youtu.be/nD055-LGX0o\n"
     }
   ]
 }
